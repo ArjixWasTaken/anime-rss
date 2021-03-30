@@ -1,0 +1,43 @@
+name: Generate new all_anime.json
+
+on:
+  push:
+  schedule:
+    - cron: */10 * * * *
+
+jobs:
+  build:
+    name: Run
+
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: [3.8]
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v2
+      with:
+        python-version: ${{ matrix.python-version }}
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        python -m pip -r requirement.txt
+    - name: Generate list
+      run: |
+        python generate.py
+    - uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        # Optional but recommended
+        # Defaults to "Apply automatic changes"
+        commit_message: Apply automatic changes
+
+        file_pattern: ./*.xml
+
+        # Optional local file path to the repository
+        # Defaults to the root of the repository
+        repository: .
+
+        # Optional: Skip internal call to `git fetch`
+        skip_fetch: true
