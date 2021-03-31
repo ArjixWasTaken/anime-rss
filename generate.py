@@ -26,7 +26,7 @@ def get_latest_by_type(type=1):
     response = requests.get(
         'https://ajax.gogo-load.com/ajax/page-recent-release.html', headers=headers, params=params).text
 
-    regex = r"<li>.*\n.*\n.*<a href=[\"'](?P<href>.*?-episode-(?P<episode>\d+))[\"'] title=[\"'](?P<title>.*?)[\"']"
+    regex = r"<li>\s*\n.*\n.*<a\s*href=[\"'](?P<href>.*?-episode-(?P<episode>\d+))[\"']\s*title=[\"'](?P<title>.*?)[\"']"
     matches = list(re.findall(regex, response, re.MULTILINE))
     return matches
 
