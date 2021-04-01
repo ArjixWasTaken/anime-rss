@@ -30,7 +30,7 @@ def generate_rss():
     <link>{}</link>
     <description>{}</description>
 </item>
-""".format(f"{item[1]} - Episode {item[2]}", "https://genoanime.com" + item[0][1:], f"Episode <strong>{item[2]}</strong> of <em>{item[1]}</em> is out!")
+""".format(f"{item[1]} - Episode {item[2]}", "https://genoanime.com" + item[0][1:], f"Episode {item[2]} of {item[1]} is out!")
 
     rss += '\n</channel>\n</rss>'
     return rss
