@@ -25,7 +25,7 @@ def generate_rss():
 
 <channel>
 <title>AnimePahe - RSS Feed</title>
-<link>https://github.com/ArjixGamer/gogoanime-rss</link>
+<link>https://github.com/ArjixGamer/anime-rss</link>
 <description>A simple RSS feed for animepahe!</description>
 """
 
