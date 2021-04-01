@@ -63,7 +63,7 @@ types = {
 }
 
 for type_ in types:
-    filename = f'gogoanime-rss-{type_}.xml'
+    filename = f'./gogoanime/gogoanime-rss-{type_}.xml'
     if os.path.exists(filename):
         os.remove(filename)
     with open(filename, 'w') as f:
