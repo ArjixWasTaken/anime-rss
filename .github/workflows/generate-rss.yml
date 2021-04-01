@@ -26,9 +26,13 @@ jobs:
         python -m pip install --upgrade pip
         python -m pip install -r requirements.txt
 
-    - name: Generate list (GogoAnime)
+    - name: Generate rss (GogoAnime)
       run: |
         python ./gogoanime/generate.py
+
+    - name: Generate rss (AnimePahe)
+      run: |
+        python ./animepahe/generate.py
 
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
