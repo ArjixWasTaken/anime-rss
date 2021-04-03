@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>Boku no Hero Academia 5th Season - Episode 2</title>
+    <link>https://genoanime.com/details?id=8675&episode=2</link>
+    <description>Episode 2 of Boku no Hero Academia 5th Season is out!</description>
+</item>
+
+<item>
     <title>Porong Porong Pororo 3 (Dub) - Episode 52</title>
     <link>https://genoanime.com/details?id=8721&episode=52</link>
     <description>Episode 52 of Porong Porong Pororo 3 (Dub) is out!</description>
@@ -118,12 +124,6 @@
     <title>Chokotto Anime Kemono Friends 3 - Episode 24</title>
     <link>https://genoanime.com/details?id=7868&episode=24</link>
     <description>Episode 24 of Chokotto Anime Kemono Friends 3 is out!</description>
-</item>
-
-<item>
-    <title>Majo no Tabitabi (Dub) - Episode 11</title>
-    <link>https://genoanime.com/details?id=6562&episode=11</link>
-    <description>Episode 11 of Majo no Tabitabi (Dub) is out!</description>
 </item>
 
 </channel>
