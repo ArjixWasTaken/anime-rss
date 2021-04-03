@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>Cardfight!! Vanguard: overDress - Episode 1</title>
+    <link>https://genoanime.com/details?id=8718&episode=1</link>
+    <description>Episode 1 of Cardfight!! Vanguard: overDress is out!</description>
+</item>
+
+<item>
     <title>Kumo Desu ga, Nani ka? (Dub) - Episode 7</title>
     <link>https://genoanime.com/details?id=8470&episode=7</link>
     <description>Episode 7 of Kumo Desu ga, Nani ka? (Dub) is out!</description>
@@ -118,12 +124,6 @@
     <title>Mewkledreamy - Episode 45</title>
     <link>https://genoanime.com/details?id=8000&episode=45</link>
     <description>Episode 45 of Mewkledreamy is out!</description>
-</item>
-
-<item>
-    <title>Isekai Quartet 2nd Season (Dub) - Episode 12</title>
-    <link>https://genoanime.com/details?id=6265&episode=12</link>
-    <description>Episode 12 of Isekai Quartet 2nd Season (Dub) is out!</description>
 </item>
 
 </channel>
