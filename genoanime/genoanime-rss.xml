@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>Horimiya - Episode 13</title>
+    <link>https://genoanime.com/details?id=8173&episode=13</link>
+    <description>Episode 13 of Horimiya is out!</description>
+</item>
+
+<item>
     <title>Thunderbolt Fantasy Sword Seekers 3 - Episode 1</title>
     <link>https://genoanime.com/details?id=8722&episode=1</link>
     <description>Episode 1 of Thunderbolt Fantasy Sword Seekers 3 is out!</description>
@@ -118,12 +124,6 @@
     <title>Record of Lodoss War: Chronicles of the Heroic Knight (Dub) - Episode 27</title>
     <link>https://genoanime.com/details?id=4051&episode=27</link>
     <description>Episode 27 of Record of Lodoss War: Chronicles of the Heroic Knight (Dub) is out!</description>
-</item>
-
-<item>
-    <title>SSSS.Dynazenon - Episode 1</title>
-    <link>https://genoanime.com/details?id=8715&episode=1</link>
-    <description>Episode 1 of SSSS.Dynazenon is out!</description>
 </item>
 
 </channel>
