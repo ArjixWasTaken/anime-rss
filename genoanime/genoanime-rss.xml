@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>K-On!: Live House! - Episode 1</title>
+    <link>https://genoanime.com/details?id=8744&episode=1</link>
+    <description>Episode 1 of K-On!: Live House! is out!</description>
+</item>
+
+<item>
     <title>Legend of Regios - Episode 3</title>
     <link>https://genoanime.com/details?id=8743&episode=3</link>
     <description>Episode 3 of Legend of Regios is out!</description>
@@ -118,12 +124,6 @@
     <title>Xiong Chumo Zhi: Xiongxiong Leyuan (Dub) - Episode 52</title>
     <link>https://genoanime.com/details?id=8734&episode=52</link>
     <description>Episode 52 of Xiong Chumo Zhi: Xiongxiong Leyuan (Dub) is out!</description>
-</item>
-
-<item>
-    <title>Domestic na Kanojo - Episode 12</title>
-    <link>https://genoanime.com/details?id=8733&episode=12</link>
-    <description>Episode 12 of Domestic na Kanojo is out!</description>
 </item>
 
 </channel>
