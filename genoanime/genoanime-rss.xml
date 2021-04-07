@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>Super Cub - Episode 1</title>
+    <link>https://genoanime.com/details?id=8755&episode=1</link>
+    <description>Episode 1 of Super Cub is out!</description>
+</item>
+
+<item>
     <title>Kuma Kuma Kuma Bear (Dub) - Episode 10</title>
     <link>https://genoanime.com/details?id=8365&episode=10</link>
     <description>Episode 10 of Kuma Kuma Kuma Bear (Dub) is out!</description>
@@ -97,12 +103,6 @@
 </item>
 
 <item>
-    <title>K-On!: Live House! - Episode 1</title>
-    <link>https://genoanime.com/details?id=8744&episode=1</link>
-    <description>Episode 1 of K-On!: Live House! is out!</description>
-</item>
-
-<item>
     <title>Legend of Regios - Episode 3</title>
     <link>https://genoanime.com/details?id=8743&episode=3</link>
     <description>Episode 3 of Legend of Regios is out!</description>
@@ -112,12 +112,6 @@
     <title>Doraemon Movie 39: Nobita no Getsumen Tansaki - Episode 1</title>
     <link>https://genoanime.com/details?id=8742&episode=1</link>
     <description>Episode 1 of Doraemon Movie 39: Nobita no Getsumen Tansaki is out!</description>
-</item>
-
-<item>
-    <title>Full Moon wo Sagashite (Dub) - Episode 28</title>
-    <link>https://genoanime.com/details?id=8741&episode=25</link>
-    <description>Episode 28 of Full Moon wo Sagashite (Dub) is out!</description>
 </item>
 
 </channel>
