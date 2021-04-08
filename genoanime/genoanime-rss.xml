@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>Zombieland Saga: Revenge - Episode 1</title>
+    <link>https://genoanime.com/details?id=8760&episode=1</link>
+    <description>Episode 1 of Zombieland Saga: Revenge is out!</description>
+</item>
+
+<item>
     <title>Fairy Ranmaru: Anata no Kokoro Otasuke Shimasu - Episode 1</title>
     <link>https://genoanime.com/details?id=8759&episode=1</link>
     <description>Episode 1 of Fairy Ranmaru: Anata no Kokoro Otasuke Shimasu is out!</description>
@@ -112,12 +118,6 @@
     <title>Bungou Stray Dogs Wan! (Dub) - Episode 7</title>
     <link>https://genoanime.com/details?id=8495&episode=7</link>
     <description>Episode 7 of Bungou Stray Dogs Wan! (Dub) is out!</description>
-</item>
-
-<item>
-    <title>Avatar: The Last Airbender: Book 3 - Fire - Episode 21</title>
-    <link>https://genoanime.com/details?id=8749&episode=21</link>
-    <description>Episode 21 of Avatar: The Last Airbender: Book 3 - Fire is out!</description>
 </item>
 
 </channel>
