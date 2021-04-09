@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>SSSS.Dynazenon - Episode 2</title>
+    <link>https://genoanime.com/details?id=8715&episode=2</link>
+    <description>Episode 2 of SSSS.Dynazenon is out!</description>
+</item>
+
+<item>
     <title>Porong Porong Pororo 6 (Dub) - Episode 26</title>
     <link>https://genoanime.com/details?id=8771&episode=26</link>
     <description>Episode 26 of Porong Porong Pororo 6 (Dub) is out!</description>
@@ -37,12 +43,6 @@
 </item>
 
 <item>
-    <title>Porong Porong Pororo 1 (Dub) - Episode 52</title>
-    <link>https://genoanime.com/details?id=8767&episode=52</link>
-    <description>Episode 52 of Porong Porong Pororo 1 (Dub) is out!</description>
-</item>
-
-<item>
     <title>Shouxi Yu Ling Shi 2nd Season - Episode 14</title>
     <link>https://genoanime.com/details?id=8578&episode=14</link>
     <description>Episode 14 of Shouxi Yu Ling Shi 2nd Season is out!</description>
@@ -67,9 +67,9 @@
 </item>
 
 <item>
-    <title>Valkyrie Drive: Mermaid Specials (Dub) - Episode 6</title>
-    <link>https://genoanime.com/details?id=8764&episode=6</link>
-    <description>Episode 6 of Valkyrie Drive: Mermaid Specials (Dub) is out!</description>
+    <title>Mashin Eiyuuden Wataru: Shichikon no Ryuujinmaru - Episode 9</title>
+    <link>https://genoanime.com/details?id=8763&episode=9</link>
+    <description>Episode 9 of Mashin Eiyuuden Wataru: Shichikon no Ryuujinmaru is out!</description>
 </item>
 
 <item>
@@ -112,12 +112,6 @@
     <title>Zombieland Saga: Revenge - Episode 1</title>
     <link>https://genoanime.com/details?id=8760&episode=1</link>
     <description>Episode 1 of Zombieland Saga: Revenge is out!</description>
-</item>
-
-<item>
-    <title>Fairy Ranmaru: Anata no Kokoro Otasuke Shimasu - Episode 1</title>
-    <link>https://genoanime.com/details?id=8759&episode=1</link>
-    <description>Episode 1 of Fairy Ranmaru: Anata no Kokoro Otasuke Shimasu is out!</description>
 </item>
 
 </channel>
