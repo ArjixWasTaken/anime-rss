@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Bishounen Tanteidan - Episode 1</title>
+    <link>https://animepahe.com/play/41249d2d-0b66-eba6-4919-d797a6706f77/3b1b0ce42bb43bda4e444fe22a39743d5e62d66be81200c246dbe8de3aacc042</link>
+    <description>Episode 1 of Bishounen Tanteidan is out!</description>
+</item>
+
+<item>
     <title>Shadows House - Episode 1</title>
     <link>https://animepahe.com/play/81f31f4c-b311-d656-3b44-f0a038e80eb0/8fc58b807da99227a12a69c6bc7a776e341f4007c98aaea757e8491abb4e33ad</link>
     <description>Episode 1 of Shadows House is out!</description>
@@ -70,12 +76,6 @@
     <title>Mashiro no Oto - Episode 2</title>
     <link>https://animepahe.com/play/fd39c198-81d7-4c0e-64c7-b7dc1a87633d/d74df50681d9d525e9e44109c1b54c6b3533145bbd6e0be265017864a297deea</link>
     <description>Episode 2 of Mashiro no Oto is out!</description>
-</item>
-
-<item>
-    <title>Shakunetsu Kabaddi - Episode 2</title>
-    <link>https://animepahe.com/play/0c621ad5-1365-8644-f6e2-bfbd53f96eb3/558cab315b1ffa95739c761a6f0c9bf8adb77b525bc03ff59831e25736749fa1</link>
-    <description>Episode 2 of Shakunetsu Kabaddi is out!</description>
 </item>
 
 </channel>
