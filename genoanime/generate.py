@@ -5,7 +5,7 @@ import os
 
 def get_latest():
     link = 'https://genoanime.com/'
-    regex = r"<ul>\s*\n<li>.*<\/li><\/ul>\s*\n<h5><a\s+href=[\"'](?P<link>.*?)[\"']>(?P<title>.*?)\s+Episode\s+(?P<episode>\d+)<\/a><\/h5>"
+    regex = r"<ul>\n.*<\/ul>\n\s+<h5><a\s+href=[\"'](?P<link>.*?)[\"']>(?P<title>.*?)\s+Episode\s+(?P<episode>\d+)<\/a><\/h5>"
 
     response = requests.get(link).text
 
