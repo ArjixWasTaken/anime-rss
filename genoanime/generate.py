@@ -1,15 +1,27 @@
 import requests
 import re
 import os
+from bs4 import BeautifulSoup
 
 
 def get_latest():
     link = 'https://genoanime.com/'
-    regex = r"<ul>\s*\n<li>.*<\/li><\/ul>\s*\n<h5><a\s+href=[\"'](?P<link>.*?)[\"']>(?P<title>.*?)\s+Episode\s+(?P<episode>\d+)<\/a><\/h5>"
+    # regex = r"<ul>\s*\n<li>.*<\/li><\/ul>\s*\n<h5><a\s+href=[\"'](?P<link>.*?)[\"']>(?P<title>.*?)\s+Episode\s+(?P<episode>\d+)<\/a><\/h5>"
 
     response = requests.get(link).text
+    soup = BeautifulSoup(response, 'html.parser')
 
-    return list(re.findall(regex, response))
+    row = soup.select_one('#container > section.product.spad > div > div > div > div > div:nth-child(4)')
+
+    h5s = row.select('.product__item__text > h5')
+
+    return [
+        [
+            x.find('a')['href'],
+            *re.findall(r"(.*?)\sEpisode\s(\d+)", x.text)[0]
+        ]
+        for x in h5s
+    ]  # noqa
 
 
 def generate_rss():
