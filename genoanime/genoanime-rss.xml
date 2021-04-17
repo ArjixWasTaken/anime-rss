@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>Anime Sanjuushi - Episode 32</title>
+    <link>https://genoanime.com/details?id=8850&episode=32</link>
+    <description>Episode 32 of Anime Sanjuushi is out!</description>
+</item>
+
+<item>
     <title>Douluo Dalu 2nd Season - Episode 126</title>
     <link>https://genoanime.com/details?id=8033&episode=126</link>
     <description>Episode 126 of Douluo Dalu 2nd Season is out!</description>
@@ -118,12 +124,6 @@
     <title>Ore dake Haireru Kakushi Dungeon (Dub) - Episode 8</title>
     <link>https://genoanime.com/details?id=8511&episode=8</link>
     <description>Episode 8 of Ore dake Haireru Kakushi Dungeon (Dub) is out!</description>
-</item>
-
-<item>
-    <title>SSSS.Dynazenon - Episode 3</title>
-    <link>https://genoanime.com/details?id=8715&episode=3</link>
-    <description>Episode 3 of SSSS.Dynazenon is out!</description>
 </item>
 
 </channel>
