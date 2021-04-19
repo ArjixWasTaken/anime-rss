@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>Fumetsu no Anata e - Episode 2</title>
+    <link>https://genoanime.com/details?id=8810&episode=2</link>
+    <description>Episode 2 of Fumetsu no Anata e is out!</description>
+</item>
+
+<item>
     <title>Itazuraguma no Gloomy - Episode 2</title>
     <link>https://genoanime.com/details?id=8811&episode=2</link>
     <description>Episode 2 of Itazuraguma no Gloomy is out!</description>
@@ -118,12 +124,6 @@
     <title>Dragon, Ie wo Kau. - Episode 3</title>
     <link>https://genoanime.com/details?id=8728&episode=3</link>
     <description>Episode 3 of Dragon, Ie wo Kau. is out!</description>
-</item>
-
-<item>
-    <title>Tokyo Revengers - Episode 2</title>
-    <link>https://genoanime.com/details?id=8702&episode=3</link>
-    <description>Episode 2 of Tokyo Revengers is out!</description>
 </item>
 
 </channel>
