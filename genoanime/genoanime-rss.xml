@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>Panda-Z: The Robonimation - Episode 30</title>
+    <link>https://genoanime.com/details?id=8859&episode=30</link>
+    <description>Episode 30 of Panda-Z: The Robonimation is out!</description>
+</item>
+
+<item>
     <title>Fuyu no Semi - Episode 3</title>
     <link>https://genoanime.com/details?id=8858&episode=3</link>
     <description>Episode 3 of Fuyu no Semi is out!</description>
@@ -118,12 +124,6 @@
     <title>Shingeki no Kyojin: The Final Season (Dub) - Episode 14</title>
     <link>https://genoanime.com/details?id=8345&episode=14</link>
     <description>Episode 14 of Shingeki no Kyojin: The Final Season (Dub) is out!</description>
-</item>
-
-<item>
-    <title>Digimon Adventure (2020) - Episode 44</title>
-    <link>https://genoanime.com/details?id=8047&episode=44</link>
-    <description>Episode 44 of Digimon Adventure (2020) is out!</description>
 </item>
 
 </channel>
