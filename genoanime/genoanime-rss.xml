@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>Fruits Basket: The Final - Episode 3</title>
+    <link>https://genoanime.com/details?id=8739&episode=3</link>
+    <description>Episode 3 of Fruits Basket: The Final is out!</description>
+</item>
+
+<item>
     <title>Fumetsu no Anata e - Episode 2</title>
     <link>https://genoanime.com/details?id=8810&episode=2</link>
     <description>Episode 2 of Fumetsu no Anata e is out!</description>
@@ -118,12 +124,6 @@
     <title>Yuukoku no Moriarty 2nd Season - Episode 3</title>
     <link>https://genoanime.com/details?id=8684&episode=3</link>
     <description>Episode 3 of Yuukoku no Moriarty 2nd Season is out!</description>
-</item>
-
-<item>
-    <title>Dragon, Ie wo Kau. - Episode 3</title>
-    <link>https://genoanime.com/details?id=8728&episode=3</link>
-    <description>Episode 3 of Dragon, Ie wo Kau. is out!</description>
 </item>
 
 </channel>
