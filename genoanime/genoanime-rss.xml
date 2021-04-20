@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>Planetarian: Snow Globe - Episode 1</title>
+    <link>https://genoanime.com/details?id=8873&episode=1</link>
+    <description>Episode 1 of Planetarian: Snow Globe is out!</description>
+</item>
+
+<item>
     <title>Death Billiards - Episode 1</title>
     <link>https://genoanime.com/details?id=8872&episode=1</link>
     <description>Episode 1 of Death Billiards is out!</description>
@@ -118,12 +124,6 @@
     <title>Avatar: The Last Airbender: Book 1 - Water (Dub) - Episode 20</title>
     <link>https://genoanime.com/details?id=8860&episode=20</link>
     <description>Episode 20 of Avatar: The Last Airbender: Book 1 - Water (Dub) is out!</description>
-</item>
-
-<item>
-    <title>Fruits Basket: The Final (Dub) - Episode 3</title>
-    <link>https://genoanime.com/details?id=8635&episode=3</link>
-    <description>Episode 3 of Fruits Basket: The Final (Dub) is out!</description>
 </item>
 
 </channel>
