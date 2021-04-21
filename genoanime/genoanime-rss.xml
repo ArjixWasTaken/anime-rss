@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>Suzumiya Haruhi-chan no Yuuutsu - Episode 25</title>
+    <link>https://genoanime.com/details?id=8874&episode=25</link>
+    <description>Episode 25 of Suzumiya Haruhi-chan no Yuuutsu is out!</description>
+</item>
+
+<item>
     <title>Wan Jie Qi Yuan - Episode 36</title>
     <link>https://genoanime.com/details?id=8501&episode=33</link>
     <description>Episode 36 of Wan Jie Qi Yuan is out!</description>
@@ -118,12 +124,6 @@
     <title>Horimiya (Dub) - Episode 10</title>
     <link>https://genoanime.com/details?id=8428&episode=10</link>
     <description>Episode 10 of Horimiya (Dub) is out!</description>
-</item>
-
-<item>
-    <title>Static Shock (Dub) - Episode 52</title>
-    <link>https://genoanime.com/details?id=8866&episode=52</link>
-    <description>Episode 52 of Static Shock (Dub) is out!</description>
 </item>
 
 </channel>
