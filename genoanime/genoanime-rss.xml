@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>SD Gundam World Heroes - Episode 3</title>
+    <link>https://genoanime.com/details?id=8757&episode=3</link>
+    <description>Episode 3 of SD Gundam World Heroes is out!</description>
+</item>
+
+<item>
     <title>Ying Xiong Bie Nao - Episode 12</title>
     <link>https://genoanime.com/details?id=8878&episode=12</link>
     <description>Episode 12 of Ying Xiong Bie Nao is out!</description>
@@ -118,12 +124,6 @@
     <title>Mini Dragon - Episode 3</title>
     <link>https://genoanime.com/details?id=8765&episode=3</link>
     <description>Episode 3 of Mini Dragon is out!</description>
-</item>
-
-<item>
-    <title>Motto! Majime ni Fumajime Kaiketsu Zorori - Episode 27</title>
-    <link>https://genoanime.com/details?id=7901&episode=27</link>
-    <description>Episode 27 of Motto! Majime ni Fumajime Kaiketsu Zorori is out!</description>
 </item>
 
 </channel>
