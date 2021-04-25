@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>Noragami OVA - Episode 2</title>
+    <link>https://genoanime.com/details?id=8893&episode=2</link>
+    <description>Episode 2 of Noragami OVA is out!</description>
+</item>
+
+<item>
     <title>Jackie Chan Adventures Season 05 (Dub) - Episode 13</title>
     <link>https://genoanime.com/details?id=8892&episode=13</link>
     <description>Episode 13 of Jackie Chan Adventures Season 05 (Dub) is out!</description>
@@ -118,12 +124,6 @@
     <title>Thunderbolt Fantasy Sword Seekers 3 - Episode 4</title>
     <link>https://genoanime.com/details?id=8722&episode=4</link>
     <description>Episode 4 of Thunderbolt Fantasy Sword Seekers 3 is out!</description>
-</item>
-
-<item>
-    <title>Detective Conan - Episode 1003</title>
-    <link>https://genoanime.com/details?id=8035&episode=1001</link>
-    <description>Episode 1003 of Detective Conan is out!</description>
 </item>
 
 </channel>
