@@ -62,9 +62,13 @@ types = {
     'chinese': 3
 }
 
-for type_ in types:
-    filename = f'./gogoanime/gogoanime-rss-{type_}.xml'
-    if os.path.exists(filename):
-        os.remove(filename)
-    with open(filename, 'w') as f:
-        f.write(generate_rss_by_type(types[type_]).strip())
+
+try:
+    for type_ in types:
+        filename = f'./gogoanime/gogoanime-rss-{type_}.xml'
+        if os.path.exists(filename):
+            os.remove(filename)
+        with open(filename, 'w') as f:
+            f.write(generate_rss_by_type(types[type_]).strip())
+except:
+    print('GogoAnime failed.')

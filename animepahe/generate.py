@@ -42,8 +42,11 @@ def generate_rss():
     return rss
 
 
-filename = f'./animepahe/animepahe-rss.xml'
-if os.path.exists(filename):
-    os.remove(filename)
-with open(filename, 'w') as f:
-    f.write(generate_rss().strip())
+try:
+    filename = f'./animepahe/animepahe-rss.xml'
+    if os.path.exists(filename):
+        os.remove(filename)
+    with open(filename, 'w') as f:
+        f.write(generate_rss().strip())
+except:
+    print('Animepahe failed.')

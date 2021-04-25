@@ -48,8 +48,11 @@ def generate_rss():
     return rss
 
 
-filename = f'./genoanime/genoanime-rss.xml'
-if os.path.exists(filename):
-    os.remove(filename)
-with open(filename, 'w') as f:
-    f.write(generate_rss().strip())
+try:
+    filename = f'./genoanime/genoanime-rss.xml'
+    if os.path.exists(filename):
+        os.remove(filename)
+    with open(filename, 'w') as f:
+        f.write(generate_rss().strip())
+except:
+    print('GenoAnime failed.')
