@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>Red Baron - Episode 39</title>
+    <link>https://genoanime.com/details?id=7911&episode=39</link>
+    <description>Episode 39 of Red Baron is out!</description>
+</item>
+
+<item>
     <title>Kong: The Animated Series (Dub) - Episode 40</title>
     <link>https://genoanime.com/details?id=8902&episode=39</link>
     <description>Episode 40 of Kong: The Animated Series (Dub) is out!</description>
@@ -118,12 +124,6 @@
     <title>Fruits Basket: The Final (Dub) - Episode 4</title>
     <link>https://genoanime.com/details?id=8635&episode=4</link>
     <description>Episode 4 of Fruits Basket: The Final (Dub) is out!</description>
-</item>
-
-<item>
-    <title>Fruits Basket: The Final - Episode 4</title>
-    <link>https://genoanime.com/details?id=8739&episode=4</link>
-    <description>Episode 4 of Fruits Basket: The Final is out!</description>
 </item>
 
 </channel>
