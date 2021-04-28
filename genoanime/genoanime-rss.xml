@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>Himesama Goyoujin - Episode 9</title>
+    <link>https://genoanime.com/details?id=8907&episode=9</link>
+    <description>Episode 9 of Himesama Goyoujin is out!</description>
+</item>
+
+<item>
     <title>Demon Slayer Movie: Infinity Train - Episode 1</title>
     <link>https://genoanime.com/details?id=8906&episode=1</link>
     <description>Episode 1 of Demon Slayer Movie: Infinity Train is out!</description>
@@ -118,12 +124,6 @@
     <title>Plawres Sanshirou - Episode 37</title>
     <link>https://genoanime.com/details?id=8899&episode=37</link>
     <description>Episode 37 of Plawres Sanshirou is out!</description>
-</item>
-
-<item>
-    <title>Ankoku Shindenshou Takegami - Episode 3</title>
-    <link>https://genoanime.com/details?id=8898&episode=3</link>
-    <description>Episode 3 of Ankoku Shindenshou Takegami is out!</description>
 </item>
 
 </channel>
