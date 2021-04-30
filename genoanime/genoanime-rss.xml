@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>Omoi, Omoware, Furi, Furare - Episode 1</title>
+    <link>https://genoanime.com/details?id=8935&episode=1</link>
+    <description>Episode 1 of Omoi, Omoware, Furi, Furare is out!</description>
+</item>
+
+<item>
     <title>Kumo Desu ga, Nani ka? (Dub) - Episode 11</title>
     <link>https://genoanime.com/details?id=8470&episode=11</link>
     <description>Episode 11 of Kumo Desu ga, Nani ka? (Dub) is out!</description>
@@ -118,12 +124,6 @@
     <title>Ore dake Haireru Kakushi Dungeon (Dub) - Episode 10</title>
     <link>https://genoanime.com/details?id=8511&episode=10</link>
     <description>Episode 10 of Ore dake Haireru Kakushi Dungeon (Dub) is out!</description>
-</item>
-
-<item>
-    <title>Higurashi no Naku Koro ni Gou (Dub) - Episode 18</title>
-    <link>https://genoanime.com/details?id=6540&episode=18</link>
-    <description>Episode 18 of Higurashi no Naku Koro ni Gou (Dub) is out!</description>
 </item>
 
 </channel>
