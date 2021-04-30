@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Back Arrow - Episode 17</title>
+    <link>https://animepahe.com/play/47371ff7-317b-8188-2a11-b705048f4666/1eb1a80449c834935369e24c3970db3e081c67e4a6140b0c64fabe52367fc705</link>
+    <description>Episode 17 of Back Arrow is out!</description>
+</item>
+
+<item>
     <title>SSSS.Dynazenon - Episode 5</title>
     <link>https://animepahe.com/play/f4326390-81f0-5e97-678f-b7a3eeadcaf6/7dc34feb76c9b05e146613c06583f5f8b6d25f562da420be3906fa30a1f4b914</link>
     <description>Episode 5 of SSSS.Dynazenon is out!</description>
@@ -70,12 +76,6 @@
     <title>Mardock Scramble: The Second Combustion - Episode 1</title>
     <link>https://animepahe.com/play/176ae220-5863-dd87-73cd-4f0a9308d1f9/34a1f81a3f5d120e946308691f58b0f007d80815dc7b3010a274bcac2e960470</link>
     <description>Episode 1 of Mardock Scramble: The Second Combustion is out!</description>
-</item>
-
-<item>
-    <title>Mardock Scramble: The First Compression - Episode 1</title>
-    <link>https://animepahe.com/play/cae94993-e683-8e5a-b85c-5b8a59100374/ade75fe0f707b060ce53329f4ea631c6b4916e56f31c5644f40eb29f433c6340</link>
-    <description>Episode 1 of Mardock Scramble: The First Compression is out!</description>
 </item>
 
 </channel>
