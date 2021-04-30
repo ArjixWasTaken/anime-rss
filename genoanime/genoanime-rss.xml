@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>Sol levante - Episode 1</title>
+    <link>https://genoanime.com/details?id=8927&episode=1</link>
+    <description>Episode 1 of Sol levante is out!</description>
+</item>
+
+<item>
     <title>5-toubun no Hanayome 2 (Dub) - Episode 6</title>
     <link>https://genoanime.com/details?id=8656&episode=6</link>
     <description>Episode 6 of 5-toubun no Hanayome 2 (Dub) is out!</description>
@@ -118,12 +124,6 @@
     <title>Galaxy Angel Rune - Episode 13</title>
     <link>https://genoanime.com/details?id=8920&episode=13</link>
     <description>Episode 13 of Galaxy Angel Rune is out!</description>
-</item>
-
-<item>
-    <title>Oh! Edo Rocket (Dub) - Episode 26</title>
-    <link>https://genoanime.com/details?id=8919&episode=26</link>
-    <description>Episode 26 of Oh! Edo Rocket (Dub) is out!</description>
 </item>
 
 </channel>
