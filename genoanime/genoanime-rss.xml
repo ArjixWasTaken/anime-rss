@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>Digimon Adventure (2020) - Episode 46</title>
+    <link>https://genoanime.com/details?id=8047&episode=46</link>
+    <description>Episode 46 of Digimon Adventure (2020) is out!</description>
+</item>
+
+<item>
     <title>One Piece - Episode 972</title>
     <link>https://genoanime.com/details?id=8046&episode=972</link>
     <description>Episode 972 of One Piece is out!</description>
@@ -118,12 +124,6 @@
     <title>BlazBlue: Alter Memory (Dub) - Episode 12</title>
     <link>https://genoanime.com/details?id=8942&episode=12</link>
     <description>Episode 12 of BlazBlue: Alter Memory (Dub) is out!</description>
-</item>
-
-<item>
-    <title>Boku no Hero Academia 5th Season - Episode 6</title>
-    <link>https://genoanime.com/details?id=8675&episode=6</link>
-    <description>Episode 6 of Boku no Hero Academia 5th Season is out!</description>
 </item>
 
 </channel>
