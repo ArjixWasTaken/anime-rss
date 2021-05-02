@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>Edens Zero - Episode 4</title>
+    <link>https://genoanime.com/details?id=8703&episode=4</link>
+    <description>Episode 4 of Edens Zero is out!</description>
+</item>
+
+<item>
     <title>Digimon Adventure (2020) - Episode 46</title>
     <link>https://genoanime.com/details?id=8047&episode=46</link>
     <description>Episode 46 of Digimon Adventure (2020) is out!</description>
@@ -118,12 +124,6 @@
     <title>Isekai Maou to Shoukan Shoujo no Dorei Majutsu 2 - Episode 4</title>
     <link>https://genoanime.com/details?id=8769&episode=4</link>
     <description>Episode 4 of Isekai Maou to Shoukan Shoujo no Dorei Majutsu 2 is out!</description>
-</item>
-
-<item>
-    <title>BlazBlue: Alter Memory (Dub) - Episode 12</title>
-    <link>https://genoanime.com/details?id=8942&episode=12</link>
-    <description>Episode 12 of BlazBlue: Alter Memory (Dub) is out!</description>
 </item>
 
 </channel>
