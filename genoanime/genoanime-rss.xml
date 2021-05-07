@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>Rebirth - Episode 42</title>
+    <link>https://genoanime.com/details?id=8006&episode=42</link>
+    <description>Episode 42 of Rebirth is out!</description>
+</item>
+
+<item>
     <title>Shiguang Daili Ren - Episode 3</title>
     <link>https://genoanime.com/details?id=8932&episode=3</link>
     <description>Episode 3 of Shiguang Daili Ren is out!</description>
@@ -118,12 +124,6 @@
     <title>Eikoku Koi Monogatari Emma (Dub) - Episode 12</title>
     <link>https://genoanime.com/details?id=8970&episode=12</link>
     <description>Episode 12 of Eikoku Koi Monogatari Emma (Dub) is out!</description>
-</item>
-
-<item>
-    <title>Hashire! Shiroi Ookami - Episode 1</title>
-    <link>https://genoanime.com/details?id=8968&episode=1</link>
-    <description>Episode 1 of Hashire! Shiroi Ookami is out!</description>
 </item>
 
 </channel>
