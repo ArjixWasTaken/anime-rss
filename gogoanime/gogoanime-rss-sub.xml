@@ -7,6 +7,12 @@
 <description>A simple RSS feed for gogoanime!</description>
 
 <item>
+    <title>Cardfight!! Vanguard: overDress - Episode 5</title>
+    <link>https://gogoanime.vc/cardfight-vanguard-overdress-episode-5</link>
+    <description>Episode 5 of Cardfight!! Vanguard: overDress is out!</description>
+</item>
+
+<item>
     <title>Pokemon (2019) - Episode 65</title>
     <link>https://gogoanime.vc/pokemon-2019-episode-65</link>
     <description>Episode 65 of Pokemon (2019) is out!</description>
@@ -118,12 +124,6 @@
     <title>Gate Keepers 21 - Episode 6</title>
     <link>https://gogoanime.vc/gate-keepers-21-episode-6</link>
     <description>Episode 6 of Gate Keepers 21 is out!</description>
-</item>
-
-<item>
-    <title>Shokupan Mimi - Episode 16</title>
-    <link>https://gogoanime.vc/shokupan-mimi-episode-16</link>
-    <description>Episode 16 of Shokupan Mimi is out!</description>
 </item>
 
 </channel>
