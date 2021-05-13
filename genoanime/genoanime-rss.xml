@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>Higurashi no Naku Koro ni Gou (Dub) - Episode 20</title>
+    <link>https://genoanime.com/details?id=6540&episode=20</link>
+    <description>Episode 20 of Higurashi no Naku Koro ni Gou (Dub) is out!</description>
+</item>
+
+<item>
     <title>Zombieland Saga: Revenge - Episode 6</title>
     <link>https://genoanime.com/details?id=8760&episode=6</link>
     <description>Episode 6 of Zombieland Saga: Revenge is out!</description>
@@ -118,12 +124,6 @@
     <title>Mini Dragon - Episode 6</title>
     <link>https://genoanime.com/details?id=8765&episode=6</link>
     <description>Episode 6 of Mini Dragon is out!</description>
-</item>
-
-<item>
-    <title>Fantastic Voyage - Episode 17</title>
-    <link>https://genoanime.com/details?id=8996&episode=17</link>
-    <description>Episode 17 of Fantastic Voyage is out!</description>
 </item>
 
 </channel>
