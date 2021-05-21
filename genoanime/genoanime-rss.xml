@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>Kuang Shen Mo Zun - Episode 1</title>
+    <link>https://genoanime.com/details?id=9032&episode=1</link>
+    <description>Episode 1 of Kuang Shen Mo Zun is out!</description>
+</item>
+
+<item>
     <title>Castlevania Season 4 - Episode 10</title>
     <link>https://genoanime.com/details?id=9031&episode=10</link>
     <description>Episode 10 of Castlevania Season 4 is out!</description>
@@ -118,12 +124,6 @@
     <title>Ninjala (Dub) - Episode 5</title>
     <link>https://genoanime.com/details?id=9030&episode=5</link>
     <description>Episode 5 of Ninjala (Dub) is out!</description>
-</item>
-
-<item>
-    <title>Mini Dragon - Episode 7</title>
-    <link>https://genoanime.com/details?id=8765&episode=7</link>
-    <description>Episode 7 of Mini Dragon is out!</description>
 </item>
 
 </channel>
