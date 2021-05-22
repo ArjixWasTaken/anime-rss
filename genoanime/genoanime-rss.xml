@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>Tokyo Revengers - Episode 7</title>
+    <link>https://genoanime.com/details?id=8702&episode=8</link>
+    <description>Episode 7 of Tokyo Revengers is out!</description>
+</item>
+
+<item>
     <title>Bishounen Tanteidan - Episode 7</title>
     <link>https://genoanime.com/details?id=8791&episode=7</link>
     <description>Episode 7 of Bishounen Tanteidan is out!</description>
@@ -118,12 +124,6 @@
     <title>Dae Jang Geum: Jang Geum's Dream 2 - Episode 26</title>
     <link>https://genoanime.com/details?id=9036&episode=26</link>
     <description>Episode 26 of Dae Jang Geum: Jang Geum's Dream 2 is out!</description>
-</item>
-
-<item>
-    <title>Dae Jang Geum: Jang Geum's Dream - Episode 26</title>
-    <link>https://genoanime.com/details?id=9035&episode=26</link>
-    <description>Episode 26 of Dae Jang Geum: Jang Geum's Dream is out!</description>
 </item>
 
 </channel>
