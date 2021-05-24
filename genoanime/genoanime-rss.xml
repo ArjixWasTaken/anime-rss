@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>Odd Taxi - Episode 8</title>
+    <link>https://genoanime.com/details?id=8740&episode=8</link>
+    <description>Episode 8 of Odd Taxi is out!</description>
+</item>
+
+<item>
     <title>Super Robot Taisen OG The Animation - Episode 3</title>
     <link>https://genoanime.com/details?id=9044&episode=3</link>
     <description>Episode 3 of Super Robot Taisen OG The Animation is out!</description>
@@ -118,12 +124,6 @@
     <title>Sayonara Watashi no Cramer - Episode 8</title>
     <link>https://genoanime.com/details?id=8730&episode=8</link>
     <description>Episode 8 of Sayonara Watashi no Cramer is out!</description>
-</item>
-
-<item>
-    <title>Nomad: Megalo Box 2 - Episode 8</title>
-    <link>https://genoanime.com/details?id=8727&episode=8</link>
-    <description>Episode 8 of Nomad: Megalo Box 2 is out!</description>
 </item>
 
 </channel>
