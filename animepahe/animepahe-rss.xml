@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Shirobako Movie - Episode 1</title>
+    <link>https://animepahe.com/play/a7e17847-bf23-4c36-ed0a-921415f1d4d5/df0043fec34cc8a882fbea37d730a534210bf3943adb3a540f42e5bf8fc77483</link>
+    <description>Episode 1 of Shirobako Movie is out!</description>
+</item>
+
+<item>
     <title>Odd Taxi - Episode 8</title>
     <link>https://animepahe.com/play/aca69a03-253f-6055-1fee-fe2f5c097b7e/d2b3878587ca1e8ea86d0b85d877ded1d28fad59d31a62719f21ba05d3242351</link>
     <description>Episode 8 of Odd Taxi is out!</description>
@@ -70,12 +76,6 @@
     <title>Seven Knights Revolution: Eiyuu no Keishousha - Episode 8</title>
     <link>https://animepahe.com/play/ec15447a-02bf-ceb1-50ef-4f593f6c4f82/7db8f531093288043a3752f2a9a046f9c3bfcad35198bfba5ea96258c4d4de64</link>
     <description>Episode 8 of Seven Knights Revolution: Eiyuu no Keishousha is out!</description>
-</item>
-
-<item>
-    <title>Sayonara Watashi no Cramer - Episode 8</title>
-    <link>https://animepahe.com/play/4c5e12d4-bd7b-9ae3-ecfe-6f4d815f0c91/7378d3c353694dcd67148a3a4e47d9298ca469329419c2196fb2c7fa0e9d6b5d</link>
-    <description>Episode 8 of Sayonara Watashi no Cramer is out!</description>
 </item>
 
 </channel>
