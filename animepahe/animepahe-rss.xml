@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Eden (ONA) - Episode 4</title>
+    <link>https://animepahe.com/play/128dfcfa-563d-6322-63d7-e97814abfa2f/2153ffcfece5602d7d5ebf152b90981b485fa36426e19f2f2582539647e42ba4</link>
+    <description>Episode 4 of Eden (ONA) is out!</description>
+</item>
+
+<item>
     <title>SSSS.Dynazenon - Episode 9</title>
     <link>https://animepahe.com/play/b92e9155-eb48-6d16-6cc6-4e3b432aa3cf/503a0855840eee1378c310612971c37aa36bfa02b0b49440061e1275cf55f460</link>
     <description>Episode 9 of SSSS.Dynazenon is out!</description>
@@ -70,12 +76,6 @@
     <title>Maiko-san Chi no Makanai-san - Episode 4</title>
     <link>https://animepahe.com/play/d583dbbf-aef2-93ae-9318-1d515c528b2e/0a7dfe98d405ab8600e6f26ae3f82607624d6261b411ff660bed96b0961f232d</link>
     <description>Episode 4 of Maiko-san Chi no Makanai-san is out!</description>
-</item>
-
-<item>
-    <title>Shaman King (2021) - Episode 8</title>
-    <link>https://animepahe.com/play/87521b36-51ee-21b8-1a5f-1d5190244d55/bbf390c8ca79b3db61a0319f267005fa673403fd6aa75d349683cb390a322b9f</link>
-    <description>Episode 8 of Shaman King (2021) is out!</description>
 </item>
 
 </channel>

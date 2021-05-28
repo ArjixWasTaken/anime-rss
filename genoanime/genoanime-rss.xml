@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>D4DJ Petit Mix - Episode 13</title>
+    <link>https://genoanime.com/details?id=8420&episode=13</link>
+    <description>Episode 13 of D4DJ Petit Mix is out!</description>
+</item>
+
+<item>
     <title>SSSS.Dynazenon - Episode 9</title>
     <link>https://genoanime.com/details?id=8715&episode=9</link>
     <description>Episode 9 of SSSS.Dynazenon is out!</description>
@@ -118,12 +124,6 @@
     <title>Tenchi Muyou! Ryououki 5th Season - Episode 6</title>
     <link>https://genoanime.com/details?id=8023&episode=6</link>
     <description>Episode 6 of Tenchi Muyou! Ryououki 5th Season is out!</description>
-</item>
-
-<item>
-    <title>Higurashi no Naku Koro ni Gou (Dub) - Episode 21</title>
-    <link>https://genoanime.com/details?id=6540&episode=21</link>
-    <description>Episode 21 of Higurashi no Naku Koro ni Gou (Dub) is out!</description>
 </item>
 
 </channel>
