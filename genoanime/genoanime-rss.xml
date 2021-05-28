@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>SSSS.Dynazenon - Episode 9</title>
+    <link>https://genoanime.com/details?id=8715&episode=9</link>
+    <description>Episode 9 of SSSS.Dynazenon is out!</description>
+</item>
+
+<item>
     <title>Artiswitch - Episode 1</title>
     <link>https://genoanime.com/details?id=9066&episode=1</link>
     <description>Episode 1 of Artiswitch is out!</description>
@@ -118,12 +124,6 @@
     <title>Higurashi no Naku Koro ni Gou (Dub) - Episode 21</title>
     <link>https://genoanime.com/details?id=6540&episode=21</link>
     <description>Episode 21 of Higurashi no Naku Koro ni Gou (Dub) is out!</description>
-</item>
-
-<item>
-    <title>Beyblade Burst Dynamite Battle - Episode 9</title>
-    <link>https://genoanime.com/details?id=8820&episode=9</link>
-    <description>Episode 9 of Beyblade Burst Dynamite Battle is out!</description>
 </item>
 
 </channel>
