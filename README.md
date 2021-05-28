@@ -11,7 +11,7 @@ figure out the rest on ur own
 
 Note:
 
-it auto updates every 10 minutes
+it auto updates every hour
 
 
 
