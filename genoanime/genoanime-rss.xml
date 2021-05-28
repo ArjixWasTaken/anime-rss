@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>Pokemon (2019) - Episode 68</title>
+    <link>https://genoanime.com/details?id=8027&episode=68</link>
+    <description>Episode 68 of Pokemon (2019) is out!</description>
+</item>
+
+<item>
     <title>Yuuki Yuuna wa Yuusha de Aru Churutto! - Episode 8</title>
     <link>https://genoanime.com/details?id=8775&episode=8</link>
     <description>Episode 8 of Yuuki Yuuna wa Yuusha de Aru Churutto! is out!</description>
@@ -118,12 +124,6 @@
     <title>Double Hard - Episode 26</title>
     <link>https://genoanime.com/details?id=9064&episode=26</link>
     <description>Episode 26 of Double Hard is out!</description>
-</item>
-
-<item>
-    <title>Aware! Meisaku-kun - Episode 95</title>
-    <link>https://genoanime.com/details?id=8781&episode=95</link>
-    <description>Episode 95 of Aware! Meisaku-kun is out!</description>
 </item>
 
 </channel>
