@@ -7,6 +7,18 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>Artiswitch - Episode 1</title>
+    <link>https://genoanime.com/details?id=9066&episode=1</link>
+    <description>Episode 1 of Artiswitch is out!</description>
+</item>
+
+<item>
+    <title>Kumo Desu ga, Nani ka? - Episode 20</title>
+    <link>https://genoanime.com/details?id=8164&episode=20</link>
+    <description>Episode 20 of Kumo Desu ga, Nani ka? is out!</description>
+</item>
+
+<item>
     <title>Saikyou Kamizmode! - Episode 4</title>
     <link>https://genoanime.com/details?id=8978&episode=4</link>
     <description>Episode 4 of Saikyou Kamizmode! is out!</description>
@@ -112,18 +124,6 @@
     <title>Beyblade Burst Dynamite Battle - Episode 9</title>
     <link>https://genoanime.com/details?id=8820&episode=9</link>
     <description>Episode 9 of Beyblade Burst Dynamite Battle is out!</description>
-</item>
-
-<item>
-    <title>Eden (Dub) - Episode 4</title>
-    <link>https://genoanime.com/details?id=9060&episode=4</link>
-    <description>Episode 4 of Eden (Dub) is out!</description>
-</item>
-
-<item>
-    <title>Zombieland Saga: Revenge - Episode 8</title>
-    <link>https://genoanime.com/details?id=8760&episode=8</link>
-    <description>Episode 8 of Zombieland Saga: Revenge is out!</description>
 </item>
 
 </channel>
