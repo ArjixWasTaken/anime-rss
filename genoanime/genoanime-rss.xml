@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>SD Gundam World Heroes - Episode 9</title>
+    <link>https://genoanime.com/details?id=8757&episode=9</link>
+    <description>Episode 9 of SD Gundam World Heroes is out!</description>
+</item>
+
+<item>
     <title>Yi Nian Yong Heng - Episode 45</title>
     <link>https://genoanime.com/details?id=7840&episode=45</link>
     <description>Episode 45 of Yi Nian Yong Heng is out!</description>
@@ -118,12 +124,6 @@
     <title>Wan Jie Du Zun - Episode 19</title>
     <link>https://genoanime.com/details?id=8750&episode=19</link>
     <description>Episode 19 of Wan Jie Du Zun is out!</description>
-</item>
-
-<item>
-    <title>Aikatsu Planet! - Episode 21</title>
-    <link>https://genoanime.com/details?id=8259&episode=21</link>
-    <description>Episode 21 of Aikatsu Planet! is out!</description>
 </item>
 
 </channel>
