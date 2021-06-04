@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>Saikyou Kamizmode! - Episode 5</title>
+    <link>https://genoanime.com/details?id=8978&episode=5</link>
+    <description>Episode 5 of Saikyou Kamizmode! is out!</description>
+</item>
+
+<item>
     <title>Shiguang Daili Ren - Episode 6</title>
     <link>https://genoanime.com/details?id=8932&episode=7</link>
     <description>Episode 6 of Shiguang Daili Ren is out!</description>
@@ -118,12 +124,6 @@
     <title>Yi Nian Yong Heng - Episode 45</title>
     <link>https://genoanime.com/details?id=7840&episode=45</link>
     <description>Episode 45 of Yi Nian Yong Heng is out!</description>
-</item>
-
-<item>
-    <title>Kuroko no Basket 3rd Season NG-shuu - Episode 9</title>
-    <link>https://genoanime.com/details?id=9090&episode=9</link>
-    <description>Episode 9 of Kuroko no Basket 3rd Season NG-shuu is out!</description>
 </item>
 
 </channel>
