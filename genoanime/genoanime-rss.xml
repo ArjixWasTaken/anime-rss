@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>Boruto: Naruto Next Generations - Episode 202</title>
+    <link>https://genoanime.com/details?id=8048&episode=202</link>
+    <description>Episode 202 of Boruto: Naruto Next Generations is out!</description>
+</item>
+
+<item>
     <title>Hiyokoi - Episode 1</title>
     <link>https://genoanime.com/details?id=9103&episode=1</link>
     <description>Episode 1 of Hiyokoi is out!</description>
@@ -118,12 +124,6 @@
     <title>Zhen Hun Jie 2 - Episode 7</title>
     <link>https://genoanime.com/details?id=7227&episode=7</link>
     <description>Episode 7 of Zhen Hun Jie 2 is out!</description>
-</item>
-
-<item>
-    <title>Detective Conan - Episode 1007</title>
-    <link>https://genoanime.com/details?id=8035&episode=1005</link>
-    <description>Episode 1007 of Detective Conan is out!</description>
 </item>
 
 </channel>
