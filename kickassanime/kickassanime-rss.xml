@@ -5,219 +5,156 @@
 <title>KickassAnime - RSS Feed</title>
 <link>https://github.com/ArjixGamer/anime-rss</link>
 <description>A simple cleaned RSS feed for kickassanime!</description>
-<!DOCTYPE html>
-<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
-<head>
 
-<title>Please Wait... | Cloudflare</title>
-  
-<meta name="captcha-bypass" id="captcha-bypass" />
-<meta charset="UTF-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
-<meta name="robots" content="noindex, nofollow" />
-<meta name="viewport" content="width=device-width,initial-scale=1" />
-<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" type="text/css" media="screen,projection" />
-<!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" type="text/css" media="screen,projection" /><![endif]-->
-<style type="text/css">body{margin:0;padding:0}</style>
-
-
-<!--[if gte IE 10]><!-->
-<script>
-  if (!navigator.cookieEnabled) {
-    window.addEventListener('DOMContentLoaded', function () {
-      var cookieEl = document.getElementById('cookie-alert');
-      cookieEl.style.display = 'block';
-    })
-  }
-</script>
-<!--<![endif]-->
-
-
-  
-    <script type="text/javascript">
-    //<![CDATA[
-    (function(){
-      window._cf_chl_opt={
-        cvId: "2",
-        cType: "managed",
-        cNounce: "29959",
-        cRay: "65b44d3b8f115cd0",
-        cHash: "d5837b31452cea3",
-        cFPWv: "g",
-        cTTimeMs: "4000",
-        cLt: "n",
-        cRq: {
-          ru: "aHR0cHM6Ly93d3cyLmtpY2thc3NhbmltZS5ycy9mZWVkL2xhdGVzdA==",
-          ra: "cHl0aG9uLXJlcXVlc3RzLzIuMjUuMQ==",
-          rm: "R0VU",
-          d: "pqezS3WbTT+GgpQuQL/sjZ4LBih0613Ssu4CXUeA9L531ajrl1fHUvkgaS1NMms3r0d+R1U3bNIO9eUYGruf9N0c1BLz9V6GJqt6pbewEMPdZmp0aI8ckizcaYLC75IZKEW7ANO07FzCnAsRd3N2groyPTWpRaX0VKrMISsR4RTPgbHfnGQbvmeheO1mZfd1kxYOFxrF8mkxFobTNmhivNZ3tBpgMzdDS04AY45ruef4uc2vgA6hJ92cujSj6gH1IWGMUAskpv3fMBDS0MxckGz2mDhfKCzKAX3oiCftuDYefJD2F+ng7QJu3w5gatSm2/5k2niDmB4RlJol/7vEYiaiU4+NPZPRFpKWBl6lZYb8xXTFt/HDsakSNzLkJMMEUADdi/Tah8dA5OiCU6kG0H4zPUZ66xqHVsfck/sD4S01gqHXswgOllypVljR5S45NBMl0Ru/9vgo99skbcNLLK4aJLDU00ruVDh/41yTt0qJ1nhPT3/YvbyNF96idIh49wMeClG1gUKYhQW74lO6ga5ynb6kRuQqXZuDCgThHIdSDyeEg3RgtWbNeW6KTWDdPKFFljKKiIY0SM1UCMJb7p1muMlru1owCkW9epLWdZBwP0BAyu9ovsUQog4fRQakcj+rsXSZUWhiBpc/IpvlYrHzz8rgVTrs6AO1Xu0+nI1k5OVBveYyG1rC1WjWyZP0knl69B2ju53Vf7t8TmfZoCJxa8lCtUVuG1KkXAR5adbRR0bRaA1Amnug5c6qtfUpjn4RsyXm/gG3CrZBJMZwroTUjYaThKeMyRrwZUP/z/apBgDwyafZBq0h+GLAO86nbwobehlrhevRez9N1aW3FN8iMhPeOY2GE5OQqTU+NztKVCXiLOMCkQcjqbr/0pD4SgUqZSquLAxFMjjwdg1YJ/9SU/Z4JtgyMgqx+T62lkySo2ge2PUMo0dkA2kM6MLF",
-          t: "MTYyMzAxMDQxMC44MTgwMDA=",
-          m: "mLKMpMheNuw3X0ahSzpRwEG4mKa9U0oAxb0SIWUOtI8=",
-          i1: "Doh5AX88ObhcifWKx7BZ+Q==",
-          i2: "w70jCezjyBHKwxFFCqtuOw==",
-          zh: "RkRJxEQyPZeLSLBQnD9QvFeHt4IO15q1bRZgwKYyjq4=",
-          uh: "5GU+jYv2xJ+bCaE/ARmi/DORbiS/v56CW7E0TH4XWQk=",
-          hh: "Z8KeXhirhS6+rvD6oiblQ9eaDVa7OgLCGnOllaKmR9A=",
-        }
-      };
-    }());
-    //]]>
-    </script>
-  
-
-<style type="text/css">
-  #cf-wrapper #spinner {width:69px; margin:  auto;}
-  #cf-wrapper #cf-please-wait{text-align:center}
-  .attribution {margin-top: 32px;}
-  .bubbles { background-color: #f58220; width:20px; height: 20px; margin:2px; border-radius:100%; display:inline-block; }
-  #cf-wrapper #challenge-form { padding-top:25px; padding-bottom:25px; }
-  #cf-hcaptcha-container { text-align:center;}
-  #cf-hcaptcha-container iframe { display: inline-block;}
-  @keyframes fader     { 0% {opacity: 0.2;} 50% {opacity: 1.0;} 100% {opacity: 0.2;} }
-  #cf-wrapper #cf-bubbles { width:69px; }
-  @-webkit-keyframes fader { 0% {opacity: 0.2;} 50% {opacity: 1.0;} 100% {opacity: 0.2;} }
-  #cf-bubbles > .bubbles { animation: fader 1.6s infinite;}
-  #cf-bubbles > .bubbles:nth-child(2) { animation-delay: .2s;}
-  #cf-bubbles > .bubbles:nth-child(3) { animation-delay: .4s;}
-</style>
-</head>
-<body>
-  <div id="cf-wrapper">
-    <div class="cf-alert cf-alert-error cf-cookie-error" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
-    <div id="cf-error-details" class="cf-error-details-wrapper">
-      <div class="cf-wrapper cf-header cf-error-overview">
-      
-        <h1 data-translate="managed_challenge_headline">Please wait...</h1>
-        <h2 class="cf-subheadline"><span data-translate="managed_checking_msg">We are checking your browser...</span> www2.kickassanime.rs</h2>
-      
-      </div>
-      
-      <div class="cf-section cf-highlight cf-captcha-container">
-        <div class="cf-wrapper">
-          <div class="cf-columns two">
-            <div class="cf-column">
-            
-              <div class="cf-highlight-inverse cf-form-stacked">
-                <form class="challenge-form managed-form" id="challenge-form" action="/feed/latest?__cf_chl_managed_tk__=574f3bfe382caf006ad78b61483935e19cdc0a4b-1623010410-0-Afl92nlp5vKtvDH30z15B53t6ZVC8b4UuRPQTbaU5mwuzv-RrOL7L8ivGiF8EQrqgrOk5IanhHbkxg7JaXc-0Gyv27W7DVAD-n7ntCp387Gc3KqKO98UC0lCtwVV-VC3g6TULqvdcmAMkAbrLrSRDhRTR1FYwaj2OYtL8CK0eBBSkAUTfDwWKwuGhKDEt1iTv2AgcrwFwK5LuG47bL6sVnaRfC12yZHL62y6aM8uBMxGcW_xYVjCTBmTyPX94wZQ_CbQlr-dwVNOV4Q9ZpK8KZ2rdrwiZicQBw4kNs1yXLWtHhiBVxSJ9Ofs8O5MU2cxzXLihWTJjB07CoASasFrrxygj1Cmxz9MXnyiAzDwyXbT48yzwutIhSMwRbu2R3NAG-uliwqP6s66cCxaXXxEpiY50wXaAkAHeVW5wP4E_-zbofJHRQ8NRHs4BqP6EhHftayzMCIrwKeV5Q_mE5c7HkmzqWGhgZuXgikki5irfFflb07_Mzpu7OsvbPMe4y3nRRSuMpKZ7u9_fFMsUjb9k8nR3gnV7LIf1zf6UpvJNY7-_fzXDuMceSQIEL7K7ys0hX2BsPi9X4KbsSgd4A3wtWrU6bPkZFiYLcJUhgtmAUkZvNf397wsGm9KMnPKwdh6Lzy8CM-5gt-4tJmmKjYG5gyaibPgdVY2p6wYhIwE8PMJaOC7u8nEwE2b-rBLz3fnnw" method="POST" enctype="application/x-www-form-urlencoded">
-  
-    <div id='cf-please-wait'>
-      <div id='spinner'>
-        <div id="cf-bubbles">
-            <div class="bubbles"></div>
-            <div class="bubbles"></div>
-            <div class="bubbles"></div>
-        </div>
-      </div>
-      <p data-translate="please_wait" id="cf-spinner-please-wait">Please stand by, while we are checking your browser...</p>
-      <p data-translate="redirecting" id="cf-spinner-redirecting" style="display:none">Redirecting...</p>
-      </div>
-  
-  <input type="hidden" name="r" value="8bcadc0524875c3a75200f095441761a8cf136da-1623010410-0-AUbi+aWK830nVc9RwG+XLjFfHVQWqJpEgnBtcT4xPYzA5sXBF6w2Tv0X4x67+zg47svZTByqaY44IB8r/AwCRoD+/PJKxHM+dwdWkDLA1vIjt6Kw55iXVBZjwh/8OvVSMgQHMmIe75z4sG2amE0Wa+nNDS+rfjPGUZ/uwRmAvRFE3Y6Fe409HVffARQIBOZH41tt0NQpf6j2dV89c/Lj6HeQWyeszAFx2rcg6ENzRxi/D6Xh5WPLWvZy9CGVOmFWilnYldmUz0HFNzgoW9Bn6IM30BlEqqDWAAzzwePe2DxwCgYWXA0QQTSowWNWCi3hQIORXJ5z+27xAE5SVVN+2Ko6RyEian1cVPYDGDLZ+N4mBL17QBfDuVGu+dAl1leLA+7wb4gDZvFewOt2+5UuRLSOKHvEHA6Na2ceCk1euYtFIb8t5sC8ktRR5f7IHOHRLNN+rG6PUiZbdz7J2syJWTD4HVJ0ERewXh/ZCkJc2iRAhUMNj5PJNHPWOB3u2f1yNWXRcB8HrqZc4vIiRedHgWeTtkEhWQl6vv6d7YM4q6C9GCoxtMKFVCNsLzkNJExR6yUqFASa1BZncm/UxjkpuGZ4N77I8P3UeKKuziRioZ/tL05t5/aajNXRIgbCR1drS8NjTYBPON+4ma7nIx0CMKUcquc5SvPEzqPZEeY1R53Kh4H2jTqkAb1ehfpEi1a1MbvoTiIu4GX9gdG6aa6w0wZcJaJ8NaF2p2aMTqnPUIT7znqOeLQ+gopTW+YfjA0plQhbKNvIP9I6HYa5ygD5VbLy+KWbd7Ejv8496os6KKeoslsiCIf0hpSA1NHu/ecfAGjpFs9M6/qNaEGWCb6rh0uelKtb92h8lwZjWLNeyO2aRl+A8UrVRxTpc2WmfuDTvV8p/nJuoHNzr0MbRi6n2KHTE0W4y956mAbVXrR/Sgy3pkz3n7fObRhvExnNkdBovE6hRZU8JPoOFpku/Meho3T9S6TMVXjxYSP7ByxNTB9RE69/bWOFH1WAH7SNug8yd/TkpNEansGtUNsHoRdfVfnaGuM0+uWJq2nvVJeq/sohxhfYAg0RjyCvx2Op/XQu4Wt5MS1nw+x+eZcxxnBWgxuSylZSUPyZLnxaMzCQvCFcUpLI7cmzdOyAgZQFWp4QQmAWXDqUrEi1VEFzBWNVE0WBLaT0JxLuOt0w2FyQy5F022mAa7N7gmE1tNv4cfTOAV+g656jAyoqa67mXWtpPAPvRV2cR+gFRVdYqaAA441hseHR2allEumidjdbYmjRVGkqYNpeZg6fF0s+Lab7RFPki2glCVw+3oDBOYnY5CzUGxaw23d9qNM9wFMy9xOS2Ta+7NF2buoWyPgWEGilb1qW/4Ncyog/XQH1SpYAFylqiAMK6xiBeEWlh3DMDU8ZOEDnyM0JP3JoppNqKCPPfkFxsgwO65zdOQ+5Rr7SJ3cUFV7BeW9/lj54DHm1Nk/GGu0jDJV5AtnH5qutsiJ/JIqdSpfAyQKURINBjHaEeclyKTi6Y5BnlNqqPnKGxfgY7hyoXIN0WkVJrlv7YeU7UHjZgOb2FXgKoAdIE+kc799G5n/5c7vEggOum5bct1usb0mDrZjaragexCSqOIOxr5VnDDza93ep+5LbMnBt6LTdEF5guiHecKKOv3MQrwlmJ6yEYEYgc+3fdtE/oJXuGs+yh/cKYQT0QYPxdPHvyOxNkePRS5vLMz9+K6/uDJni2m7qRO/WZkjy6Fla6jeKqTDhSauONF413rDC8HYvXAQg6a1r+oNZkcqZYFGKR/AbdeT9N4C6pFder9UBjOeTnEY=">
-  <input type="hidden" name="cf_captcha_kind" value="h">
-  <input type="hidden" name="vc" value="2a7d52bbb22c2d4d0c000a877740ff45">
-  
-  <noscript id="cf-captcha-bookmark" class="cf-captcha-info">
-  <h1 data-translate="turn_on_js" style="color:#bd2426;">Please turn JavaScript on and reload the page.</h1>
-  </noscript>
-    <div id="no-cookie-warning" class="cookie-warning" data-translate="turn_on_cookies" style="display:none">
-      <p data-translate="turn_on_cookies" style="color:#bd2426;">Please enable Cookies and reload the page.</p>
-    </div>
-  <script type="text/javascript">
-  //<![CDATA[
-    var a = function() {try{return !!window.addEventListener} catch(e) {return !1} },
-      b = function(b, c) {a() ? document.addEventListener("DOMContentLoaded", b, c) : document.attachEvent("onreadystatechange", b)};
-      b(function(){
-        var cookiesEnabled=(navigator.cookieEnabled)? true : false;
-        if(!cookiesEnabled){
-          var q = document.getElementById('no-cookie-warning');q.style.display = 'block';
-        }
-      });
-  //]]>
-  </script>
-  <div id="trk_captcha_js" style="background-image:url('/cdn-cgi/images/trace/captcha/nojs/h/transparent.gif?ray=65b44d3b8f115cd0')"></div>
-</form>
-  
-  <script type="text/javascript">
-    //<![CDATA[
-    (function(){
-        var isIE = /(MSIE|Trident\/|Edge\/)/i.test(window.navigator.userAgent);
-        var trkjs = isIE ? new Image() : document.createElement('img');
-        trkjs.setAttribute("src", "/cdn-cgi/images/trace/managed/js/transparent.gif?ray=65b44d3b8f115cd0");
-        trkjs.id = "trk_managed_js";
-        trkjs.setAttribute("alt", "");
-        document.body.appendChild(trkjs);
-        var cpo=document.createElement('script');
-        cpo.type='text/javascript';
-        cpo.src="/cdn-cgi/challenge-platform/h/g/orchestrate/managed/v1?ray=65b44d3b8f115cd0";
-        document.getElementsByTagName('head')[0].appendChild(cpo);
-    }());
-    //]]>
-    </script>
-  
-
-
-              </div>
-            </div>
-
-            <div class="cf-column">
-              <div class="cf-screenshot-container">
-              
-                <span class="cf-no-screenshot"></span>
-              
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div class="cf-section cf-wrapper">
-        <div class="cf-columns two">
-          <div class="cf-column">
-            <h2 data-translate="why_captcha_headline">Why do I have to complete a CAPTCHA?</h2>
-            
-            <p data-translate="why_captcha_detail">Completing the CAPTCHA proves you are a human and gives you temporary access to the web property.</p>
-          </div>
-
-          <div class="cf-column">
-            <h2 data-translate="resolve_captcha_headline">What can I do to prevent this in the future?</h2>
-            
-
-            <p data-translate="resolve_captcha_antivirus">If you are on a personal connection, like at home, you can run an anti-virus scan on your device to make sure it is not infected with malware.</p>
-
-            <p data-translate="resolve_captcha_network">If you are at an office or shared network, you can ask the network administrator to run a scan across the network looking for misconfigured or infected devices.</p>
-            
-              
-            
-          </div>
-        </div>
-      </div>
-      
-
-      <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
-  <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">65b44d3b8f115cd0</strong></span>
-    <span class="cf-footer-separator sm:hidden">&bull;</span>
-    <span class="cf-footer-item sm:block sm:mb-1"><span>Your IP</span>: 104.209.151.82</span>
-    <span class="cf-footer-separator sm:hidden">&bull;</span>
-    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
-    
-  </p>
-</div><!-- /.error-footer -->
-
-
-    </div>
-  </div>
-
-  <script type="text/javascript">
-  window._cf_translation = {};
-  
-  
-</script>
-
-
-</body>
-</html>
+      <item>
+        <title>SEVEN KNIGHTS REVOLUTION: Hero Successor Episode 10 English Subbed</title>
+        <link>https://www2.kickassanime.rs/anime/seven-knights-revolution-hero-successor-239232/episode-10-121235</link>
+        <pubDate>Sun, 06 Jun 2021 13:44:07 EDT</pubDate>
+      </item>
+    <item>
+        <title>Farewell, My Dear Cramer Episode 10 English Subbed</title>
+        <link>https://www2.kickassanime.rs/anime/farewell-my-dear-cramer-910188/episode-10-873928</link>
+        <pubDate>Sun, 06 Jun 2021 12:14:40 EDT</pubDate>
+      </item>
+    <item>
+        <title>Nomad: Megalo Box 2 Episode 10 English Subbed</title>
+        <link>https://www2.kickassanime.rs/anime/nomad-megalo-box-2-301100/episode-10-196822</link>
+        <pubDate>Sun, 06 Jun 2021 11:24:27 EDT</pubDate>
+      </item>
+    <item>
+        <title>Moriarty the Patriot Season 2 Episode 10 English Subbed</title>
+        <link>https://www2.kickassanime.rs/anime/moriarty-the-patriot-season-2-191217/episode-10-372825</link>
+        <pubDate>Sun, 06 Jun 2021 11:07:23 EDT</pubDate>
+      </item>
+    <item>
+        <title>Dragon Goes House Hunting Episode 10 English Subbed</title>
+        <link>https://www2.kickassanime.rs/anime/dragon-goes-house-hunting-782294/episode-10-303235</link>
+        <pubDate>Sun, 06 Jun 2021 10:58:50 EDT</pubDate>
+      </item>
+    <item>
+        <title>Combatants Will Be Dispatched! Episode 10 English Subbed</title>
+        <link>https://www2.kickassanime.rs/anime/combatants-will-be-dispatched-662904/episode-10-647130</link>
+        <pubDate>Sun, 06 Jun 2021 08:07:07 EDT</pubDate>
+      </item>
+    <item>
+        <title>Boruto: Naruto Next Generations Episode 202 English Subbed</title>
+        <link>https://www2.kickassanime.rs/anime/boruto-naruto-next-generations-923495/episode-202-656701</link>
+        <pubDate>Sun, 06 Jun 2021 05:03:19 EDT</pubDate>
+      </item>
+    <item>
+        <title>Digimon Adventure (2020) Episode 51 English Subbed</title>
+        <link>https://www2.kickassanime.rs/anime/digimon-adventure-2020-625588/episode-51-158580</link>
+        <pubDate>Sun, 06 Jun 2021 02:58:34 EDT</pubDate>
+      </item>
+    <item>
+        <title>One Piece Episode 977 English Subbed</title>
+        <link>https://www2.kickassanime.rs/anime/one-piece-779470/episode-977-917154</link>
+        <pubDate>Sun, 06 Jun 2021 02:57:29 EDT</pubDate>
+      </item>
+    <item>
+        <title>Tropical-Rouge! Precure Episode 15 English Subbed</title>
+        <link>https://www2.kickassanime.rs/anime/tropical-rouge-precure-246972/episode-15-891476</link>
+        <pubDate>Sat, 05 Jun 2021 22:01:47 EDT</pubDate>
+      </item>
+    <item>
+        <title>Tokyo Revengers (Dub) Episode 02 </title>
+        <link>https://www2.kickassanime.rs/anime/tokyo-revengers-dub-254760/episode-02-944768</link>
+        <pubDate>Sat, 05 Jun 2021 17:52:24 EDT</pubDate>
+      </item>
+    <item>
+        <title>I've Been Killing Slimes For 300 Years And Maxed Out My Level (Dub) Episode 02 </title>
+        <link>https://www2.kickassanime.rs/anime/ive-been-killing-slimes-for-300-years-and-maxed-out-my-level-dub-951109/episode-02-815121</link>
+        <pubDate>Sat, 05 Jun 2021 17:51:34 EDT</pubDate>
+      </item>
+    <item>
+        <title>Tokyo Revengers Episode 09 English Subbed</title>
+        <link>https://www2.kickassanime.rs/anime/tokyo-revengers-681969/episode-09-831644</link>
+        <pubDate>Sat, 05 Jun 2021 15:03:53 EDT</pubDate>
+      </item>
+    <item>
+        <title>Pretty Boy Detective Club Episode 09 English Subbed</title>
+        <link>https://www2.kickassanime.rs/anime/pretty-boy-detective-club-727447/episode-09-306140</link>
+        <pubDate>Sat, 05 Jun 2021 14:37:09 EDT</pubDate>
+      </item>
+    <item>
+        <title>Battle Athletes Victory ReSTART! Episode 09 English Subbed</title>
+        <link>https://www2.kickassanime.rs/anime/battle-athletes-victory-restart-572495/episode-09-545540</link>
+        <pubDate>Sat, 05 Jun 2021 13:40:24 EDT</pubDate>
+      </item>
+    <item>
+        <title>Shadows House Episode 09 English Subbed</title>
+        <link>https://www2.kickassanime.rs/anime/shadows-house-391719/episode-09-931745</link>
+        <pubDate>Sat, 05 Jun 2021 13:39:40 EDT</pubDate>
+      </item>
+    <item>
+        <title>86 EIGHTY-SIX Episode 09 English Subbed</title>
+        <link>https://www2.kickassanime.rs/anime/86-eighty-six-578110/episode-09-218419</link>
+        <pubDate>Sat, 05 Jun 2021 12:30:19 EDT</pubDate>
+      </item>
+    <item>
+        <title>Vivy: Fluorite Eye's Song Episode 11 English Subbed</title>
+        <link>https://www2.kickassanime.rs/anime/vivy-fluorite-eyes-song-401610/episode-11-404627</link>
+        <pubDate>Sat, 05 Jun 2021 12:14:35 EDT</pubDate>
+      </item>
+    <item>
+        <title>Don't Toy with Me, Miss Nagatoro Episode 09 English Subbed</title>
+        <link>https://www2.kickassanime.rs/anime/dont-toy-with-me-miss-nagatoro-647995/episode-09-426778</link>
+        <pubDate>Sat, 05 Jun 2021 12:02:37 EDT</pubDate>
+      </item>
+    <item>
+        <title>Thunderbolt Fantasy Sword Seekers3 Episode 10 English Subbed</title>
+        <link>https://www2.kickassanime.rs/anime/thunderbolt-fantasy-sword-seekers3-497177/episode-10-156493</link>
+        <pubDate>Sat, 05 Jun 2021 10:11:59 EDT</pubDate>
+      </item>
+    <item>
+        <title>I've Been Killing Slimes For 300 Years And Maxed Out My Level Episode 09 English Subbed</title>
+        <link>https://www2.kickassanime.rs/anime/ive-been-killing-slimes-for-300-years-and-maxed-out-my-level-552750/episode-09-197184</link>
+        <pubDate>Sat, 05 Jun 2021 09:34:36 EDT</pubDate>
+      </item>
+    <item>
+        <title>Detective Conan Episode 1007 English Subbed</title>
+        <link>https://www2.kickassanime.rs/anime/detective-conan-412965/episode-1007-121712</link>
+        <pubDate>Sat, 05 Jun 2021 08:00:50 EDT</pubDate>
+      </item>
+    <item>
+        <title>Mairimashita! Iruma-kun 2nd Season Episode 08 English Subbed</title>
+        <link>https://www2.kickassanime.rs/anime/mairimashita-iruma-kun-2nd-season-993296/episode-08-119212</link>
+        <pubDate>Sat, 05 Jun 2021 07:15:19 EDT</pubDate>
+      </item>
+    <item>
+        <title>Boku no Hero Academia Season 5 Episode 11 English Subbed</title>
+        <link>https://www2.kickassanime.rs/anime/boku-no-hero-academia-season-5-326304/episode-11-328956</link>
+        <pubDate>Sat, 05 Jun 2021 05:30:45 EDT</pubDate>
+      </item>
+    <item>
+        <title>Cardfight!! Vanguard: overDress Episode 09 English Subbed</title>
+        <link>https://www2.kickassanime.rs/anime/cardfight-vanguard-over-dress-146106/episode-09-863247</link>
+        <pubDate>Fri, 04 Jun 2021 23:07:43 EDT</pubDate>
+      </item>
+    <item>
+        <title>Dragon Quest: Dai's Great Adventure (2020) Episode 35 English Subbed</title>
+        <link>https://www2.kickassanime.rs/anime/dragon-quest-dais-great-adventure-2020-789856/episode-35-909029</link>
+        <pubDate>Fri, 04 Jun 2021 23:06:47 EDT</pubDate>
+      </item>
+    <item>
+        <title>So I'm a Spider, So What? (Dub) Episode 15 </title>
+        <link>https://www2.kickassanime.rs/anime/so-im-a-spider-so-what-dub-764629/episode-15-335943</link>
+        <pubDate>Fri, 04 Jun 2021 18:43:55 EDT</pubDate>
+      </item>
+    <item>
+        <title>So I'm a Spider, So What? (Dub) Episode 14 </title>
+        <link>https://www2.kickassanime.rs/anime/so-im-a-spider-so-what-dub-764629/episode-14-408680</link>
+        <pubDate>Fri, 04 Jun 2021 18:43:26 EDT</pubDate>
+      </item>
+    <item>
+        <title>Pokemon (2019) Episode 69 English Subbed</title>
+        <link>https://www2.kickassanime.rs/anime/pokemon-2019-206016/episode-69-289118</link>
+        <pubDate>Fri, 04 Jun 2021 18:20:42 EDT</pubDate>
+      </item>
+    <item>
+        <title>Those Snow White Notes Episode 10 English Subbed</title>
+        <link>https://www2.kickassanime.rs/anime/those-snow-white-notes-410760/episode-10-401558</link>
+        <pubDate>Fri, 04 Jun 2021 14:52:47 EDT</pubDate>
+      </item>
+    </channel>
+  </rss>
