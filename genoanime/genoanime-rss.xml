@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>Itazuraguma no Gloomy - Episode 10</title>
+    <link>https://genoanime.com/details?id=8811&episode=10</link>
+    <description>Episode 10 of Itazuraguma no Gloomy is out!</description>
+</item>
+
+<item>
     <title>Fumetsu no Anata e - Episode 10</title>
     <link>https://genoanime.com/details?id=8810&episode=10</link>
     <description>Episode 10 of Fumetsu no Anata e is out!</description>
@@ -118,12 +124,6 @@
     <title>Aozora Shoujotai (Dub) - Episode 7</title>
     <link>https://genoanime.com/details?id=3750&episode=7</link>
     <description>Episode 7 of Aozora Shoujotai (Dub) is out!</description>
-</item>
-
-<item>
-    <title>Herlock Saga: Nibelung no Yubiwa - Episode 6</title>
-    <link>https://genoanime.com/details?id=9154&episode=6</link>
-    <description>Episode 6 of Herlock Saga: Nibelung no Yubiwa is out!</description>
 </item>
 
 </channel>
