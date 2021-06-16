@@ -5,108 +5,156 @@
 <title>KickassAnime - RSS Feed</title>
 <link>https://github.com/ArjixGamer/anime-rss</link>
 <description>A simple cleaned RSS feed for kickassanime!</description>
-<!DOCTYPE html>
-<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
-<head>
-<meta http-equiv="refresh" content="0">
 
-<title>www2.kickassanime.rs | 502: Bad gateway</title>
-<meta charset="UTF-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
-<meta name="robots" content="noindex, nofollow" />
-<meta name="viewport" content="width=device-width,initial-scale=1" />
-<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" type="text/css" media="screen,projection" />
-
-
-</head>
-<body>
-<div id="cf-wrapper">
-
-    
-
-    <div id="cf-error-details" class="p-0">
-        <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8">
-            <h1 class="inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2">
-              
-              <span class="cf-error-type">Error</span>
-              <span class="cf-error-code">502</span>
-            </h1>
-            <span class="inline-block sm:block font-mono text-15 lg:text-sm lg:leading-relaxed">Ray ID: 66000ff8bac819e3 &bull;</span>
-            <span class="inline-block sm:block font-mono text-15 lg:text-sm lg:leading-relaxed">2021-06-16 00:54:24 UTC</span>
-            <h2 class="text-gray-600 leading-1.3 text-3xl font-light">Bad gateway</h2>
-        </header>
-        
-        <div class="my-8 bg-gradient-gray">
-            <div class="w-240 lg:w-full mx-auto">
-                <div class="clearfix md:px-8">
-                  
-<div id="cf-browser-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
-  <div class="relative mb-10 md:m-0">
-    <span class="cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat"></span>
-    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
-  </div>
-  <span class="md:block w-full truncate">You</span>
-  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">Browser</h3>
-  <span class="leading-1.3 text-2xl text-green-success">Working</span>
-</div>
-
-<div id="cf-cloudflare-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
-  <div class="relative mb-10 md:m-0">
-    <span class="cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat"></span>
-    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
-  </div>
-  <span class="md:block w-full truncate">Newark</span>
-  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">Cloudflare</h3>
-  <span class="leading-1.3 text-2xl text-green-success">Working</span>
-</div>
-
-<div id="cf-host-status" class="cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
-  <div class="relative mb-10 md:m-0">
-    <span class="cf-icon-server block md:hidden h-20 bg-center bg-no-repeat"></span>
-    <span class="cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
-  </div>
-  <span class="md:block w-full truncate">www2.kickassanime.rs</span>
-  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">Host</h3>
-  <span class="leading-1.3 text-2xl text-red-error">Error</span>
-</div>
-
-                </div>
-              
-            </div>
-        </div>
-
-        <div class="w-240 lg:w-full mx-auto mb-8 lg:px-8">
-            <div class="clearfix">
-                <div class="w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed">
-                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What happened?</h2>
-                    <p>The web server reported a bad gateway error.</p>
-                </div>
-              
-                <div class="w-1/2 md:w-full float-left leading-relaxed">
-                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What can I do?</h2>
-                    <p class="mb-6">Please try again in a few minutes.</p>
-                </div>
-            </div>
-              
-        </div>
-
-        <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
-  <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">66000ff8bac819e3</strong></span>
-    <span class="cf-footer-separator sm:hidden">&bull;</span>
-    <span class="cf-footer-item sm:block sm:mb-1"><span>Your IP</span>: 20.69.242.197</span>
-    <span class="cf-footer-separator sm:hidden">&bull;</span>
-    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
-    
-  </p>
-</div><!-- /.error-footer -->
-
-
-    </div>
-</div>
-</body>
-</html>
+      <item>
+        <title>Joran: The Princess of Snow and Blood Episode 12 English Subbed</title>
+        <link>https://www2.kickassanime.rs/anime/joran-the-princess-of-snow-and-blood-878694/episode-12-432329</link>
+        <pubDate>Tue, 15 Jun 2021 12:10:59 EDT</pubDate>
+      </item>
+    <item>
+        <title>The Saint's Magic Power is Omnipotent Episode 11 English Subbed</title>
+        <link>https://www2.kickassanime.rs/anime/the-saints-magic-power-is-omnipotent-747389/episode-11-101967</link>
+        <pubDate>Tue, 15 Jun 2021 11:33:10 EDT</pubDate>
+      </item>
+    <item>
+        <title>The Slime Diaries: That Time I Got Reincarnated as a Slime Episode 11 English Subbed</title>
+        <link>https://www2.kickassanime.rs/anime/the-slime-diaries-that-time-i-got-reincarnated-as-a-slime-789591/episode-11-684320</link>
+        <pubDate>Tue, 15 Jun 2021 11:06:36 EDT</pubDate>
+      </item>
+    <item>
+        <title>Mars Red (Dub) Episode 11 </title>
+        <link>https://www2.kickassanime.rs/anime/mars-red-dub-887581/episode-11-784488</link>
+        <pubDate>Mon, 14 Jun 2021 19:55:31 EDT</pubDate>
+      </item>
+    <item>
+        <title>Mars Red Episode 11 English Subbed</title>
+        <link>https://www2.kickassanime.rs/anime/mars-red-496123/episode-11-370945</link>
+        <pubDate>Mon, 14 Jun 2021 19:52:42 EDT</pubDate>
+      </item>
+    <item>
+        <title>To Your Eternity (Dub) Episode 03 </title>
+        <link>https://www2.kickassanime.rs/anime/to-your-eternity-dub-848485/episode-03-105681</link>
+        <pubDate>Mon, 14 Jun 2021 15:10:14 EDT</pubDate>
+      </item>
+    <item>
+        <title>ODDTAXI Episode 11 English Subbed</title>
+        <link>https://www2.kickassanime.rs/anime/oddtaxi-173507/episode-11-616902</link>
+        <pubDate>Mon, 14 Jun 2021 15:09:19 EDT</pubDate>
+      </item>
+    <item>
+        <title>Fruits Basket: The Final Episode 11 English Subbed</title>
+        <link>https://www2.kickassanime.rs/anime/fruits-basket-the-final-614843/episode-11-831282</link>
+        <pubDate>Mon, 14 Jun 2021 13:42:06 EDT</pubDate>
+      </item>
+    <item>
+        <title>Kimetsu no Yaiba Movie: Mugen Ressha-hen (Dub) Episode 01 </title>
+        <link>https://www2.kickassanime.rs/anime/kimetsu-no-yaiba-movie-mugen-ressha-hen-dub-228818/episode-01-430494</link>
+        <pubDate>Mon, 14 Jun 2021 12:30:56 EDT</pubDate>
+      </item>
+    <item>
+        <title>To Your Eternity Episode 10 English Subbed</title>
+        <link>https://www2.kickassanime.rs/anime/to-your-eternity-862809/episode-10-658007</link>
+        <pubDate>Mon, 14 Jun 2021 12:30:55 EDT</pubDate>
+      </item>
+    <item>
+        <title>Kingdom 3rd Season Episode 11 English Subbed</title>
+        <link>https://www2.kickassanime.rs/anime/kingdom-3rd-season-853741/episode-11-746307</link>
+        <pubDate>Mon, 14 Jun 2021 12:28:19 EDT</pubDate>
+      </item>
+    <item>
+        <title>GLOOMY The Naughty Grizzly Episode 10 English Subbed</title>
+        <link>https://www2.kickassanime.rs/anime/gloomy-the-naughty-grizzly-429675/episode-10-740001</link>
+        <pubDate>Mon, 14 Jun 2021 11:36:17 EDT</pubDate>
+      </item>
+    <item>
+        <title>Higehiro Episode 11 English Subbed</title>
+        <link>https://www2.kickassanime.rs/anime/higehiro-after-being-rejected-i-shaved-and-took-in-a-high-school-runaway-763634/episode-11-609235</link>
+        <pubDate>Mon, 14 Jun 2021 11:03:18 EDT</pubDate>
+      </item>
+    <item>
+        <title>Let's Make a Mug Too Episode 11 English Subbed</title>
+        <link>https://www2.kickassanime.rs/anime/lets-make-a-mug-too-164373/episode-11-763485</link>
+        <pubDate>Mon, 14 Jun 2021 10:38:34 EDT</pubDate>
+      </item>
+    <item>
+        <title>Idolish Seven: Third Beat! Episode 01 English Subbed</title>
+        <link>https://www2.kickassanime.rs/anime/idolish-seven-third-beat-594849/episode-01-775722</link>
+        <pubDate>Mon, 14 Jun 2021 09:49:12 EDT</pubDate>
+      </item>
+    <item>
+        <title>Koikimo Episode 12 English Subbed</title>
+        <link>https://www2.kickassanime.rs/anime/its-too-sick-to-call-this-love-523328/episode-12-513561</link>
+        <pubDate>Mon, 14 Jun 2021 09:38:07 EDT</pubDate>
+      </item>
+    <item>
+        <title>Kimetsu no Yaiba Movie: Mugen Ressha-hen Episode 01 English Subbed</title>
+        <link>https://www2.kickassanime.rs/anime/kimetsu-no-yaiba-movie-mugen-ressha-hen-372311/episode-01-661749</link>
+        <pubDate>Mon, 14 Jun 2021 08:15:05 EDT</pubDate>
+      </item>
+    <item>
+        <title>Shaman King (2021) Episode 11 English Subbed</title>
+        <link>https://www2.kickassanime.rs/anime/shaman-king-2021-169409/episode-11-217189</link>
+        <pubDate>Sun, 13 Jun 2021 23:50:03 EDT</pubDate>
+      </item>
+    <item>
+        <title>Edens Zero Episode 10 English Subbed</title>
+        <link>https://www2.kickassanime.rs/anime/edens-zero-279736/episode-10-398806</link>
+        <pubDate>Sun, 13 Jun 2021 23:46:11 EDT</pubDate>
+      </item>
+    <item>
+        <title>Farewell, My Dear Cramer Episode 11 English Subbed</title>
+        <link>https://www2.kickassanime.rs/anime/farewell-my-dear-cramer-910188/episode-11-857013</link>
+        <pubDate>Sun, 13 Jun 2021 12:00:38 EDT</pubDate>
+      </item>
+    <item>
+        <title>Dragon Goes House Hunting Episode 11 English Subbed</title>
+        <link>https://www2.kickassanime.rs/anime/dragon-goes-house-hunting-782294/episode-11-944626</link>
+        <pubDate>Sun, 13 Jun 2021 11:58:59 EDT</pubDate>
+      </item>
+    <item>
+        <title>Moriarty the Patriot Season 2 Episode 11 English Subbed</title>
+        <link>https://www2.kickassanime.rs/anime/moriarty-the-patriot-season-2-191217/episode-11-269687</link>
+        <pubDate>Sun, 13 Jun 2021 11:58:17 EDT</pubDate>
+      </item>
+    <item>
+        <title>Nomad: Megalo Box 2 Episode 11 English Subbed</title>
+        <link>https://www2.kickassanime.rs/anime/nomad-megalo-box-2-301100/episode-11-134996</link>
+        <pubDate>Sun, 13 Jun 2021 11:57:34 EDT</pubDate>
+      </item>
+    <item>
+        <title>Combatants Will Be Dispatched! Episode 11 English Subbed</title>
+        <link>https://www2.kickassanime.rs/anime/combatants-will-be-dispatched-662904/episode-11-626977</link>
+        <pubDate>Sun, 13 Jun 2021 09:13:16 EDT</pubDate>
+      </item>
+    <item>
+        <title>Boruto: Naruto Next Generations Episode 203 English Subbed</title>
+        <link>https://www2.kickassanime.rs/anime/boruto-naruto-next-generations-923495/episode-203-803212</link>
+        <pubDate>Sun, 13 Jun 2021 05:02:38 EDT</pubDate>
+      </item>
+    <item>
+        <title>Digimon Adventure (2020) Episode 52 English Subbed</title>
+        <link>https://www2.kickassanime.rs/anime/digimon-adventure-2020-625588/episode-52-582543</link>
+        <pubDate>Sat, 12 Jun 2021 22:34:29 EDT</pubDate>
+      </item>
+    <item>
+        <title>One Piece Episode 978 English Subbed</title>
+        <link>https://www2.kickassanime.rs/anime/one-piece-779470/episode-978-886773</link>
+        <pubDate>Sat, 12 Jun 2021 22:04:31 EDT</pubDate>
+      </item>
+    <item>
+        <title>Tropical-Rouge! Precure Episode 16 English Subbed</title>
+        <link>https://www2.kickassanime.rs/anime/tropical-rouge-precure-246972/episode-16-718953</link>
+        <pubDate>Sat, 12 Jun 2021 21:41:23 EDT</pubDate>
+      </item>
+    <item>
+        <title>Tokyo Revengers (Dub) Episode 03 </title>
+        <link>https://www2.kickassanime.rs/anime/tokyo-revengers-dub-254760/episode-03-211510</link>
+        <pubDate>Sat, 12 Jun 2021 21:40:44 EDT</pubDate>
+      </item>
+    <item>
+        <title>Mairimashita! Iruma-kun 2nd Season (Dub) Episode 01 </title>
+        <link>https://www2.kickassanime.rs/anime/mairimashita-iruma-kun-2nd-season-dub-864451/episode-01-329679</link>
+        <pubDate>Sat, 12 Jun 2021 16:24:02 EDT</pubDate>
+      </item>
+    </channel>
+  </rss>
