@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>Shakunetsu Kabaddi - Episode 12</title>
+    <link>https://genoanime.com/details?id=8716&episode=12</link>
+    <description>Episode 12 of Shakunetsu Kabaddi is out!</description>
+</item>
+
+<item>
     <title>Blue Reflection Ray - Episode 11</title>
     <link>https://genoanime.com/details?id=8773&episode=11</link>
     <description>Episode 11 of Blue Reflection Ray is out!</description>
@@ -118,12 +124,6 @@
     <title>Kuang Shen Mo Zun - Episode 15</title>
     <link>https://genoanime.com/details?id=9032&episode=15</link>
     <description>Episode 15 of Kuang Shen Mo Zun is out!</description>
-</item>
-
-<item>
-    <title>Interlude - Episode 3</title>
-    <link>https://genoanime.com/details?id=9173&episode=3</link>
-    <description>Episode 3 of Interlude is out!</description>
 </item>
 
 </channel>
