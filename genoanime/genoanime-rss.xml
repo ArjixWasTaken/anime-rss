@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>Digimon Adventure (2020) - Episode 53</title>
+    <link>https://genoanime.com/details?id=8047&episode=53</link>
+    <description>Episode 53 of Digimon Adventure (2020) is out!</description>
+</item>
+
+<item>
     <title>One Piece - Episode 979</title>
     <link>https://genoanime.com/details?id=8046&episode=979</link>
     <description>Episode 979 of One Piece is out!</description>
@@ -214,12 +220,6 @@
     <title>Mi Bao Zhi Guo - Episode 10</title>
     <link>https://genoanime.com/details?id=8867&episode=10</link>
     <description>Episode 10 of Mi Bao Zhi Guo is out!</description>
-</item>
-
-<item>
-    <title>Wanmei Shijie - Episode 11</title>
-    <link>https://genoanime.com/details?id=8884&episode=11</link>
-    <description>Episode 11 of Wanmei Shijie is out!</description>
 </item>
 
 </channel>
