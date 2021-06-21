@@ -7,6 +7,12 @@
 <description>A simple RSS feed for gogoanime!</description>
 
 <item>
+    <title>The Choujo - Episode 1</title>
+    <link>https://gogoanime.vc/the-choujo-episode-1</link>
+    <description>Episode 1 of The Choujo is out!</description>
+</item>
+
+<item>
     <title>Blue Reflex Ray - Episode 11</title>
     <link>https://gogoanime.vc/blue-reflex-ray-episode-11</link>
     <description>Episode 11 of Blue Reflex Ray is out!</description>
@@ -118,12 +124,6 @@
     <title>Edens Zero - Episode 11</title>
     <link>https://gogoanime.vc/edens-zero-episode-11</link>
     <description>Episode 11 of Edens Zero is out!</description>
-</item>
-
-<item>
-    <title>Tokyo Revengers - Episode 11</title>
-    <link>https://gogoanime.vc/tokyo-revengers-episode-11</link>
-    <description>Episode 11 of Tokyo Revengers is out!</description>
 </item>
 
 </channel>

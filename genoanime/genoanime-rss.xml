@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>The Choujo - Episode 1</title>
+    <link>https://genoanime.com/details?id=9197&episode=1</link>
+    <description>Episode 1 of The Choujo is out!</description>
+</item>
+
+<item>
     <title>Doupo Cangqiong 4th Season - Episode 14</title>
     <link>https://genoanime.com/details?id=8680&episode=14</link>
     <description>Episode 14 of Doupo Cangqiong 4th Season is out!</description>
@@ -214,12 +220,6 @@
     <title>Kiratto Pri☆chan Season 3 - Episode 32</title>
     <link>https://genoanime.com/details?id=7951&episode=32</link>
     <description>Episode 32 of Kiratto Pri☆chan Season 3 is out!</description>
-</item>
-
-<item>
-    <title>86 (Dub) - Episode 1</title>
-    <link>https://genoanime.com/details?id=9188&episode=1</link>
-    <description>Episode 1 of 86 (Dub) is out!</description>
 </item>
 
 </channel>
