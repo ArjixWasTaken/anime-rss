@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>Fumetsu no Anata e - Episode 11</title>
+    <link>https://genoanime.com/details?id=8810&episode=11</link>
+    <description>Episode 11 of Fumetsu no Anata e is out!</description>
+</item>
+
+<item>
     <title>Itazuraguma no Gloomy - Episode 11</title>
     <link>https://genoanime.com/details?id=8811&episode=11</link>
     <description>Episode 11 of Itazuraguma no Gloomy is out!</description>
@@ -214,12 +220,6 @@
     <title>Kyochuu Rettou Movie (Dub) - Episode 1</title>
     <link>https://genoanime.com/details?id=9193&episode=1</link>
     <description>Episode 1 of Kyochuu Rettou Movie (Dub) is out!</description>
-</item>
-
-<item>
-    <title>Godzilla Singular Point (Dub) - Episode 13</title>
-    <link>https://genoanime.com/details?id=9192&episode=13</link>
-    <description>Episode 13 of Godzilla Singular Point (Dub) is out!</description>
 </item>
 
 </channel>
