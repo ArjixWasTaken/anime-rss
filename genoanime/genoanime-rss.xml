@@ -7,6 +7,18 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>Rainbow Fish - Episode 52</title>
+    <link>https://genoanime.com/details?id=9215&episode=52</link>
+    <description>Episode 52 of Rainbow Fish is out!</description>
+</item>
+
+<item>
+    <title>Mini Dragon - Episode 12</title>
+    <link>https://genoanime.com/details?id=8765&episode=12</link>
+    <description>Episode 12 of Mini Dragon is out!</description>
+</item>
+
+<item>
     <title>Peeping Life: Gekijou Original-ban - Episode 5</title>
     <link>https://genoanime.com/details?id=9214&episode=5</link>
     <description>Episode 5 of Peeping Life: Gekijou Original-ban is out!</description>
@@ -202,18 +214,6 @@
     <title>Mars Red (Dub) - Episode 12</title>
     <link>https://genoanime.com/details?id=8686&episode=12</link>
     <description>Episode 12 of Mars Red (Dub) is out!</description>
-</item>
-
-<item>
-    <title>Mars Red - Episode 12</title>
-    <link>https://genoanime.com/details?id=8685&episode=12</link>
-    <description>Episode 12 of Mars Red is out!</description>
-</item>
-
-<item>
-    <title>Fruits Basket: The Final - Episode 12</title>
-    <link>https://genoanime.com/details?id=8739&episode=12</link>
-    <description>Episode 12 of Fruits Basket: The Final is out!</description>
 </item>
 
 </channel>
