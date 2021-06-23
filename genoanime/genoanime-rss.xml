@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>Acchi Kocchi Youchien - Episode 12</title>
+    <link>https://genoanime.com/details?id=9211&episode=12</link>
+    <description>Episode 12 of Acchi Kocchi Youchien is out!</description>
+</item>
+
+<item>
     <title>Muhyo to Rouji no Mahouritsu Soudan Jimusho 2nd Season (Dub) - Episode 12</title>
     <link>https://genoanime.com/details?id=9210&episode=12</link>
     <description>Episode 12 of Muhyo to Rouji no Mahouritsu Soudan Jimusho 2nd Season (Dub) is out!</description>
@@ -208,12 +214,6 @@
     <title>Fumetsu no Anata e - Episode 11</title>
     <link>https://genoanime.com/details?id=8810&episode=11</link>
     <description>Episode 11 of Fumetsu no Anata e is out!</description>
-</item>
-
-<item>
-    <title>Itazuraguma no Gloomy - Episode 11</title>
-    <link>https://genoanime.com/details?id=8811&episode=11</link>
-    <description>Episode 11 of Itazuraguma no Gloomy is out!</description>
 </item>
 
 </channel>
