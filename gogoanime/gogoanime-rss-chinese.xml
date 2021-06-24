@@ -7,6 +7,12 @@
 <description>A simple RSS feed for gogoanime!</description>
 
 <item>
+    <title>Bai Niao - Episode 1</title>
+    <link>https://gogoanime.vc/bai-niao-episode-1</link>
+    <description>Episode 1 of Bai Niao is out!</description>
+</item>
+
+<item>
     <title>Tian Huang Zhan Shen - Episode 66</title>
     <link>https://gogoanime.vc/tian-huang-zhan-shen-episode-66</link>
     <description>Episode 66 of Tian Huang Zhan Shen is out!</description>
@@ -118,12 +124,6 @@
     <title>Juan Siliang - Episode 3</title>
     <link>https://gogoanime.vc/juan-siliang-episode-3</link>
     <description>Episode 3 of Juan Siliang is out!</description>
-</item>
-
-<item>
-    <title>Dubu Xiaoyao - Episode 114</title>
-    <link>https://gogoanime.vc/dubu-xiaoyao-episode-114</link>
-    <description>Episode 114 of Dubu Xiaoyao is out!</description>
 </item>
 
 </channel>
