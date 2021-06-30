@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>Mini Dragon - Episode 13</title>
+    <link>https://genoanime.com/details?id=8765&episode=13</link>
+    <description>Episode 13 of Mini Dragon is out!</description>
+</item>
+
+<item>
     <title>Wan Jie Du Zun - Episode 27</title>
     <link>https://genoanime.com/details?id=8750&episode=27</link>
     <description>Episode 27 of Wan Jie Du Zun is out!</description>
@@ -202,12 +208,6 @@
     <title>Aware! Meisaku-kun - Episode 108</title>
     <link>https://genoanime.com/details?id=8781&episode=108</link>
     <description>Episode 108 of Aware! Meisaku-kun is out!</description>
-</item>
-
-<item>
-    <title>Xinghe Zhizun - Episode 9</title>
-    <link>https://genoanime.com/details?id=9140&episode=9</link>
-    <description>Episode 9 of Xinghe Zhizun is out!</description>
 </item>
 
 </channel>
