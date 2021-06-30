@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>Memories (Dub) - Episode 3</title>
+    <link>https://genoanime.com/details?id=9237&episode=3</link>
+    <description>Episode 3 of Memories (Dub) is out!</description>
+</item>
+
+<item>
     <title>Lupin III: Nusumareta Lupin - Episode 1</title>
     <link>https://genoanime.com/details?id=9236&episode=1</link>
     <description>Episode 1 of Lupin III: Nusumareta Lupin is out!</description>
@@ -202,12 +208,6 @@
     <title>Fumetsu no Anata e - Episode 12</title>
     <link>https://genoanime.com/details?id=8810&episode=12</link>
     <description>Episode 12 of Fumetsu no Anata e is out!</description>
-</item>
-
-<item>
-    <title>Itazuraguma no Gloomy - Episode 12</title>
-    <link>https://genoanime.com/details?id=8811&episode=12</link>
-    <description>Episode 12 of Itazuraguma no Gloomy is out!</description>
 </item>
 
 </channel>
