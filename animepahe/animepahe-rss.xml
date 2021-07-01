@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Scarlet Nexus - Episode 1</title>
+    <link>https://animepahe.com/play/a6d40e27-c5c4-d2c3-e330-d511b29f0d8d/3c797eaddecdc76ca8ff0fd29a19999f19e73a36c71530ad1eec022dfcee3999</link>
+    <description>Episode 1 of Scarlet Nexus is out!</description>
+</item>
+
+<item>
     <title>SD Gundam World Heroes - Episode 13</title>
     <link>https://animepahe.com/play/58158a9b-9f96-4da4-403c-c0ce60259f2f/aaae960e4db8baaafe6d5b6d2ca339984a9f647c6b60b91d9db4273a5c907195</link>
     <description>Episode 13 of SD Gundam World Heroes is out!</description>
@@ -70,12 +76,6 @@
     <title>Fumetsu no Anata e - Episode 12</title>
     <link>https://animepahe.com/play/26b59256-969e-492e-ee7d-372339e26625/9c5ff0ed442a5167e7d756f6722652cff4338961d0d5e10f2557ee2067fca207</link>
     <description>Episode 12 of Fumetsu no Anata e is out!</description>
-</item>
-
-<item>
-    <title>Itazuraguma no Gloomy - Episode 12</title>
-    <link>https://animepahe.com/play/1dd86638-d201-abd7-2db2-d65d46fa7243/f65a101429018f9e05b942c411eb0ba4a6b17cf628bdff9b0bf52a7c55756751</link>
-    <description>Episode 12 of Itazuraguma no Gloomy is out!</description>
 </item>
 
 </channel>
