@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>Higurashi no Naku Koro ni Sotsu - Episode 1</title>
+    <link>https://genoanime.com/details?id=9242&episode=1</link>
+    <description>Episode 1 of Higurashi no Naku Koro ni Sotsu is out!</description>
+</item>
+
+<item>
     <title>Peach Boy Riverside - Episode 1</title>
     <link>https://genoanime.com/details?id=9241&episode=1</link>
     <description>Episode 1 of Peach Boy Riverside is out!</description>
@@ -190,12 +196,6 @@
     <title>Dokidoki! Precure (Dub) - Episode 30</title>
     <link>https://genoanime.com/details?id=9228&episode=30</link>
     <description>Episode 30 of Dokidoki! Precure (Dub) is out!</description>
-</item>
-
-<item>
-    <title>One Punch Man 2nd Season Commemorative Special - Episode 1</title>
-    <link>https://genoanime.com/details?id=9227&episode=1</link>
-    <description>Episode 1 of One Punch Man 2nd Season Commemorative Special is out!</description>
 </item>
 
 </channel>

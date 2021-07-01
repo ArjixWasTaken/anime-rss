@@ -7,9 +7,15 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
-    <title>Higurashi no Naku Koro ni Sotsu - Episode 1</title>
-    <link>https://animepahe.com/play/5f4c493b-f172-b540-fa47-2ce158995f73/5451c985f0f9d6e046d3f4bdfd7d9b027b76cd9e72acb8ecc817e0cbdd87fd05</link>
-    <description>Episode 1 of Higurashi no Naku Koro ni Sotsu is out!</description>
+    <title>Higurashi no Naku Koro ni Sotsu - Episode 2</title>
+    <link>https://animepahe.com/play/5f4c493b-f172-b540-fa47-2ce158995f73/a2c4330bb6c16a853ce72d93146e5c50b075976c76961241750baeb6042752c2</link>
+    <description>Episode 2 of Higurashi no Naku Koro ni Sotsu is out!</description>
+</item>
+
+<item>
+    <title>Mewkledreamy Mix! - Episode 3</title>
+    <link>https://animepahe.com/play/5bed9036-00cb-d10e-ded8-d71087b519f8/6a0015e464964cd00c5023975062ae56e34928ebb7d9c5c1e4626e1a5ef6ca0b</link>
+    <description>Episode 3 of Mewkledreamy Mix! is out!</description>
 </item>
 
 <item>
@@ -70,12 +76,6 @@
     <title>Odd Taxi - Episode 13</title>
     <link>https://animepahe.com/play/4616a8df-0a0a-af27-2536-d0ab47116d37/6a5b0b64b5b5d014dac96d5e97540d764f5b7b5f68a143ab240f4dbd875c2f08</link>
     <description>Episode 13 of Odd Taxi is out!</description>
-</item>
-
-<item>
-    <title>Mars Red - Episode 13</title>
-    <link>https://animepahe.com/play/fc0bca44-3093-79ee-7c72-fb027092f6bd/8bb30914c2b5201a6c101e189b40028d554de8e604ac4f7d73edb00199a8962a</link>
-    <description>Episode 13 of Mars Red is out!</description>
 </item>
 
 </channel>
