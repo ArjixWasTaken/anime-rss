@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>Shiguang Daili Ren - Episode 10</title>
+    <link>https://genoanime.com/details?id=8932&episode=11</link>
+    <description>Episode 10 of Shiguang Daili Ren is out!</description>
+</item>
+
+<item>
     <title>Xinghe Zhizun - Episode 10</title>
     <link>https://genoanime.com/details?id=9140&episode=10</link>
     <description>Episode 10 of Xinghe Zhizun is out!</description>
@@ -190,12 +196,6 @@
     <title>Juan Siliang - Episode 4</title>
     <link>https://genoanime.com/details?id=9163&episode=4</link>
     <description>Episode 4 of Juan Siliang is out!</description>
-</item>
-
-<item>
-    <title>Wu Shang Shen Di 2nd Season - Episode 14</title>
-    <link>https://genoanime.com/details?id=9034&episode=14</link>
-    <description>Episode 14 of Wu Shang Shen Di 2nd Season is out!</description>
 </item>
 
 </channel>
