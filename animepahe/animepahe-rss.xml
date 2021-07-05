@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Seirei Gensouki - Episode 1</title>
+    <link>https://animepahe.com/play/714ae06c-185e-2891-abd0-457308d29413/2fd21ad4e29167cd7e9d97212ac35a175630c5e50ee5ac3965e93f1fcea90a82</link>
+    <description>Episode 1 of Seirei Gensouki is out!</description>
+</item>
+
+<item>
     <title>Uramichi Oniisan - Episode 1</title>
     <link>https://animepahe.com/play/da6554bf-2370-a5d0-d056-0ceb31835f2f/8514bfbed633af5429e2b4ff536305f8a0d25274edfd0355542514389f4399ac</link>
     <description>Episode 1 of Uramichi Oniisan is out!</description>
@@ -70,12 +76,6 @@
     <title>Tokyo Revengers - Episode 13</title>
     <link>https://animepahe.com/play/bcebd9dd-97c8-b654-06fb-d4fa5b06660e/09ae8312b59701ca5b7cbaff3b22e5b645130bf877fea9fe460fffb804bec4a3</link>
     <description>Episode 13 of Tokyo Revengers is out!</description>
-</item>
-
-<item>
-    <title>Re-Main - Episode 1</title>
-    <link>https://animepahe.com/play/ad8d2284-3e21-8830-1221-5e948b8440a4/0f8f13c8ca22cbc39f0080bacb36ef7c1982efa7c09b80e6daddd7f8b0c9f94e</link>
-    <description>Episode 1 of Re-Main is out!</description>
 </item>
 
 </channel>
