@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>Kinnikuman - Episode 92</title>
+    <link>https://genoanime.com/details?id=6634&episode=92</link>
+    <description>Episode 92 of Kinnikuman is out!</description>
+</item>
+
+<item>
     <title>Ani x Para: Anata no Hero wa Dare desu ka - Episode 12</title>
     <link>https://genoanime.com/details?id=9281&episode=13</link>
     <description>Episode 12 of Ani x Para: Anata no Hero wa Dare desu ka is out!</description>
@@ -202,12 +208,6 @@
     <title>Corrector Yui - Episode 28</title>
     <link>https://genoanime.com/details?id=8139&episode=28</link>
     <description>Episode 28 of Corrector Yui is out!</description>
-</item>
-
-<item>
-    <title>Seirei Gensouki - Episode 1</title>
-    <link>https://genoanime.com/details?id=9265&episode=1</link>
-    <description>Episode 1 of Seirei Gensouki is out!</description>
 </item>
 
 </channel>
