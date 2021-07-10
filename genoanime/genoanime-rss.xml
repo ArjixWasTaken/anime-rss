@@ -7,6 +7,18 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>Koyomi History - Episode 1</title>
+    <link>https://genoanime.com/details?id=9301&episode=1</link>
+    <description>Episode 1 of Koyomi History is out!</description>
+</item>
+
+<item>
+    <title>86 (Dub) - Episode 4</title>
+    <link>https://genoanime.com/details?id=9188&episode=4</link>
+    <description>Episode 4 of 86 (Dub) is out!</description>
+</item>
+
+<item>
     <title>Edens Zero - Episode 14</title>
     <link>https://genoanime.com/details?id=8703&episode=14</link>
     <description>Episode 14 of Edens Zero is out!</description>
@@ -208,18 +220,6 @@
     <title>Cardfight!! Vanguard: overDress (Dub) - Episode 1</title>
     <link>https://genoanime.com/details?id=9292&episode=1</link>
     <description>Episode 1 of Cardfight!! Vanguard: overDress (Dub) is out!</description>
-</item>
-
-<item>
-    <title>Artiswitch - Episode 3</title>
-    <link>https://genoanime.com/details?id=9066&episode=3</link>
-    <description>Episode 3 of Artiswitch is out!</description>
-</item>
-
-<item>
-    <title>K×Drop!! - Episode 1</title>
-    <link>https://genoanime.com/details?id=9291&episode=1</link>
-    <description>Episode 1 of K×Drop!! is out!</description>
 </item>
 
 </channel>
