@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>Getter Robo Arc - Episode 2</title>
+    <link>https://genoanime.com/details?id=9257&episode=2</link>
+    <description>Episode 2 of Getter Robo Arc is out!</description>
+</item>
+
+<item>
     <title>Kemono Jihen (Dub) - Episode 10</title>
     <link>https://genoanime.com/details?id=9041&episode=10</link>
     <description>Episode 10 of Kemono Jihen (Dub) is out!</description>
@@ -214,12 +220,6 @@
     <title>Boku no Hero Academia 5th Season (Dub) - Episode 14</title>
     <link>https://genoanime.com/details?id=8782&episode=14</link>
     <description>Episode 14 of Boku no Hero Academia 5th Season (Dub) is out!</description>
-</item>
-
-<item>
-    <title>Boku no Hero Academia 5th Season - Episode 15</title>
-    <link>https://genoanime.com/details?id=8675&episode=15</link>
-    <description>Episode 15 of Boku no Hero Academia 5th Season is out!</description>
 </item>
 
 </channel>
