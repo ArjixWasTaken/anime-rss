@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>Fumetsu no Anata e (Dub) - Episode 7</title>
+    <link>https://genoanime.com/details?id=9083&episode=7</link>
+    <description>Episode 7 of Fumetsu no Anata e (Dub) is out!</description>
+</item>
+
+<item>
     <title>Chibi Revenger - Episode 12</title>
     <link>https://genoanime.com/details?id=9102&episode=12</link>
     <description>Episode 12 of Chibi Revenger is out!</description>
@@ -214,12 +220,6 @@
     <title>Tropical-Rouge! Precure - Episode 20</title>
     <link>https://genoanime.com/details?id=8520&episode=20</link>
     <description>Episode 20 of Tropical-Rouge! Precure is out!</description>
-</item>
-
-<item>
-    <title>Tokyo Revengers (Dub) - Episode 7</title>
-    <link>https://genoanime.com/details?id=9075&episode=7</link>
-    <description>Episode 7 of Tokyo Revengers (Dub) is out!</description>
 </item>
 
 </channel>
