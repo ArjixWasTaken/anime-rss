@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>Master of Torque 3 - Episode 1</title>
+    <link>https://genoanime.com/details?id=9311&episode=1</link>
+    <description>Episode 1 of Master of Torque 3 is out!</description>
+</item>
+
+<item>
     <title>Master of Torque 2 - Episode 1</title>
     <link>https://genoanime.com/details?id=9310&episode=1</link>
     <description>Episode 1 of Master of Torque 2 is out!</description>
@@ -208,12 +214,6 @@
     <title>Getter Robo Arc - Episode 2</title>
     <link>https://genoanime.com/details?id=9257&episode=2</link>
     <description>Episode 2 of Getter Robo Arc is out!</description>
-</item>
-
-<item>
-    <title>Kemono Jihen (Dub) - Episode 10</title>
-    <link>https://genoanime.com/details?id=9041&episode=10</link>
-    <description>Episode 10 of Kemono Jihen (Dub) is out!</description>
 </item>
 
 </channel>
