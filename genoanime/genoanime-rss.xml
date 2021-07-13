@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>Dragon Ball Kai (2014) - Episode 69</title>
+    <link>https://genoanime.com/details?id=1366&episode=69</link>
+    <description>Episode 69 of Dragon Ball Kai (2014) is out!</description>
+</item>
+
+<item>
     <title>Qiang Niang - Episode 12</title>
     <link>https://genoanime.com/details?id=6793&episode=12</link>
     <description>Episode 12 of Qiang Niang is out!</description>
@@ -208,12 +214,6 @@
     <title>Xinghe Zhizun - Episode 13</title>
     <link>https://genoanime.com/details?id=9140&episode=13</link>
     <description>Episode 13 of Xinghe Zhizun is out!</description>
-</item>
-
-<item>
-    <title>Ninja Hattori-kun (Dub) - Episode 215</title>
-    <link>https://genoanime.com/details?id=9055&episode=215</link>
-    <description>Episode 215 of Ninja Hattori-kun (Dub) is out!</description>
 </item>
 
 </channel>
