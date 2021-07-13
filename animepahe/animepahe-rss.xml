@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Love Live! Superstar!! - Episode 1</title>
+    <link>https://animepahe.com/play/e5dafc23-deda-115f-833c-334f2d288440/2d473d5e63df66a97ffab796b59fe8c978d1eb79926818c5e37f76b6e2af14d4</link>
+    <description>Episode 1 of Love Live! Superstar!! is out!</description>
+</item>
+
+<item>
     <title>Seirei Gensouki - Episode 2</title>
     <link>https://animepahe.com/play/714ae06c-185e-2891-abd0-457308d29413/edaa92df33434ff8f10c10e70b1e4c080db4f08649fa582f371328904ac7e4d6</link>
     <description>Episode 2 of Seirei Gensouki is out!</description>
@@ -70,12 +76,6 @@
     <title>Mushoku Tensei: Isekai Ittara Honki Dasu - Episode 10</title>
     <link>https://animepahe.com/play/8ec2224a-6556-edc0-c9c9-863c53670e63/d7bb6908caf4deee836d643d10327f41dbc8f919bead23ed8b35a10ea4926129</link>
     <description>Episode 10 of Mushoku Tensei: Isekai Ittara Honki Dasu is out!</description>
-</item>
-
-<item>
-    <title>IDOLiSH7: Third Beat! - Episode 2</title>
-    <link>https://animepahe.com/play/55aa37f5-615f-9499-1c4a-2937fcf042e5/12e33af2fcd754e1240b2d617243f4ad35e4d64a70e7c63355b82e1d8b816050</link>
-    <description>Episode 2 of IDOLiSH7: Third Beat! is out!</description>
 </item>
 
 </channel>
