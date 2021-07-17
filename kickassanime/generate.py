@@ -12,7 +12,7 @@ rss = """
 <description>A simple cleaned RSS feed for kickassanime!</description>
 """
 
-html = requests.get('https://www2.kickassanime.rs/feed/latest')
+html = requests.get('https://www2.kickassanime.ro/feed/latest')
 rss += re.sub(r'[.A-Za-z"><0-9\s\v\n\r?\/-:-,+=]+\/height>[\n\s]+<\/image>|[\s]+<guid.+guid>', '', html.text)
 
 try:
