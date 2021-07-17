@@ -7,6 +7,12 @@
 <description>A simple RSS feed for gogoanime!</description>
 
 <item>
+    <title>ELF Academy - Episode 3</title>
+    <link>https://gogoanime.vc/elf-academy-episode-3</link>
+    <description>Episode 3 of ELF Academy is out!</description>
+</item>
+
+<item>
     <title>Gintama: The Final - Episode 1</title>
     <link>https://gogoanime.vc/gintama-the-final-episode-1</link>
     <description>Episode 1 of Gintama: The Final is out!</description>
@@ -118,12 +124,6 @@
     <title>Scarlet Nexus - Episode 3</title>
     <link>https://gogoanime.vc/scarlet-nexus-episode-3</link>
     <description>Episode 3 of Scarlet Nexus is out!</description>
-</item>
-
-<item>
-    <title>Get Ride! AMDriver - Episode 13</title>
-    <link>https://gogoanime.vc/get-ride-amdriver-episode-13</link>
-    <description>Episode 13 of Get Ride! AMDriver is out!</description>
 </item>
 
 </channel>
