@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>Gintama: The Final - Episode 1</title>
+    <link>https://genoanime.com/details?id=9336&episode=1</link>
+    <description>Episode 1 of Gintama: The Final is out!</description>
+</item>
+
+<item>
     <title>Stone Age (Dub) - Episode 52</title>
     <link>https://genoanime.com/details?id=9335&episode=52</link>
     <description>Episode 52 of Stone Age (Dub) is out!</description>
@@ -214,12 +220,6 @@
     <title>Zombieland Saga: Revenge (Dub) - Episode 1</title>
     <link>https://genoanime.com/details?id=9326&episode=1</link>
     <description>Episode 1 of Zombieland Saga: Revenge (Dub) is out!</description>
-</item>
-
-<item>
-    <title>Peach Boy Riverside - Episode 3</title>
-    <link>https://genoanime.com/details?id=9241&episode=3</link>
-    <description>Episode 3 of Peach Boy Riverside is out!</description>
 </item>
 
 </channel>
