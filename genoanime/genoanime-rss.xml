@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>One Piece - Episode 983</title>
+    <link>https://genoanime.com/details?id=8046&episode=983</link>
+    <description>Episode 983 of One Piece is out!</description>
+</item>
+
+<item>
     <title>Tropical-Rouge! Precure - Episode 21</title>
     <link>https://genoanime.com/details?id=8520&episode=21</link>
     <description>Episode 21 of Tropical-Rouge! Precure is out!</description>
@@ -214,12 +220,6 @@
     <title>Dragon Quest: Dai no Daibouken (2020) - Episode 40</title>
     <link>https://genoanime.com/details?id=8028&episode=41</link>
     <description>Episode 40 of Dragon Quest: Dai no Daibouken (2020) is out!</description>
-</item>
-
-<item>
-    <title>Against the Sky Supreme - Episode 1</title>
-    <link>https://genoanime.com/details?id=9334&episode=1</link>
-    <description>Episode 1 of Against the Sky Supreme is out!</description>
 </item>
 
 </channel>
