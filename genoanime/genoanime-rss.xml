@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>Juan Siliang - Episode 7</title>
+    <link>https://genoanime.com/details?id=9163&episode=7</link>
+    <description>Episode 7 of Juan Siliang is out!</description>
+</item>
+
+<item>
     <title>Jaku-Chara Tomozaki-kun (Dub) - Episode 12</title>
     <link>https://genoanime.com/details?id=8587&episode=12</link>
     <description>Episode 12 of Jaku-Chara Tomozaki-kun (Dub) is out!</description>
@@ -208,12 +214,6 @@
     <title>Love Live! Superstar!! - Episode 2</title>
     <link>https://genoanime.com/details?id=9304&episode=2</link>
     <description>Episode 2 of Love Live! Superstar!! is out!</description>
-</item>
-
-<item>
-    <title>Kami nomi zo Shiru Sekai: Flag 0 - Episode 1</title>
-    <link>https://genoanime.com/details?id=9353&episode=1</link>
-    <description>Episode 1 of Kami nomi zo Shiru Sekai: Flag 0 is out!</description>
 </item>
 
 </channel>
