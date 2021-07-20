@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Obey Me! - Episode 1</title>
+    <link>https://animepahe.com/play/95db35a8-6743-1dc5-90da-7909e02c5660/c1bfec775694a2d87811500460d1edf5da9de6d700f24eaa1ed50881619d879d</link>
+    <description>Episode 1 of Obey Me! is out!</description>
+</item>
+
+<item>
     <title>Love Live! Superstar!! - Episode 2</title>
     <link>https://animepahe.com/play/40e40140-e6b9-c43e-9f5c-486148deb530/269e1bf966490cc25a9fdc79a57f6d27e4c21f90c2f8a8b36d2189bcf54c2dc1</link>
     <description>Episode 2 of Love Live! Superstar!! is out!</description>
@@ -70,12 +76,6 @@
     <title>Yami Shibai 9 - Episode 2</title>
     <link>https://animepahe.com/play/cf2b20c7-676f-38af-fbd6-881aedea4f47/e6e43e71381dc184ba9c0032fbb88da0ad1c38203b84876748ea37fc5bafb18f</link>
     <description>Episode 2 of Yami Shibai 9 is out!</description>
-</item>
-
-<item>
-    <title>Kingdom 3rd Season - Episode 14</title>
-    <link>https://animepahe.com/play/7bf40396-2f38-0955-9309-3f1d36ba80bc/6d5ec847b50b1075d3ef52bf3cf6d1e9a3c63066167705e1d957bdc62f8330fe</link>
-    <description>Episode 14 of Kingdom 3rd Season is out!</description>
 </item>
 
 </channel>
