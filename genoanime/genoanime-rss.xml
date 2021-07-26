@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>Magical Hat - Episode 5</title>
+    <link>https://genoanime.com/details?id=9407&episode=5</link>
+    <description>Episode 5 of Magical Hat is out!</description>
+</item>
+
+<item>
     <title>Wan Jie Du Zun - Episode 34</title>
     <link>https://genoanime.com/details?id=8750&episode=34</link>
     <description>Episode 34 of Wan Jie Du Zun is out!</description>
@@ -214,12 +220,6 @@
     <title>Sore Ike! Anpanman: Yuurei Sen wo Yattsukero!! - Episode 1</title>
     <link>https://genoanime.com/details?id=9391&episode=1</link>
     <description>Episode 1 of Sore Ike! Anpanman: Yuurei Sen wo Yattsukero!! is out!</description>
-</item>
-
-<item>
-    <title>One Piece - Episode 984</title>
-    <link>https://genoanime.com/details?id=8046&episode=984</link>
-    <description>Episode 984 of One Piece is out!</description>
 </item>
 
 </channel>
