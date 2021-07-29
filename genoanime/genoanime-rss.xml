@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>Zombieland Saga: Revenge (Dub) - Episode 2</title>
+    <link>https://genoanime.com/details?id=9326&episode=2</link>
+    <description>Episode 2 of Zombieland Saga: Revenge (Dub) is out!</description>
+</item>
+
+<item>
     <title>Higurashi no Naku Koro ni Sotsu - Episode 6</title>
     <link>https://genoanime.com/details?id=9242&episode=6</link>
     <description>Episode 6 of Higurashi no Naku Koro ni Sotsu is out!</description>
@@ -202,12 +208,6 @@
     <title>Fumetsu no Anata e - Episode 15</title>
     <link>https://genoanime.com/details?id=8810&episode=15</link>
     <description>Episode 15 of Fumetsu no Anata e is out!</description>
-</item>
-
-<item>
-    <title>Uramichi Oniisan - Episode 4</title>
-    <link>https://genoanime.com/details?id=9264&episode=4</link>
-    <description>Episode 4 of Uramichi Oniisan is out!</description>
 </item>
 
 </channel>
