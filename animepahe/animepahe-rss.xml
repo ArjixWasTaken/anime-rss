@@ -7,9 +7,15 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
-    <title>WWW.Working!! - Episode 1</title>
-    <link>https://animepahe.com/play/e931c11f-4df5-9233-8e8f-b75ce64f9981/699b7f679b23b7159339f3a9a51cbb176905d1d842e7259a375fd36571f6ff6e</link>
-    <description>Episode 1 of WWW.Working!! is out!</description>
+    <title>WWW.Working!! - Episode 5</title>
+    <link>https://animepahe.com/play/e931c11f-4df5-9233-8e8f-b75ce64f9981/bc6e284e492b0b2b85a2000095d2e620726d04b42f10c34cf193230bd787cb4d</link>
+    <description>Episode 5 of WWW.Working!! is out!</description>
+</item>
+
+<item>
+    <title>Working!!!: Lord of the Takanashi - Episode 14</title>
+    <link>https://animepahe.com/play/738c10b5-3644-c9ba-4f0a-dc37c9ae838a/469c05a2c942eaa1cb4f76540c3efb111148d3cd370d4954022f2c76bb9b49c7</link>
+    <description>Episode 14 of Working!!!: Lord of the Takanashi is out!</description>
 </item>
 
 <item>
@@ -70,12 +76,6 @@
     <title>Shinigami Bocchan to Kuro Maid - Episode 5</title>
     <link>https://animepahe.com/play/78d9ad70-2672-879c-77f9-3515f9b69db9/ea242efb4b9c82902c24ac7ac6ad58a0f0d48d832d76aaff9c3ba28bb86e280b</link>
     <description>Episode 5 of Shinigami Bocchan to Kuro Maid is out!</description>
-</item>
-
-<item>
-    <title>Getter Robo Arc - Episode 5</title>
-    <link>https://animepahe.com/play/e62ae9c4-1723-0a17-a5f8-ae5a669777df/9d35af5cb7a9c4d27088821850f7c8a31eb7b1cdad19d43192192eca18793542</link>
-    <description>Episode 5 of Getter Robo Arc is out!</description>
 </item>
 
 </channel>
