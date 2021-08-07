@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Kakushigoto Movie - Episode 1</title>
+    <link>https://animepahe.com/play/4a8d57b4-b0d3-4a02-f898-93da5b857ab9/7fd5256b553ccb3133973ffd5c46184ed70c3c63ff9cf12b57b4f09d2f30331c</link>
+    <description>Episode 1 of Kakushigoto Movie is out!</description>
+</item>
+
+<item>
     <title>Dragon Quest: Dai no Daibouken (2020) - Episode 43</title>
     <link>https://animepahe.com/play/d0770042-e393-895f-37d1-1c50599c29cf/e1e916cab80176efc56cb5519348792c727a376adff5c70d35db95cfcf761dff</link>
     <description>Episode 43 of Dragon Quest: Dai no Daibouken (2020) is out!</description>
@@ -70,12 +76,6 @@
     <title>Saenai Heroine no Sodatekata - Episode 12</title>
     <link>https://animepahe.com/play/1fb93ec6-266d-7648-09cb-f822bea2eb3c/99002d4f7ab57625097e5efdfd76552d3cb15b7401f46f54c4abf6a14d59f03b</link>
     <description>Episode 12 of Saenai Heroine no Sodatekata is out!</description>
-</item>
-
-<item>
-    <title>Saenai Heroine no Sodatekata: Ai to Seishun no Service-kai - Episode 0</title>
-    <link>https://animepahe.com/play/b64ed74e-b18f-93ab-7720-107c5e862ba5/be2fd02aabb700f4d69059bdc21038d62054f94bdb07ead06eaa069e406cb7f6</link>
-    <description>Episode 0 of Saenai Heroine no Sodatekata: Ai to Seishun no Service-kai is out!</description>
 </item>
 
 </channel>
