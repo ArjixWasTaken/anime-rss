@@ -7,6 +7,18 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>Red Baron - Episode 44</title>
+    <link>https://genoanime.com/details?id=7911&episode=44</link>
+    <description>Episode 44 of Red Baron is out!</description>
+</item>
+
+<item>
+    <title>Digimon Adventure (2020) - Episode 60</title>
+    <link>https://genoanime.com/details?id=8047&episode=60</link>
+    <description>Episode 60 of Digimon Adventure (2020) is out!</description>
+</item>
+
+<item>
     <title>Mo Dao Zu Shi 3rd Season - Episode 2</title>
     <link>https://genoanime.com/details?id=9482&episode=2</link>
     <description>Episode 2 of Mo Dao Zu Shi 3rd Season is out!</description>
@@ -208,18 +220,6 @@
     <title>Ore, Tsushima - Episode 6</title>
     <link>https://genoanime.com/details?id=9268&episode=6</link>
     <description>Episode 6 of Ore, Tsushima is out!</description>
-</item>
-
-<item>
-    <title>Mai-Otome Special: Otome no Inori - Episode 1</title>
-    <link>https://genoanime.com/details?id=9474&episode=1</link>
-    <description>Episode 1 of Mai-Otome Special: Otome no Inori is out!</description>
-</item>
-
-<item>
-    <title>My-Otome 0- S.ifr - Episode 3</title>
-    <link>https://genoanime.com/details?id=9473&episode=3</link>
-    <description>Episode 3 of My-Otome 0- S.ifr is out!</description>
 </item>
 
 </channel>
