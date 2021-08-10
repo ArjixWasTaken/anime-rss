@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Love Live! Superstar!! - Episode 3</title>
+    <link>https://animepahe.com/play/97e0ebac-6ec5-4969-19f8-7aa3fb1c27b4/006822c2440892309168dd2b27554cc61c195ac24a1412fcb80ad211497db1fb</link>
+    <description>Episode 3 of Love Live! Superstar!! is out!</description>
+</item>
+
+<item>
     <title>Seirei Gensouki - Episode 6</title>
     <link>https://animepahe.com/play/f3c58815-4d1c-34c4-9249-44e3b43c386e/4e3fdef0df336e318644969f0846d13386bc8d738b9459bd505774335492ddcf</link>
     <description>Episode 6 of Seirei Gensouki is out!</description>
@@ -70,12 +76,6 @@
     <title>Bishoujo Senshi Sailor Moon S - Episode 38</title>
     <link>https://animepahe.com/play/4965066e-4092-d043-2063-11820b22778a/deac3786de97440d07cae1bf64091b1777a007ebfdd6faa79914807b04bb7e12</link>
     <description>Episode 38 of Bishoujo Senshi Sailor Moon S is out!</description>
-</item>
-
-<item>
-    <title>Bishoujo Senshi Sailor Moon R: The Movie - Episode 1</title>
-    <link>https://animepahe.com/play/6ef31958-0b41-5263-0c70-e40053aaac3a/7436a8a5535014d90d79c88f573cd886bf1641d3ac37439328c9531140452cfd</link>
-    <description>Episode 1 of Bishoujo Senshi Sailor Moon R: The Movie is out!</description>
 </item>
 
 </channel>
