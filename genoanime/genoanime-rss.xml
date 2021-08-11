@@ -7,6 +7,18 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>GS Mikami: Gokuraku Daisakusen!! - Episode 1</title>
+    <link>https://genoanime.com/details?id=9495&episode=1</link>
+    <description>Episode 1 of GS Mikami: Gokuraku Daisakusen!! is out!</description>
+</item>
+
+<item>
+    <title>GS Mikami: Gokuraku Daisakusen!! (Dub) - Episode 1</title>
+    <link>https://genoanime.com/details?id=9494&episode=1</link>
+    <description>Episode 1 of GS Mikami: Gokuraku Daisakusen!! (Dub) is out!</description>
+</item>
+
+<item>
     <title>Night Head 2041 - Episode 5</title>
     <link>https://genoanime.com/details?id=9321&episode=5</link>
     <description>Episode 5 of Night Head 2041 is out!</description>
@@ -208,18 +220,6 @@
     <title>Corrector Yui - Episode 33</title>
     <link>https://genoanime.com/details?id=8139&episode=33</link>
     <description>Episode 33 of Corrector Yui is out!</description>
-</item>
-
-<item>
-    <title>Hei Mao Jing Zhang - Episode 5</title>
-    <link>https://genoanime.com/details?id=9485&episode=5</link>
-    <description>Episode 5 of Hei Mao Jing Zhang is out!</description>
-</item>
-
-<item>
-    <title>Rikujou Bouei-tai Mao-chan - Episode 26</title>
-    <link>https://genoanime.com/details?id=9484&episode=26</link>
-    <description>Episode 26 of Rikujou Bouei-tai Mao-chan is out!</description>
 </item>
 
 </channel>
