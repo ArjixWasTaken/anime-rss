@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>Higurashi no Naku Koro ni Sotsu - Episode 8</title>
+    <link>https://genoanime.com/details?id=9242&episode=8</link>
+    <description>Episode 8 of Higurashi no Naku Koro ni Sotsu is out!</description>
+</item>
+
+<item>
     <title>Evangelion: 3.0+1.0 Thrice Upon a Time - Episode 1</title>
     <link>https://genoanime.com/details?id=9496&episode=1</link>
     <description>Episode 1 of Evangelion: 3.0+1.0 Thrice Upon a Time is out!</description>
@@ -208,12 +214,6 @@
     <title>Tensei shitara Slime Datta Ken 2nd Season Part 2 - Episode 6</title>
     <link>https://genoanime.com/details?id=9234&episode=7</link>
     <description>Episode 6 of Tensei shitara Slime Datta Ken 2nd Season Part 2 is out!</description>
-</item>
-
-<item>
-    <title>Ore, Tsushima (ONA) - Episode 11</title>
-    <link>https://genoanime.com/details?id=9345&episode=11</link>
-    <description>Episode 11 of Ore, Tsushima (ONA) is out!</description>
 </item>
 
 </channel>
