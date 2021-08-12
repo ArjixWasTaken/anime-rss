@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>Evangelion: 3.0+1.0 Thrice Upon a Time - Episode 1</title>
+    <link>https://genoanime.com/details?id=9496&episode=1</link>
+    <description>Episode 1 of Evangelion: 3.0+1.0 Thrice Upon a Time is out!</description>
+</item>
+
+<item>
     <title>Scarlet Nexus (Dub) - Episode 2</title>
     <link>https://genoanime.com/details?id=9458&episode=2</link>
     <description>Episode 2 of Scarlet Nexus (Dub) is out!</description>
@@ -208,12 +214,6 @@
     <title>Ore, Tsushima (ONA) - Episode 11</title>
     <link>https://genoanime.com/details?id=9345&episode=11</link>
     <description>Episode 11 of Ore, Tsushima (ONA) is out!</description>
-</item>
-
-<item>
-    <title>Fumetsu no Anata e (Dub) - Episode 11</title>
-    <link>https://genoanime.com/details?id=9083&episode=11</link>
-    <description>Episode 11 of Fumetsu no Anata e (Dub) is out!</description>
 </item>
 
 </channel>
