@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Pokemon (2019) - Episode 76</title>
+    <link>https://animepahe.com/play/f45b1dc9-864f-337b-f2cc-d5159cb85038/028698ed6b74d2d5f7211a29b3585ddc8f3d7ece8d662ad4727b2a38d2c3cff0</link>
+    <description>Episode 76 of Pokemon (2019) is out!</description>
+</item>
+
+<item>
     <title>Kanojo mo Kanojo - Episode 7</title>
     <link>https://animepahe.com/play/36d57a87-a32a-cc10-94e4-384cc3117d00/ac3b2913327dfa7b6719fb06f08b5bad819a8b51f764ab72357860b97a683359</link>
     <description>Episode 7 of Kanojo mo Kanojo is out!</description>
@@ -70,12 +76,6 @@
     <title>Heion Sedai no Idaten-tachi - Episode 5</title>
     <link>https://animepahe.com/play/58a26b85-1e39-fca8-d86c-32b4296dee1a/88a60b410d4676f5b9f5280cf43488495e1df39ad82b3dc2bf53752b66abaa40</link>
     <description>Episode 5 of Heion Sedai no Idaten-tachi is out!</description>
-</item>
-
-<item>
-    <title>Sonny Boy - Episode 5</title>
-    <link>https://animepahe.com/play/9a68f931-d0a9-285a-79db-2911aa3ce35f/d8451368155ab2ab11f56ef5f515cf73900605c810463ec8e8b6ea9965f7d062</link>
-    <description>Episode 5 of Sonny Boy is out!</description>
 </item>
 
 </channel>
