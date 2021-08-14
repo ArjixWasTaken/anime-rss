@@ -7,6 +7,18 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>Pokemon (2019) - Episode 76</title>
+    <link>https://genoanime.com/details?id=8027&episode=76</link>
+    <description>Episode 76 of Pokemon (2019) is out!</description>
+</item>
+
+<item>
+    <title>Wanmei Shijie - Episode 19</title>
+    <link>https://genoanime.com/details?id=8884&episode=19</link>
+    <description>Episode 19 of Wanmei Shijie is out!</description>
+</item>
+
+<item>
     <title>Kanojo mo Kanojo - Episode 7</title>
     <link>https://genoanime.com/details?id=9247&episode=7</link>
     <description>Episode 7 of Kanojo mo Kanojo is out!</description>
@@ -208,18 +220,6 @@
     <title>Peach Boy Riverside - Episode 7</title>
     <link>https://genoanime.com/details?id=9241&episode=7</link>
     <description>Episode 7 of Peach Boy Riverside is out!</description>
-</item>
-
-<item>
-    <title>Scarlet Nexus - Episode 7</title>
-    <link>https://genoanime.com/details?id=9184&episode=7</link>
-    <description>Episode 7 of Scarlet Nexus is out!</description>
-</item>
-
-<item>
-    <title>SD Gundam World Heroes - Episode 19</title>
-    <link>https://genoanime.com/details?id=8757&episode=19</link>
-    <description>Episode 19 of SD Gundam World Heroes is out!</description>
 </item>
 
 </channel>
