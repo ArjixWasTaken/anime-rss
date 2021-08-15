@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Kaizoku Oujo - Episode 1</title>
+    <link>https://animepahe.com/play/1dd98c43-6416-15ec-7084-1f950d5d1088/6cf2c7258aadebc402d392fe9efaf41bb8daa4c9664a80821ff9ebd1bb52f8f5</link>
+    <description>Episode 1 of Kaizoku Oujo is out!</description>
+</item>
+
+<item>
     <title>Digimon Adventure: - Episode 61</title>
     <link>https://animepahe.com/play/76351e47-a106-6a79-82c8-2c4606d24100/edeb7c1d3c089ec8e1e550c5c82bd3e0791fa7143a27217e67b7f70621bcbbe0</link>
     <description>Episode 61 of Digimon Adventure: is out!</description>
@@ -70,12 +76,6 @@
     <title>Mahouka Koukou no Yuutousei - Episode 7</title>
     <link>https://animepahe.com/play/58b0e91f-c2eb-9e04-6833-2a603150650d/bcccda68c4dedd689c6aeab8388ea8b4203c96e9f0c3bf8e436f2c6dcc2b5490</link>
     <description>Episode 7 of Mahouka Koukou no Yuutousei is out!</description>
-</item>
-
-<item>
-    <title>D_Cide Traumerei the Animation - Episode 6</title>
-    <link>https://animepahe.com/play/90cb7fd3-c208-09ff-ddea-463d2e6f0d4a/bb39f6e0a3646565bfed0fb2c17e58911cf8ba0077cc51c55b0192475d27c0c8</link>
-    <description>Episode 6 of D_Cide Traumerei the Animation is out!</description>
 </item>
 
 </channel>
