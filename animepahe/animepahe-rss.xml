@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>One Piece - Episode 987</title>
+    <link>https://animepahe.com/play/9c45891e-dd8d-1710-50f5-ce8e2cdd0bce/d359d9cf70578316a599505e17dc0d0d6d59756ea7e6464b0c0563a7d6ed2e02</link>
+    <description>Episode 987 of One Piece is out!</description>
+</item>
+
+<item>
     <title>Tropical-Rouge! Precure - Episode 24</title>
     <link>https://animepahe.com/play/1e18aa96-0c23-2dea-a913-2709391edf7f/2876382822190371b288e51e47ca197f0625367bf645dd924319712ffaf383ec</link>
     <description>Episode 24 of Tropical-Rouge! Precure is out!</description>
@@ -70,12 +76,6 @@
     <title>Bokutachi no Remake - Episode 6.5</title>
     <link>https://animepahe.com/play/388186f0-1d63-43b6-a48a-1dca3616a137/fa7ca486725d91ed96e2193c09797a59cc8ff426e94af3ccc68637b2ac63af7d</link>
     <description>Episode 6.5 of Bokutachi no Remake is out!</description>
-</item>
-
-<item>
-    <title>Detective Conan - Episode 1015</title>
-    <link>https://animepahe.com/play/4e62f6e2-436d-45a3-40f4-9f7b375396b2/bf08ead309be658e6fbe240981ccba9cc1e78228175f43f25bdee37ea840d6d4</link>
-    <description>Episode 1015 of Detective Conan is out!</description>
 </item>
 
 </channel>
