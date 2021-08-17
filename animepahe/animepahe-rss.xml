@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Queen's Blade: Unlimited - Episode 1</title>
+    <link>https://animepahe.com/play/52a5e31e-b2cb-16fd-1154-de52dcaee0fe/80d16e78961e0ab859dffffc9b3c62ecf62f8a93190908845a3fd1a095770aab</link>
+    <description>Episode 1 of Queen's Blade: Unlimited is out!</description>
+</item>
+
+<item>
     <title>Gintama.: Shirogane no Tamashii-hen - Kouhan-sen - Episode 367</title>
     <link>https://animepahe.com/play/77f2592b-e968-1f72-9423-ed0230b0ab0a/245d8d8b396e1f08f2b2c47acdf47da12686c2eb9f024e7ed629bd6827f3e1cf</link>
     <description>Episode 367 of Gintama.: Shirogane no Tamashii-hen - Kouhan-sen is out!</description>
@@ -70,12 +76,6 @@
     <title>Gintama' - Episode 252</title>
     <link>https://animepahe.com/play/cfa32ff8-1dff-c5a3-e4f6-81b47575d6f7/46d30a41e694b57aa341b8ba9a7d9ed03b0b3cead2a3f49eb67c47f0784608f5</link>
     <description>Episode 252 of Gintama' is out!</description>
-</item>
-
-<item>
-    <title>Gintama: Shinyaku Benizakura-hen - Episode 1</title>
-    <link>https://animepahe.com/play/6572707a-b457-4944-6d08-aa9cea41946e/28aa23c3eaf9bbbb41de812d49588c285aefd9220f537d2b2ab531565e8d8095</link>
-    <description>Episode 1 of Gintama: Shinyaku Benizakura-hen is out!</description>
 </item>
 
 </channel>
