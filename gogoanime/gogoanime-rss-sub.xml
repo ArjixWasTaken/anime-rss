@@ -7,6 +7,18 @@
 <description>A simple RSS feed for gogoanime!</description>
 
 <item>
+    <title>Platonic Chain: Web - Episode 1</title>
+    <link>https://gogoanime.vc/platonic-chain-web-episode-1</link>
+    <description>Episode 1 of Platonic Chain: Web is out!</description>
+</item>
+
+<item>
+    <title>Platonic Chain - Episode 24</title>
+    <link>https://gogoanime.vc/platonic-chain-episode-24</link>
+    <description>Episode 24 of Platonic Chain is out!</description>
+</item>
+
+<item>
     <title>Seirei Gensouki - Episode 7</title>
     <link>https://gogoanime.vc/seirei-gensouki-episode-7</link>
     <description>Episode 7 of Seirei Gensouki is out!</description>
@@ -112,18 +124,6 @@
     <title>Getter Robo Arc - Episode 7</title>
     <link>https://gogoanime.vc/getter-robo-arc-episode-7</link>
     <description>Episode 7 of Getter Robo Arc is out!</description>
-</item>
-
-<item>
-    <title>Poketoon - Episode 5</title>
-    <link>https://gogoanime.vc/poketoon-episode-5</link>
-    <description>Episode 5 of Poketoon is out!</description>
-</item>
-
-<item>
-    <title>Edens Zero - Episode 19</title>
-    <link>https://gogoanime.vc/edens-zero-episode-19</link>
-    <description>Episode 19 of Edens Zero is out!</description>
 </item>
 
 </channel>
