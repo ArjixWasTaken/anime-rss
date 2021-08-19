@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>Scarlet Nexus - Episode 8</title>
+    <link>https://genoanime.com/details?id=9184&episode=8</link>
+    <description>Episode 8 of Scarlet Nexus is out!</description>
+</item>
+
+<item>
     <title>Etotama: Nyankyaku Banrai - Episode 1</title>
     <link>https://genoanime.com/details?id=9525&episode=1</link>
     <description>Episode 1 of Etotama: Nyankyaku Banrai is out!</description>
@@ -208,12 +214,6 @@
     <title>Youseiki Suikoden - Episode 1</title>
     <link>https://genoanime.com/details?id=9517&episode=1</link>
     <description>Episode 1 of Youseiki Suikoden is out!</description>
-</item>
-
-<item>
-    <title>Shaman King Specials - Episode 4</title>
-    <link>https://genoanime.com/details?id=9516&episode=4</link>
-    <description>Episode 4 of Shaman King Specials is out!</description>
 </item>
 
 </channel>
