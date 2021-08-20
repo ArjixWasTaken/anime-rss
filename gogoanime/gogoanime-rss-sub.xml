@@ -7,6 +7,12 @@
 <description>A simple RSS feed for gogoanime!</description>
 
 <item>
+    <title>Obey Me! - Episode 3</title>
+    <link>https://gogoanime.vc/obey-me-episode-3</link>
+    <description>Episode 3 of Obey Me! is out!</description>
+</item>
+
+<item>
     <title>Musashi no Ken - Episode 72</title>
     <link>https://gogoanime.vc/musashi-no-ken-episode-72</link>
     <description>Episode 72 of Musashi no Ken is out!</description>
@@ -118,12 +124,6 @@
     <title>Little Charo - Episode 50</title>
     <link>https://gogoanime.vc/little-charo-episode-50</link>
     <description>Episode 50 of Little Charo is out!</description>
-</item>
-
-<item>
-    <title>Ore, Tsushima (ONA) - Episode 14</title>
-    <link>https://gogoanime.vc/ore-tsushima-ona-episode-14</link>
-    <description>Episode 14 of Ore, Tsushima (ONA) is out!</description>
 </item>
 
 </channel>
