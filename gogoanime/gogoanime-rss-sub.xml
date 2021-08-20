@@ -7,6 +7,12 @@
 <description>A simple RSS feed for gogoanime!</description>
 
 <item>
+    <title>Pokemon (2019) - Episode 77</title>
+    <link>https://gogoanime.vc/pokemon-2019-episode-77</link>
+    <description>Episode 77 of Pokemon (2019) is out!</description>
+</item>
+
+<item>
     <title>Kanojo mo Kanojo - Episode 8</title>
     <link>https://gogoanime.vc/kanojo-mo-kanojo-episode-8</link>
     <description>Episode 8 of Kanojo mo Kanojo is out!</description>
@@ -118,12 +124,6 @@
     <title>Scarlet Nexus - Episode 8</title>
     <link>https://gogoanime.vc/scarlet-nexus-episode-8</link>
     <description>Episode 8 of Scarlet Nexus is out!</description>
-</item>
-
-<item>
-    <title>Etotama: Nyankyaku Banrai - Episode 1</title>
-    <link>https://gogoanime.vc/etotama-nyankyaku-banrai-episode-1</link>
-    <description>Episode 1 of Etotama: Nyankyaku Banrai is out!</description>
 </item>
 
 </channel>
