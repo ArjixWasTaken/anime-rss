@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Doukyuusei (Movie) - Episode 1</title>
+    <link>https://animepahe.com/play/9a66afc8-5cb0-7287-0f8f-4652efe710e2/3909321e36c8ace3905360c243f622e2de4b18e408c61d26078a11e6ba049860</link>
+    <description>Episode 1 of Doukyuusei (Movie) is out!</description>
+</item>
+
+<item>
     <title>Digimon Adventure: - Episode 62</title>
     <link>https://animepahe.com/play/76351e47-a106-6a79-82c8-2c4606d24100/99814fa36468fcff3b8e9fd6a1f5f598a27296fb2cc219362df0adacbe36a815</link>
     <description>Episode 62 of Digimon Adventure: is out!</description>
@@ -70,12 +76,6 @@
     <title>Mairimashita! Iruma-kun 2nd Season - Episode 19</title>
     <link>https://animepahe.com/play/0f111731-d554-5c95-a430-30c5e173920a/7e496f3a50db5214c9821da99f8eeb777224fb658e58a5e7963ffb396f2df6ba</link>
     <description>Episode 19 of Mairimashita! Iruma-kun 2nd Season is out!</description>
-</item>
-
-<item>
-    <title>Boku no Hero Academia 5th Season - Episode 108</title>
-    <link>https://animepahe.com/play/875f80ae-7e1c-6972-8899-0075f42c268f/74b0586ea8be22022b9cdf26070a6057ee7246adfe06526499afeddbcf2d015f</link>
-    <description>Episode 108 of Boku no Hero Academia 5th Season is out!</description>
 </item>
 
 </channel>
