@@ -7,6 +7,18 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>Naze Nani Dendrogram - Episode 0</title>
+    <link>https://genoanime.com/details?id=9550&episode=1</link>
+    <description>Episode 0 of Naze Nani Dendrogram is out!</description>
+</item>
+
+<item>
+    <title>Naze Nani Dendrogram - Episode 1</title>
+    <link>https://genoanime.com/details?id=9549&episode=1</link>
+    <description>Episode 1 of Naze Nani Dendrogram is out!</description>
+</item>
+
+<item>
     <title>Cosmos Trailer - Episode 1</title>
     <link>https://genoanime.com/details?id=9548&episode=1</link>
     <description>Episode 1 of Cosmos Trailer is out!</description>
@@ -208,18 +220,6 @@
     <title>Juan Siliang - Episode 12</title>
     <link>https://genoanime.com/details?id=9163&episode=12</link>
     <description>Episode 12 of Juan Siliang is out!</description>
-</item>
-
-<item>
-    <title>Uramichi Oniisan (Dub) - Episode 1</title>
-    <link>https://genoanime.com/details?id=9538&episode=1</link>
-    <description>Episode 1 of Uramichi Oniisan (Dub) is out!</description>
-</item>
-
-<item>
-    <title>Shinkansen Henkei Robo Shinkalion Z the Animation - Episode 17</title>
-    <link>https://genoanime.com/details?id=8710&episode=17</link>
-    <description>Episode 17 of Shinkansen Henkei Robo Shinkalion Z the Animation is out!</description>
 </item>
 
 </channel>
