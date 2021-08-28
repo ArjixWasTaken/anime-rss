@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>The Witcher Nightmare of the wolf - Episode 1</title>
+    <link>https://genoanime.com/details?id=9572&episode=1</link>
+    <description>Episode 1 of The Witcher Nightmare of the wolf is out!</description>
+</item>
+
+<item>
     <title>Bokutachi no Remake - Episode 8</title>
     <link>https://genoanime.com/details?id=9250&episode=9</link>
     <description>Episode 8 of Bokutachi no Remake is out!</description>
@@ -184,12 +190,6 @@
     <title>Vanitas no Carte - Episode 9</title>
     <link>https://genoanime.com/details?id=9245&episode=9</link>
     <description>Episode 9 of Vanitas no Carte is out!</description>
-</item>
-
-<item>
-    <title>100-man no Inochi no Ue ni Ore wa Tatteiru 2nd Season - Episode 8</title>
-    <link>https://genoanime.com/details?id=9295&episode=8</link>
-    <description>Episode 8 of 100-man no Inochi no Ue ni Ore wa Tatteiru 2nd Season is out!</description>
 </item>
 
 </channel>
