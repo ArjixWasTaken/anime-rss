@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>Oishinbo - Episode 27</title>
+    <link>https://genoanime.com/details?id=7935&episode=27</link>
+    <description>Episode 27 of Oishinbo is out!</description>
+</item>
+
+<item>
     <title>Higurashi no Naku Koro ni Sotsu (Dub) - Episode 3</title>
     <link>https://genoanime.com/details?id=9526&episode=3</link>
     <description>Episode 3 of Higurashi no Naku Koro ni Sotsu (Dub) is out!</description>
@@ -214,12 +220,6 @@
     <title>Magma Taishi (Dub) - Episode 13</title>
     <link>https://genoanime.com/details?id=9588&episode=13</link>
     <description>Episode 13 of Magma Taishi (Dub) is out!</description>
-</item>
-
-<item>
-    <title>Kyoushoku Soukou Guyver II (Dub) - Episode 6</title>
-    <link>https://genoanime.com/details?id=9587&episode=6</link>
-    <description>Episode 6 of Kyoushoku Soukou Guyver II (Dub) is out!</description>
 </item>
 
 </channel>
