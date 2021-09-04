@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>Mini Moni the TV - Episode 15</title>
+    <link>https://genoanime.com/details?id=9612&episode=15</link>
+    <description>Episode 15 of Mini Moni the TV is out!</description>
+</item>
+
+<item>
     <title>Sylvanian Families Mini Gekijou: Omoigakenai Okyakusama - Episode 6</title>
     <link>https://genoanime.com/details?id=9611&episode=6</link>
     <description>Episode 6 of Sylvanian Families Mini Gekijou: Omoigakenai Okyakusama is out!</description>
@@ -214,12 +220,6 @@
     <title>King of Fighters: Another Day (Dub) - Episode 4</title>
     <link>https://genoanime.com/details?id=9602&episode=4</link>
     <description>Episode 4 of King of Fighters: Another Day (Dub) is out!</description>
-</item>
-
-<item>
-    <title>Baby Felix (Dub) - Episode 26</title>
-    <link>https://genoanime.com/details?id=9601&episode=26</link>
-    <description>Episode 26 of Baby Felix (Dub) is out!</description>
 </item>
 
 </channel>
