@@ -7,6 +7,12 @@
 <description>A simple RSS feed for genoanime!</description>
 
 <item>
+    <title>Digimon Adventure (2020) - Episode 64</title>
+    <link>https://genoanime.com/details?id=8047&episode=64</link>
+    <description>Episode 64 of Digimon Adventure (2020) is out!</description>
+</item>
+
+<item>
     <title>One Piece - Episode 990</title>
     <link>https://genoanime.com/details?id=8046&episode=990</link>
     <description>Episode 990 of One Piece is out!</description>
@@ -214,12 +220,6 @@
     <title>Mini Van - Episode 37</title>
     <link>https://genoanime.com/details?id=9608&episode=37</link>
     <description>Episode 37 of Mini Van is out!</description>
-</item>
-
-<item>
-    <title>Dragon Quest: Dai no Daibouken (2020) - Episode 47</title>
-    <link>https://genoanime.com/details?id=8028&episode=48</link>
-    <description>Episode 47 of Dragon Quest: Dai no Daibouken (2020) is out!</description>
 </item>
 
 </channel>
