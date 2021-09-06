@@ -34,10 +34,6 @@ jobs:
       run: |
         python ./animepahe/generate.py
 
-    - name: Generate rss (GenoAnime)
-      run: |
-        python ./genoanime/generate.py
-
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
         # Optional but recommended
