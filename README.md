@@ -19,6 +19,4 @@ it auto updates every hour
 
 * GogoAnime
 * AnimePahe
-* GenoAnime
-* KickAssAnime
 * and many more to come soon...
