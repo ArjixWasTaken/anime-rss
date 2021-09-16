@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Heike Monogatari - Episode 1</title>
+    <link>https://animepahe.com/play/2066cb80-1af2-4b27-6297-2dccd65875c0/c7f3b154a2aeeb760f0239f9362bf5f4beab270c96665a032dfe2d689471372a</link>
+    <description>Episode 1 of Heike Monogatari is out!</description>
+</item>
+
+<item>
     <title>Night Head 2041 - Episode 10</title>
     <link>https://animepahe.com/play/fa3f7412-c7b1-5098-6de3-dfc66660c2af/6bca84dd002121465aa018371f3783f8e00da364d0498199269754a65f6204a0</link>
     <description>Episode 10 of Night Head 2041 is out!</description>
@@ -70,12 +76,6 @@
     <title>Uramichi Oniisan - Episode 11</title>
     <link>https://animepahe.com/play/b444071b-bb81-62ef-1b28-f3e0eb549986/31cee2d0d9bc2858993b446fe3c9c6f105e953d89399f960c2a89304133bc1eb</link>
     <description>Episode 11 of Uramichi Oniisan is out!</description>
-</item>
-
-<item>
-    <title>Yami Shibai 9 - Episode 10</title>
-    <link>https://animepahe.com/play/21b39037-a55e-cd7f-cb17-83a32aa0decd/a1911fa32be596606b876daa77d19b8976747570d1fdf8a3850a4f03d0fa7b60</link>
-    <description>Episode 10 of Yami Shibai 9 is out!</description>
 </item>
 
 </channel>
