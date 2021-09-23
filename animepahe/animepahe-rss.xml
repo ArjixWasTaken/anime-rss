@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Cowboy Bebop - Episode 26</title>
+    <link>https://animepahe.com/play/f12e458a-f828-ac65-2a03-dc51956c629a/e353fc48597c357748e5fcaeeb30163188a8d2ebe3087975ccd180b9d95c2600</link>
+    <description>Episode 26 of Cowboy Bebop is out!</description>
+</item>
+
+<item>
     <title>Pokemon Evolutions - Episode 2</title>
     <link>https://animepahe.com/play/2db55530-8859-3490-2bd0-843bba000003/d4a649939d361c29eef165bd3756875d89e44670d7e944f215116f399f7f8f4d</link>
     <description>Episode 2 of Pokemon Evolutions is out!</description>
@@ -70,12 +76,6 @@
     <title>Heike Monogatari - Episode 2</title>
     <link>https://animepahe.com/play/93f4712a-8610-e072-dee1-51319576598a/94915446eeb3bb4cfc51e6cec9f1062ca71aa3401916e3d39c70e5ec71f73b1b</link>
     <description>Episode 2 of Heike Monogatari is out!</description>
-</item>
-
-<item>
-    <title>Tsuki ga Michibiku Isekai Douchuu - Episode 12</title>
-    <link>https://animepahe.com/play/ee27c698-c8b7-dd95-6860-3ffb7ecb771f/5196c111acb952a29e657ceef5789ce26016817bfe9f501948357842c9042e01</link>
-    <description>Episode 12 of Tsuki ga Michibiku Isekai Douchuu is out!</description>
 </item>
 
 </channel>
