@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Tesla Note - Episode 1</title>
+    <link>https://animepahe.com/play/d67a1a05-986f-ae3f-e578-6901791624c7/45099bfdc973634928a46634e70cb204337846b14f5253fe6710d8f56d0f1aaf</link>
+    <description>Episode 1 of Tesla Note is out!</description>
+</item>
+
+<item>
     <title>Mieruko-chan - Episode 1</title>
     <link>https://animepahe.com/play/952727ad-7054-f67c-38fb-9843d2f3ad97/0c2be3a7a8060e0e9d6ad095c7ab25992cd2fad2740e366c30d14b2f664926c8</link>
     <description>Episode 1 of Mieruko-chan is out!</description>
@@ -70,12 +76,6 @@
     <title>Waccha PriMagi! - Episode 1</title>
     <link>https://animepahe.com/play/7363f723-bcf4-41ae-9e3b-ff9d6d98c1ae/9239c7b5d1bb4d0e73022ad9ad0a691700e18c9e9119ff1195f81a1440b2c2a9</link>
     <description>Episode 1 of Waccha PriMagi! is out!</description>
-</item>
-
-<item>
-    <title>One Piece - Episode 994</title>
-    <link>https://animepahe.com/play/51352ada-b9ee-3558-dbfd-2ef9ebab8212/8a4ec3d0bed99a3e3402ed7248c4fdda6255ccfb2b1aec751c571eaf3f8964e4</link>
-    <description>Episode 994 of One Piece is out!</description>
 </item>
 
 </channel>
