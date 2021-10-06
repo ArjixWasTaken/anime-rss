@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Muv-Luv Alternative - Episode 1</title>
+    <link>https://animepahe.com/play/3b6b8a71-4610-9a3d-1f92-f07ce81441b4/c7df84901c7f4f67810ea55d82207dd47005a403f45befe7a7f97d8c63b0ddcd</link>
+    <description>Episode 1 of Muv-Luv Alternative is out!</description>
+</item>
+
+<item>
     <title>Heike Monogatari - Episode 4</title>
     <link>https://animepahe.com/play/1c3890b7-9258-177e-1dab-e1b1819cc231/486892213ead6df160cf0e5e30b00ba6f1b52b8400c10b2be6cb2854f92dab31</link>
     <description>Episode 4 of Heike Monogatari is out!</description>
@@ -70,12 +76,6 @@
     <title>Fuuka - Episode 12</title>
     <link>https://animepahe.com/play/c20dff72-0708-167b-c8c8-87ae35d2938d/7a3ec4b195fd5459e6d1c43eadda1afb1854c4f8b2280db5f5b419399490ea0d</link>
     <description>Episode 12 of Fuuka is out!</description>
-</item>
-
-<item>
-    <title>Ichiban Ushiro no Daimaou Specials - Episode 6</title>
-    <link>https://animepahe.com/play/18e6f665-ea7d-192b-7c92-001cecafa74d/d6513398c203ce21a4287af070eff15a3c98c5d83370be34c8ee70c6b691436a</link>
-    <description>Episode 6 of Ichiban Ushiro no Daimaou Specials is out!</description>
 </item>
 
 </channel>
