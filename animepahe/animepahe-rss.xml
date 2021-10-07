@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Platinum End - Episode 1</title>
+    <link>https://animepahe.com/play/ae2851e7-640a-d74e-c9a3-994ca5f0f39f/a59c816e921a6e812797e10f9443a7a53c810651da2825f4d9781e4cfb986efc</link>
+    <description>Episode 1 of Platinum End is out!</description>
+</item>
+
+<item>
     <title>Pokemon Evolutions - Episode 3</title>
     <link>https://animepahe.com/play/7ee15a66-11cf-93ca-315d-703b51800869/68e84077b21b2687edda88a04195b8df92dfea69e118a9bc06b24b54266a80b8</link>
     <description>Episode 3 of Pokemon Evolutions is out!</description>
@@ -70,12 +76,6 @@
     <title>Muv-Luv Alternative - Episode 1</title>
     <link>https://animepahe.com/play/cd2a6e2a-65c1-cbce-a626-8242a89980c8/e55e592c5750da9f5d8dde9a3d7dacfd7f087ed979c310c99b51e7cbf74629f4</link>
     <description>Episode 1 of Muv-Luv Alternative is out!</description>
-</item>
-
-<item>
-    <title>Heike Monogatari - Episode 4</title>
-    <link>https://animepahe.com/play/1a1acaa4-d79e-5b52-25bd-b0774925e11f/8bc4d3489307580b123b2c9866211ecfa07614f754b2074dacc67f9a2954e5be</link>
-    <description>Episode 4 of Heike Monogatari is out!</description>
 </item>
 
 </channel>
