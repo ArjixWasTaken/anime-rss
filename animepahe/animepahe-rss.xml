@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Pokemon Evolutions - Episode 3</title>
+    <link>https://animepahe.com/play/7ee15a66-11cf-93ca-315d-703b51800869/68e84077b21b2687edda88a04195b8df92dfea69e118a9bc06b24b54266a80b8</link>
+    <description>Episode 3 of Pokemon Evolutions is out!</description>
+</item>
+
+<item>
     <title>Shiroi Suna no Aquatope - Episode 14</title>
     <link>https://animepahe.com/play/f9c50154-b1c3-3453-203b-82787c46118d/c18966c80b83e9920fb27f39a41238d07c80d4248270c2b45a8914d48ea8e3dd</link>
     <description>Episode 14 of Shiroi Suna no Aquatope is out!</description>
@@ -70,12 +76,6 @@
     <title>Heike Monogatari - Episode 4</title>
     <link>https://animepahe.com/play/1a1acaa4-d79e-5b52-25bd-b0774925e11f/8bc4d3489307580b123b2c9866211ecfa07614f754b2074dacc67f9a2954e5be</link>
     <description>Episode 4 of Heike Monogatari is out!</description>
-</item>
-
-<item>
-    <title>Puraore! Pride of Orange - Episode 1</title>
-    <link>https://animepahe.com/play/0e4d0622-9d4e-cbf3-5bc5-c65d07dde734/9aa0b72a9d1bef9099b45443bab983bfa0efc669c4a0bbeba40bf7c66e45779d</link>
-    <description>Episode 1 of Puraore! Pride of Orange is out!</description>
 </item>
 
 </channel>
