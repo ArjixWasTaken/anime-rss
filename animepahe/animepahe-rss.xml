@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Hoshi no Kirby - Episode 100</title>
+    <link>https://animepahe.com/play/7d26438b-6ecd-1ccd-bb41-a1be149e9e1f/f21cd2d8c043b255dd96634116aa4911f3c759317776a579d87eed00229b7aba</link>
+    <description>Episode 100 of Hoshi no Kirby is out!</description>
+</item>
+
+<item>
     <title>Pokemon Movie 23: Koko - Episode 1</title>
     <link>https://animepahe.com/play/a537f19a-47a4-d421-4c6d-486b45da9098/f713bca19f9985d3999af1f7d10e20dc50fb261158c9e571475d5e0a4ce912a4</link>
     <description>Episode 1 of Pokemon Movie 23: Koko is out!</description>
@@ -70,12 +76,6 @@
     <title>Visual Prison - Episode 1</title>
     <link>https://animepahe.com/play/5287aa84-b991-65c6-9c21-dcc7013fcb2f/209c4961f5d74fbfa6a12b259e4b3749640dcf5a30a5f560ec2ee11d5bdc53bc</link>
     <description>Episode 1 of Visual Prison is out!</description>
-</item>
-
-<item>
-    <title>Selection Project - Episode 2</title>
-    <link>https://animepahe.com/play/770f2311-5d05-89ac-16d2-e99eeaf47a8c/45698277f8c539b23e53c4589ad3e3366996020bd81f031b4023aaefb320ff15</link>
-    <description>Episode 2 of Selection Project is out!</description>
 </item>
 
 </channel>
