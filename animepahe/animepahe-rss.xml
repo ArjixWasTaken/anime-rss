@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Blue Period - Episode 1</title>
+    <link>https://animepahe.com/play/5f9b3ee2-e4d0-6c49-1a16-4e74a4bb2961/006f1d6028a2162051cb108e0462f27dd335f1ce70912b53823885254b2257d8</link>
+    <description>Episode 1 of Blue Period is out!</description>
+</item>
+
+<item>
     <title>Dragon Quest: Dai no Daibouken (2020) - Episode 52</title>
     <link>https://animepahe.com/play/45e43b37-fb93-3cd0-8df9-81772b393874/0d7b7fa8935a601e656acf3b1397912a7601fccbe1cb5e890ab571e4ab4235e3</link>
     <description>Episode 52 of Dragon Quest: Dai no Daibouken (2020) is out!</description>
@@ -70,12 +76,6 @@
     <title>Can Ci Pin: Fangzhu Xingkong - Episode 12</title>
     <link>https://animepahe.com/play/ca3ba36d-7ed3-f6e4-d153-9428a25214c7/a5946ab213c6c46ace1a60adfa76b6977730b72df09bdd81ddfb50047ebd79cb</link>
     <description>Episode 12 of Can Ci Pin: Fangzhu Xingkong is out!</description>
-</item>
-
-<item>
-    <title>Platinum End - Episode 1</title>
-    <link>https://animepahe.com/play/addb2756-7b22-530b-68c9-d0a98742ea0d/07b9d737cdb1a0c21e326081878a59457f708c19367971a71fa7c7f8a437ce56</link>
-    <description>Episode 1 of Platinum End is out!</description>
 </item>
 
 </channel>
