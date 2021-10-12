@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Blue Period - Episode 2</title>
+    <link>https://animepahe.com/play/4286e018-9ff3-5722-8028-fdc27066cb89/00b1f0e00186f7162819ef67c59c72203b3b07e12cd6983850003aa9bbc1b1d2</link>
+    <description>Episode 2 of Blue Period is out!</description>
+</item>
+
+<item>
     <title>Deep Insanity: The Lost Child - Episode 1</title>
     <link>https://animepahe.com/play/360102a2-6429-823a-9d62-d320282039aa/f180212ab3645586932fa5dd41cfd21517005c2c98fa686da574004505097f2d</link>
     <description>Episode 1 of Deep Insanity: The Lost Child is out!</description>
@@ -70,12 +76,6 @@
     <title>Slayers Great - Episode 1</title>
     <link>https://animepahe.com/play/d4bb875c-5538-5955-3277-bb20be5fca43/032cc78b4696ae4900ecb003d0694f5fc02cd8bbd3a4ecccc7c3b41932063bbb</link>
     <description>Episode 1 of Slayers Great is out!</description>
-</item>
-
-<item>
-    <title>Slayers Return - Episode 1</title>
-    <link>https://animepahe.com/play/bc3e71f4-b53e-c941-e27c-edaf26f56f4f/e147e016770de6c264f872577325dd2106f97b5d229fc3f1648453bb13ce3f48</link>
-    <description>Episode 1 of Slayers Return is out!</description>
 </item>
 
 </channel>
