@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Kaginado - Episode 1</title>
+    <link>https://animepahe.com/play/13744909-ffa3-d265-e5de-e980bd013faf/d6cd9a310be1422f813ce160a9494a474d10601e534c1a4c3bd595cabdebf07e</link>
+    <description>Episode 1 of Kaginado is out!</description>
+</item>
+
+<item>
     <title>Blue Period - Episode 2</title>
     <link>https://animepahe.com/play/cb8c8f05-024f-59a9-d774-07cd8a772907/9653c59f470c418addeaa67fd72e190d2708b5b0355a9dd1f4b5cc18317e4b6c</link>
     <description>Episode 2 of Blue Period is out!</description>
@@ -70,12 +76,6 @@
     <title>Slayers Gorgeous - Episode 1</title>
     <link>https://animepahe.com/play/320e6e82-e490-3d45-f726-108cc4176dc0/6b7ac6a86549e83085c71f2c085c11787fb2ed86e58b58ba1ec006cc8d50480d</link>
     <description>Episode 1 of Slayers Gorgeous is out!</description>
-</item>
-
-<item>
-    <title>Slayers Great - Episode 1</title>
-    <link>https://animepahe.com/play/9da0fdb5-5d05-898e-cb06-78b52513c225/5b49262bdbfa8a20fcd99377a0bd191ffdd95d72fc5e90c79494265565441ce0</link>
-    <description>Episode 1 of Slayers Great is out!</description>
 </item>
 
 </channel>
