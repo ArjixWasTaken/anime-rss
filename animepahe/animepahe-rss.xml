@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Violet Evergarden Movie - Episode 1</title>
+    <link>https://animepahe.com/play/3a2c7dc4-558a-c0e9-939e-e9e544df3b05/9d83c2cda9d9098ea8e6db6c51a6583faa974c15e3b07c02cb76d01a15858fea</link>
+    <description>Episode 1 of Violet Evergarden Movie is out!</description>
+</item>
+
+<item>
     <title>Kaginado - Episode 1</title>
     <link>https://animepahe.com/play/13744909-ffa3-d265-e5de-e980bd013faf/d6cd9a310be1422f813ce160a9494a474d10601e534c1a4c3bd595cabdebf07e</link>
     <description>Episode 1 of Kaginado is out!</description>
@@ -70,12 +76,6 @@
     <title>Slayers Excellent - Episode 3</title>
     <link>https://animepahe.com/play/83a855a6-5d50-9089-1d57-79ca0a902b41/df2c16de642ebfb06071ed740f78781e1b2e1faef72bb8c454a9545e68ffdb67</link>
     <description>Episode 3 of Slayers Excellent is out!</description>
-</item>
-
-<item>
-    <title>Slayers Gorgeous - Episode 1</title>
-    <link>https://animepahe.com/play/320e6e82-e490-3d45-f726-108cc4176dc0/6b7ac6a86549e83085c71f2c085c11787fb2ed86e58b58ba1ec006cc8d50480d</link>
-    <description>Episode 1 of Slayers Gorgeous is out!</description>
 </item>
 
 </channel>
