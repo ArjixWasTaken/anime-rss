@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Selection Project - Episode 3</title>
+    <link>https://animepahe.com/play/c87b5084-9cf4-de00-ca13-d762399eb910/47d3e0219f085f0735594a8711cf1307f1b83cacc9e9918d228b19e2d7607e75</link>
+    <description>Episode 3 of Selection Project is out!</description>
+</item>
+
+<item>
     <title>Komi-san wa, Comyushou desu. - Episode 2</title>
     <link>https://animepahe.com/play/1ea1e5fe-442f-3ed1-c242-f16084486b39/414b05b3d5bb952b061b4d3abce090ac0a8c0cde179d5a7e19406fca9b478c54</link>
     <description>Episode 2 of Komi-san wa, Comyushou desu. is out!</description>
@@ -70,12 +76,6 @@
     <title>Heike Monogatari - Episode 5</title>
     <link>https://animepahe.com/play/968fb70a-3da3-c672-d2af-a178329a110f/8549394b83f28d1d94f935e119f85ab78b782a9128ac84a33bc6058dcf23228c</link>
     <description>Episode 5 of Heike Monogatari is out!</description>
-</item>
-
-<item>
-    <title>Puraore! Pride of Orange - Episode 2</title>
-    <link>https://animepahe.com/play/daecc867-e1e9-d1e9-de80-17c3a7f8a57d/a78cb571ad0137f18f5cd422b1b0f6700958fec2c4b121bd16fbe40d6659503d</link>
-    <description>Episode 2 of Puraore! Pride of Orange is out!</description>
 </item>
 
 </channel>
