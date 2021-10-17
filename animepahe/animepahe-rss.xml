@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Pac-World - Episode 1</title>
+    <link>https://animepahe.com/play/91e942c0-ff77-decd-fcaf-da589a74a354/fc92ecc32531f202726ae2c9a45b0616ecaa89a18e761f56348d0bfe721a5423</link>
+    <description>Episode 1 of Pac-World is out!</description>
+</item>
+
+<item>
     <title>Kaizoku Oujo - Episode 11</title>
     <link>https://animepahe.com/play/b34ff779-363f-eeed-283f-4c69f0733a86/b0364597ba068bd96d22d15f1479788492801ea525fb232d30bdb99a101e7b5f</link>
     <description>Episode 11 of Kaizoku Oujo is out!</description>
@@ -70,12 +76,6 @@
     <title>86 2nd Season - Episode 14</title>
     <link>https://animepahe.com/play/f2305623-217e-1b1e-780e-6f043f967b5a/fe47dd546350fece8db37e3ec69db021fd91ccf44a1e783b184a9225489b336a</link>
     <description>Episode 14 of 86 2nd Season is out!</description>
-</item>
-
-<item>
-    <title>Saihate no Paladin - Episode 2</title>
-    <link>https://animepahe.com/play/8e16e2ca-4d3f-44a6-6598-44bab280cd01/4d84a81a6c9505fb876569daa24d0d2628308721cd4c133efeac57f57f12cec8</link>
-    <description>Episode 2 of Saihate no Paladin is out!</description>
 </item>
 
 </channel>
