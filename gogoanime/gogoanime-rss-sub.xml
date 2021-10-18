@@ -7,6 +7,12 @@
 <description>A simple RSS feed for gogoanime!</description>
 
 <item>
+    <title>Ys - Episode 7</title>
+    <link>https://gogoanime.vc/ys-episode-7</link>
+    <description>Episode 7 of Ys is out!</description>
+</item>
+
+<item>
     <title>Kyoukai Senki - Episode 3</title>
     <link>https://gogoanime.vc/kyoukai-senki-episode-3</link>
     <description>Episode 3 of Kyoukai Senki is out!</description>
@@ -118,12 +124,6 @@
     <title>Mieruko-chan - Episode 3</title>
     <link>https://gogoanime.vc/mieruko-chan-episode-3</link>
     <description>Episode 3 of Mieruko-chan is out!</description>
-</item>
-
-<item>
-    <title>Boruto: Naruto Next Generations - Episode 220</title>
-    <link>https://gogoanime.vc/boruto-naruto-next-generations-episode-220</link>
-    <description>Episode 220 of Boruto: Naruto Next Generations is out!</description>
 </item>
 
 </channel>
