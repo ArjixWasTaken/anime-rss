@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Pokemon Evolutions - Episode 4</title>
+    <link>https://animepahe.com/play/9305d1d9-70d4-dd67-53c8-43aed23a8454/70efcd554cc82ab08d8c3e84c0b1215fd2ca36ce00bd1f1f83ed750d1a4b0282</link>
+    <description>Episode 4 of Pokemon Evolutions is out!</description>
+</item>
+
+<item>
     <title>Ousama Ranking - Episode 2</title>
     <link>https://animepahe.com/play/0f63bcd5-01a6-95c6-c9f5-c8e9fa9b43d6/b78efe3bdc68539265575267911e5d9b756cf92f528f5cf1e47291aa7d1a810a</link>
     <description>Episode 2 of Ousama Ranking is out!</description>
@@ -70,12 +76,6 @@
     <title>Deep Insanity: The Lost Child - Episode 2</title>
     <link>https://animepahe.com/play/619d40e3-bdd2-9330-3534-b820dfa8fbd1/e5ff5a074ae0da10ccd4c65effce0ddeb5e9cbf38eebc4bf456e1b2c1eee4af8</link>
     <description>Episode 2 of Deep Insanity: The Lost Child is out!</description>
-</item>
-
-<item>
-    <title>Kaginado - Episode 2</title>
-    <link>https://animepahe.com/play/c0943390-5221-18a5-ec88-945a67c9f05f/888df49ce18cb9755d82f1fb3ab2476d0dc0d58e4e429f24f33ddc642facaecf</link>
-    <description>Episode 2 of Kaginado is out!</description>
 </item>
 
 </channel>
