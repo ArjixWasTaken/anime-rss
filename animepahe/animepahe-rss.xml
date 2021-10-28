@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Sakugan - Episode 4</title>
+    <link>https://animepahe.com/play/4a2dd184-dea7-449c-3f7a-1283363716e0/4b0ce39edb0a232508b9f6a46a151f44aec02294f0da225a7c356cbd897d937f</link>
+    <description>Episode 4 of Sakugan is out!</description>
+</item>
+
+<item>
     <title>Scarlet Nexus - Episode 18</title>
     <link>https://animepahe.com/play/29ed59b2-0302-ddce-1a3d-fd145c9dc1a9/da3e6c41a0147fbf0fe5b0af9b39dcca002c546caa40f621c21812839400a2c3</link>
     <description>Episode 18 of Scarlet Nexus is out!</description>
@@ -70,12 +76,6 @@
     <title>Takt Op. Destiny - Episode 4</title>
     <link>https://animepahe.com/play/a9a03c3e-6644-1b1f-f55d-3c002ef0242e/652263872cb0a5a9f2d311b2843390f8edc6a838153d5582a3709254c1bda39a</link>
     <description>Episode 4 of Takt Op. Destiny is out!</description>
-</item>
-
-<item>
-    <title>Komi-san wa, Comyushou desu. - Episode 2</title>
-    <link>https://animepahe.com/play/2f09ee2e-d6e9-2c91-d928-344d26bb506e/f3de836a95df341a83984bed652068d8fa66892d307e9f2442a5057f4034849c</link>
-    <description>Episode 2 of Komi-san wa, Comyushou desu. is out!</description>
 </item>
 
 </channel>
