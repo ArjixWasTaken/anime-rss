@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Sakugan - Episode 6</title>
+    <link>https://animepahe.com/play/8201d012-1c6b-6deb-00dd-a7f6978a9d00/788a1945d5333daee3064321919e9f73afd8d3eff936dc0c613478639a235c53</link>
+    <description>Episode 6 of Sakugan is out!</description>
+</item>
+
+<item>
     <title>Scarlet Nexus - Episode 20</title>
     <link>https://animepahe.com/play/27f45964-ab3a-add0-81ac-a8113914f718/470f44a0ba6263780b13734dcc2d18cfa31b8ef2d0f1f0d39b7a50998165a35e</link>
     <description>Episode 20 of Scarlet Nexus is out!</description>
@@ -70,12 +76,6 @@
     <title>.hack//Unison - Episode 1</title>
     <link>https://animepahe.com/play/8ab40c01-1726-12e4-e44d-fcf756720d0f/bb3261fd41fd7ff9deafc078154aa5009ff2380234a5baf532b2c9f4dd52b8ae</link>
     <description>Episode 1 of .hack//Unison is out!</description>
-</item>
-
-<item>
-    <title>.hack//Intermezzo - Episode 1</title>
-    <link>https://animepahe.com/play/916526cb-4fca-ba02-d04e-77d5e9be18a6/13718d76597e3f9c9514dc91a88896a20304df9663cbb9d0386c71d9331c72b4</link>
-    <description>Episode 1 of .hack//Intermezzo is out!</description>
 </item>
 
 </channel>
