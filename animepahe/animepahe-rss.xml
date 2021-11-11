@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Komi-san wa, Comyushou desu. - Episode 4</title>
+    <link>https://animepahe.com/play/954f4a1b-d45d-38a5-e2c1-fc496dff9ab5/494577ba9bbeb837ec2809aeb2111ad9a681341aba09420ebb2c4423402922a1</link>
+    <description>Episode 4 of Komi-san wa, Comyushou desu. is out!</description>
+</item>
+
+<item>
     <title>Sakugan - Episode 6</title>
     <link>https://animepahe.com/play/8201d012-1c6b-6deb-00dd-a7f6978a9d00/788a1945d5333daee3064321919e9f73afd8d3eff936dc0c613478639a235c53</link>
     <description>Episode 6 of Sakugan is out!</description>
@@ -70,12 +76,6 @@
     <title>.hack//Gift - Episode 1</title>
     <link>https://animepahe.com/play/54876eeb-9890-17f7-4ded-0fa59365587f/b2638ae8e10c4bd2c6f602893e7d36ae5f914175fc96c1639d466e817dcd0fe1</link>
     <description>Episode 1 of .hack//Gift is out!</description>
-</item>
-
-<item>
-    <title>.hack//Unison - Episode 1</title>
-    <link>https://animepahe.com/play/8ab40c01-1726-12e4-e44d-fcf756720d0f/bb3261fd41fd7ff9deafc078154aa5009ff2380234a5baf532b2c9f4dd52b8ae</link>
-    <description>Episode 1 of .hack//Unison is out!</description>
 </item>
 
 </channel>
