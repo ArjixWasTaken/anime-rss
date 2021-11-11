@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Platinum End - Episode 6</title>
+    <link>https://animepahe.com/play/da55958f-9546-0eed-f54e-acac9b0e13bb/d4f7bf14ca91ee36979680bf97a6bd0c5fe5834b2e63c9914e10b4dcf4a945ff</link>
+    <description>Episode 6 of Platinum End is out!</description>
+</item>
+
+<item>
     <title>Ousama Ranking - Episode 5</title>
     <link>https://animepahe.com/play/e9503a41-4c29-5cbe-d7b3-e124ea633b6b/0d990023667199f6fc9f8625b012ba2b1d3d065c409b55a12a2fcc2691a17e2d</link>
     <description>Episode 5 of Ousama Ranking is out!</description>
@@ -70,12 +76,6 @@
     <title>.hack//Quantum - Episode 3</title>
     <link>https://animepahe.com/play/fa633918-d632-d3a1-3451-c0e8b6a83be7/cd07674ec916d5fe539f46e432ce1e2ef79e6367ba26178823003608640263ff</link>
     <description>Episode 3 of .hack//Quantum is out!</description>
-</item>
-
-<item>
-    <title>.hack//Versus: The Thanatos Report - Episode 1</title>
-    <link>https://animepahe.com/play/6227a85a-cf6c-8b6e-65e1-d185461dd3f9/7cd2bb94bb2c13b913ee99dfd7a66071d6ffe61fc2a31d5bde2b522476ff1f4f</link>
-    <description>Episode 1 of .hack//Versus: The Thanatos Report is out!</description>
 </item>
 
 </channel>
