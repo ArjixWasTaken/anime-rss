@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Selection Project - Episode 7</title>
+    <link>https://animepahe.com/play/ab6e928f-2743-a104-b726-0df5cd966412/ec749ae36af23aa5654c0a9e03a55edd8e30b15d5f8dc876ccbd833951d85278</link>
+    <description>Episode 7 of Selection Project is out!</description>
+</item>
+
+<item>
     <title>Wu Liuqi Zhi Xuanwu Guo Pian - Episode 10</title>
     <link>https://animepahe.com/play/8c1f52f7-b385-2417-699d-df062581c6b5/4dd6e0356916306b02045e53b142eb5dd668bc66d301a65ab1c3149d4b42b644</link>
     <description>Episode 10 of Wu Liuqi Zhi Xuanwu Guo Pian is out!</description>
@@ -70,12 +76,6 @@
     <title>.hack//The Movie: Sekai no Mukou ni - Episode 1</title>
     <link>https://animepahe.com/play/1f0801ab-802a-876b-cdd1-6a397c07b343/e768bc6603bce4d31767980f1b8873afd199b4230b76f50994b3ab146c4b4f3d</link>
     <description>Episode 1 of .hack//The Movie: Sekai no Mukou ni is out!</description>
-</item>
-
-<item>
-    <title>.hack//Quantum: Sore ike! Bokura no Chimuchimu-chan!! - Episode 3</title>
-    <link>https://animepahe.com/play/719b2a3f-f481-f06d-1c6d-1b4d0e0bf6cf/17329d5b8b026e318375fde68d9a582240add63fc081fb1690606f406dd19b86</link>
-    <description>Episode 3 of .hack//Quantum: Sore ike! Bokura no Chimuchimu-chan!! is out!</description>
 </item>
 
 </channel>
