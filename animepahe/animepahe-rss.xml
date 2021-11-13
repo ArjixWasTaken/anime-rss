@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Arcane: League of Legends - Episode 6</title>
+    <link>https://animepahe.com/play/e45900dc-ac85-8850-2a6d-b751b73243cb/bca437f50acee84bfa90aa14b3aef0d0b0e6c49452b5903f603b41a451dee311</link>
+    <description>Episode 6 of Arcane: League of Legends is out!</description>
+</item>
+
+<item>
     <title>Detective Conan - Episode 1026</title>
     <link>https://animepahe.com/play/eba098f4-e42b-66c7-2d39-cdf03a2c8849/bbf0abc4d4c60d39b301e7f0e401d598ec41a6d0c618974367e100c084fff34f</link>
     <description>Episode 1026 of Detective Conan is out!</description>
@@ -70,12 +76,6 @@
     <title>Wu Liuqi Zhi Xuanwu Guo Pian - Episode 10</title>
     <link>https://animepahe.com/play/2cb8f9d9-2916-0c4c-8117-93d05c5a0f2c/82cd73c1abeca9c33c6916318f6008b74c5448a3febcb2dbcfba04b8a7d1873c</link>
     <description>Episode 10 of Wu Liuqi Zhi Xuanwu Guo Pian is out!</description>
-</item>
-
-<item>
-    <title>Platinum End - Episode 6</title>
-    <link>https://animepahe.com/play/894b2f3d-c942-53c4-0375-41a1bf9893d6/28a069515db3cb48c1d5f18a7fb5c27b90bfb976356505002eae4e6350081a0a</link>
-    <description>Episode 6 of Platinum End is out!</description>
 </item>
 
 </channel>
