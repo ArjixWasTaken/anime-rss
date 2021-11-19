@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Visual Prison - Episode 7</title>
+    <link>https://animepahe.com/play/147489a5-4c39-9404-994f-d60f8bf23fd3/78581537e62ffc4f29b2586c3abc30979d05ea03dd46a09be31c3cfb557efca4</link>
+    <description>Episode 7 of Visual Prison is out!</description>
+</item>
+
+<item>
     <title>Selection Project - Episode 8</title>
     <link>https://animepahe.com/play/9ce687a2-1f2c-ee1f-daea-60aaedca5a23/63ee8038baa556141ce75d914fcd3b281f5f62d32dcac7bb6165e690a0b37aeb</link>
     <description>Episode 8 of Selection Project is out!</description>
@@ -70,12 +76,6 @@
     <title>Heike Monogatari - Episode 10</title>
     <link>https://animepahe.com/play/5b72a003-ed1e-d489-5052-05e431b65eec/d78e31ee06e1a77b23251ec3080fd4ff221ce0c04fa132135c151d8de7ed71f0</link>
     <description>Episode 10 of Heike Monogatari is out!</description>
-</item>
-
-<item>
-    <title>Puraore! Pride of Orange - Episode 7</title>
-    <link>https://animepahe.com/play/3c882137-d960-b2bd-2b35-71b5c48f1f06/4bc6d5d5c0caba1bc104cc53644138de1f65fb3b478523ec149b1eb3c0a8a4e3</link>
-    <description>Episode 7 of Puraore! Pride of Orange is out!</description>
 </item>
 
 </channel>
