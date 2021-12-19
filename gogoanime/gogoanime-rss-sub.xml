@@ -7,12 +7,6 @@
 <description>A simple RSS feed for gogoanime!</description>
 
 <item>
-    <title>Jian Wangchao - Episode 12</title>
-    <link>https://gogoanime.vc/jian-wangchao-episode-12</link>
-    <description>Episode 12 of Jian Wangchao is out!</description>
-</item>
-
-<item>
     <title>Boruto: Naruto Next Generations - Episode 229</title>
     <link>https://gogoanime.vc/boruto-naruto-next-generations-episode-229</link>
     <description>Episode 229 of Boruto: Naruto Next Generations is out!</description>
@@ -124,6 +118,12 @@
     <title>Hanyou no Yashahime: Sengoku Otogizoushi - Ni no Shou - Episode 12</title>
     <link>https://gogoanime.vc/hanyou-no-yashahime-sengoku-otogizoushi-ni-no-shou-episode-12</link>
     <description>Episode 12 of Hanyou no Yashahime: Sengoku Otogizoushi - Ni no Shou is out!</description>
+</item>
+
+<item>
+    <title>Hakuouki OVA - Episode 2</title>
+    <link>https://gogoanime.vc/hakuouki-ova-episode-2</link>
+    <description>Episode 2 of Hakuouki OVA is out!</description>
 </item>
 
 </channel>
