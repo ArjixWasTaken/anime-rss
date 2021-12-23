@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Sakugan - Episode 12</title>
+    <link>https://animepahe.com/play/94c3bcd1-af8d-a5e7-d425-ddc40be799a4/5f98b68ee3e29fd8df9e63e0f50b9488d4bca165a30365a2d714abc969496269</link>
+    <description>Episode 12 of Sakugan is out!</description>
+</item>
+
+<item>
     <title>Scarlet Nexus - Episode 26</title>
     <link>https://animepahe.com/play/86cb3ae6-a635-9ded-ee32-00bd049ecb44/b9b5f8be9789ed790987d0b1d3417373c36a644f6b49299525525881853e1164</link>
     <description>Episode 26 of Scarlet Nexus is out!</description>
@@ -70,12 +76,6 @@
     <title>Shonan Junai Gumi! - Episode 5</title>
     <link>https://animepahe.com/play/14b7d43c-7056-9fe6-daee-99095666155d/fcb5cd740c365ffe9cfb09bc0ef5ff8a3004f13c8ae2c941e0910b23701e6534</link>
     <description>Episode 5 of Shonan Junai Gumi! is out!</description>
-</item>
-
-<item>
-    <title>Deep Insanity: The Lost Child - Episode 11</title>
-    <link>https://animepahe.com/play/d43e883f-acd3-8516-0fd1-d7b04be9aa47/20f752725294ff0616ee799229db2def61fcc9827c2b155d4cc7b4ba3c0afe53</link>
-    <description>Episode 11 of Deep Insanity: The Lost Child is out!</description>
 </item>
 
 </channel>
