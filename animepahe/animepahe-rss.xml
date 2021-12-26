@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Shikizakura - Episode 12</title>
+    <link>https://animepahe.com/play/73fd6a3e-544e-d9a2-dcca-8679b9967b17/ae879799c0b1fea38ffd561ddfeb6e43a7357d2b38e0aa7457a576bfcd961e9f</link>
+    <description>Episode 12 of Shikizakura is out!</description>
+</item>
+
+<item>
     <title>Digimon Ghost Game - Episode 12</title>
     <link>https://animepahe.com/play/0479d19a-acb0-a373-c8a5-26a0629dc856/03457358431ebb7fb17e32f189484ee75ff46eee55ed6982ac711107a4a32766</link>
     <description>Episode 12 of Digimon Ghost Game is out!</description>
@@ -70,12 +76,6 @@
     <title>Kimi ga Nozomu Eien: Gundam Parody - Episode 1</title>
     <link>https://animepahe.com/play/90346c86-926e-f7d3-f32f-df65806fe466/94b8a9ec9609a1a40a88dd7f78f4f7f3a0e4cd84e0a2ce4fe72075d1d29eec62</link>
     <description>Episode 1 of Kimi ga Nozomu Eien: Gundam Parody is out!</description>
-</item>
-
-<item>
-    <title>Kimi ga Nozomu Eien: Ayu Mayu Gekijou - Episode 1</title>
-    <link>https://animepahe.com/play/cdc2d32e-40ca-c80c-3c01-024cacbcd3e0/c07dabd019aacd3cf76107b153305991497be528d5bcaadbcb0703074eed6529</link>
-    <description>Episode 1 of Kimi ga Nozomu Eien: Ayu Mayu Gekijou is out!</description>
 </item>
 
 </channel>
