@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>One Piece - Episode 0</title>
+    <link>https://animepahe.com/play/2dd20130-15a6-63a8-484e-90c5ee7950f6/a01283fc93680b48e95e6a25dba0c964eaab556de09be89a1c7e63f63cc9b53d</link>
+    <description>Episode 0 of One Piece is out!</description>
+</item>
+
+<item>
     <title>Kyoukai Senki - Episode 13</title>
     <link>https://animepahe.com/play/ebbd2683-f3d3-dc74-2368-54989205b296/51c17f64889c6d36ab21b49ffa96de0aa11e0e2500c5cd1daebc5e0198d7dbcd</link>
     <description>Episode 13 of Kyoukai Senki is out!</description>
@@ -70,12 +76,6 @@
     <title>Shikizakura - Episode 12</title>
     <link>https://animepahe.com/play/0fb85d34-0cbb-902c-6dd9-665af8f22a3c/f4bd097412ee12f9c6bfb435201ad702879539023a61c8e1b70f525cc94ed5e0</link>
     <description>Episode 12 of Shikizakura is out!</description>
-</item>
-
-<item>
-    <title>Digimon Ghost Game - Episode 12</title>
-    <link>https://animepahe.com/play/8f04774b-4791-763e-1aad-26fee9cee1aa/5f0f485fd17367c254e5ab1def3e425f302e5989c9364b7a12ea86ed645a3c1a</link>
-    <description>Episode 12 of Digimon Ghost Game is out!</description>
 </item>
 
 </channel>
