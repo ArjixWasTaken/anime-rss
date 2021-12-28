@@ -7,6 +7,12 @@
 <description>A simple RSS feed for gogoanime!</description>
 
 <item>
+    <title>Mobile Suit Gundam 00 Special Edition - Episode 3</title>
+    <link>https://gogoanime.vc/mobile-suit-gundam-00-special-edition-episode-3</link>
+    <description>Episode 3 of Mobile Suit Gundam 00 Special Edition is out!</description>
+</item>
+
+<item>
     <title>Hazamatsuri - Episode 1</title>
     <link>https://gogoanime.vc/hazamatsuri-episode-1</link>
     <description>Episode 1 of Hazamatsuri is out!</description>
@@ -118,12 +124,6 @@
     <title>Lupin III: Part 6 - Episode 12</title>
     <link>https://gogoanime.vc/lupin-iii-part-6-episode-12</link>
     <description>Episode 12 of Lupin III: Part 6 is out!</description>
-</item>
-
-<item>
-    <title>Shikizakura - Episode 12</title>
-    <link>https://gogoanime.vc/shikizakura-episode-12</link>
-    <description>Episode 12 of Shikizakura is out!</description>
 </item>
 
 </channel>
