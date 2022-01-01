@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Sorairo Utility - Episode 0</title>
+    <link>https://animepahe.com/play/0a0d0555-401d-6d87-9604-a18e4a2c3da2/d1d5f8f862293b9ae65172974f956ea3f8f83dc3e8bf5810c772b05362c6b34e</link>
+    <description>Episode 0 of Sorairo Utility is out!</description>
+</item>
+
+<item>
     <title>Mahouka Koukou no Rettousei: Tsuioku-hen - Episode 1</title>
     <link>https://animepahe.com/play/44881e5c-5f39-9d34-4336-40f46f2337f4/4f3456a77a8baf45f5b863c9e94c494cdfc4fa1abae23a1ac33317300117dcf3</link>
     <description>Episode 1 of Mahouka Koukou no Rettousei: Tsuioku-hen is out!</description>
@@ -70,12 +76,6 @@
     <title>Eiga Daisuki Pompo-san (Movie) - Episode 1</title>
     <link>https://animepahe.com/play/7e623dbc-58e7-dd7e-7d58-7a780a41739b/4e4d70f95a601479a5a1ae6dbaebbec1d1ce46d955f6ded227e1853352197552</link>
     <description>Episode 1 of Eiga Daisuki Pompo-san (Movie) is out!</description>
-</item>
-
-<item>
-    <title>Given: Uragawa no Sonzai - Episode 1</title>
-    <link>https://animepahe.com/play/14490c0d-42ec-d86b-d9f6-2052f37eb521/1b7a323bf113fe7cde198b8531deb09e55f9ba12d4f932b5c19e3763df5c7372</link>
-    <description>Episode 1 of Given: Uragawa no Sonzai is out!</description>
 </item>
 
 </channel>
