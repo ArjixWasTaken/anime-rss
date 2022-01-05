@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Orient - Episode 1</title>
+    <link>https://animepahe.com/play/9b4d1f6a-307c-79cb-2f9c-5ec66cb9ff17/5b62caada31257431c28dea7e0afac923df118814021f0dd234cc51a33d696a1</link>
+    <description>Episode 1 of Orient is out!</description>
+</item>
+
+<item>
     <title>Hakozume: Kouban Joshi no Gyakushuu - Episode 1</title>
     <link>https://animepahe.com/play/35c19d41-1af6-cdaf-b2ed-74d7b96ff396/a6acafe94fbc8ec73a1762d844e339f472b4a0f452064b915f528e65f95d65bb</link>
     <description>Episode 1 of Hakozume: Kouban Joshi no Gyakushuu is out!</description>
@@ -70,12 +76,6 @@
     <title>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note - Tokubetsu-hen - Episode 1</title>
     <link>https://animepahe.com/play/4819f6d0-9b52-66c9-4f7b-f09923d1e469/e0aa1bd24a816a712d7bd4a08aaa7b8960242ad09e06b1227b7069fcfcbfc6e6</link>
     <description>Episode 1 of Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note - Tokubetsu-hen is out!</description>
-</item>
-
-<item>
-    <title>Shaman King (2021) - Episode 37</title>
-    <link>https://animepahe.com/play/c58a84a0-3e5a-ff85-7b62-57ef05eb581c/015cb88ee69eb8587befe2aec6f449ddf9218d79393d5d6445cec32e41650bce</link>
-    <description>Episode 37 of Shaman King (2021) is out!</description>
 </item>
 
 </channel>
