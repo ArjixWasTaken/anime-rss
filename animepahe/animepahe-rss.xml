@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Tokyo 24-ku - Episode 1</title>
+    <link>https://animepahe.com/play/50d56245-1a5d-1c48-cc81-c156ce3981a2/fd5498bcbd27c6e5af8c4b30b822afe2071dd47eb55f4df147da1d4b19bee03f</link>
+    <description>Episode 1 of Tokyo 24-ku is out!</description>
+</item>
+
+<item>
     <title>Orient - Episode 1</title>
     <link>https://animepahe.com/play/9b4d1f6a-307c-79cb-2f9c-5ec66cb9ff17/5b62caada31257431c28dea7e0afac923df118814021f0dd234cc51a33d696a1</link>
     <description>Episode 1 of Orient is out!</description>
@@ -70,12 +76,6 @@
     <title>Munou na Nana - Episode 2</title>
     <link>https://animepahe.com/play/d5ffff5d-6c70-97c3-ea2c-1c65923c0b5a/1be83260981b4f75f8401b2d022702513f23546047fe8d7e0925a1a4d2d6b56b</link>
     <description>Episode 2 of Munou na Nana is out!</description>
-</item>
-
-<item>
-    <title>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note - Tokubetsu-hen - Episode 1</title>
-    <link>https://animepahe.com/play/4819f6d0-9b52-66c9-4f7b-f09923d1e469/e0aa1bd24a816a712d7bd4a08aaa7b8960242ad09e06b1227b7069fcfcbfc6e6</link>
-    <description>Episode 1 of Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note - Tokubetsu-hen is out!</description>
 </item>
 
 </channel>
