@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Cue! - Episode 1</title>
+    <link>https://animepahe.com/play/20d6bacf-be9a-c2ae-bcf1-71dd767a9b10/d0d1a0f30ee240fa415bb8c49d3911e5793314df818c87ecaa759dbf0ae6694c</link>
+    <description>Episode 1 of Cue! is out!</description>
+</item>
+
+<item>
     <title>Shuumatsu no Harem - Episode 1</title>
     <link>https://animepahe.com/play/64c7184d-f134-5f4e-e695-3477cc560559/1099a8dfe688820895344726b242b3339012b6194490b65b05b819971587de16</link>
     <description>Episode 1 of Shuumatsu no Harem is out!</description>
@@ -70,12 +76,6 @@
     <title>Last Exile: Ginyoku no Fam - Episode 21</title>
     <link>https://animepahe.com/play/3ff1ecde-8115-9ead-e5c4-f8de71af668b/bc35fadad296d124210e3ebe73d12b4551fef7c089d7beadb0b7cbab25b0edd6</link>
     <description>Episode 21 of Last Exile: Ginyoku no Fam is out!</description>
-</item>
-
-<item>
-    <title>Last Exile - Episode 26</title>
-    <link>https://animepahe.com/play/4826e928-f610-21bf-433b-c9579cc39c97/cbf0bbae6051a26eab5aa73523584b0ae658aed5f4f86a75e45d0426c1a66ae9</link>
-    <description>Episode 26 of Last Exile is out!</description>
 </item>
 
 </channel>
