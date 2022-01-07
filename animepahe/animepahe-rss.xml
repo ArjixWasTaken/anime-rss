@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Slow Loop - Episode 1</title>
+    <link>https://animepahe.com/play/675bbede-2de0-45c6-9a42-130014b0792b/a861f3974c7e90d3365eb1f5415d2dde9a6289680e2098fdcc69e7e5877f4ccb</link>
+    <description>Episode 1 of Slow Loop is out!</description>
+</item>
+
+<item>
     <title>Komi-san wa, Comyushou desu. - Episode 12</title>
     <link>https://animepahe.com/play/6b9ac60a-d396-5bbe-5d1a-1eede91fe355/e4611c642e1d7172521bcf86595da624a20dcb26bb196de9ec592f084ebec7b8</link>
     <description>Episode 12 of Komi-san wa, Comyushou desu. is out!</description>
@@ -70,12 +76,6 @@
     <title>Leadale no Daichi nite - Episode 1</title>
     <link>https://animepahe.com/play/b5cc0188-0023-90c7-c448-d941de9eff45/a8a8ca3349f689a542441a45da72965dbdd551f36e98293738716b092d2339d8</link>
     <description>Episode 1 of Leadale no Daichi nite is out!</description>
-</item>
-
-<item>
-    <title>Saihate no Paladin - Episode 12</title>
-    <link>https://animepahe.com/play/c071527d-7646-d191-15ba-e308330885b7/d25c8257102cc6271ba1ae4dcb4459cc556e6ea19ae1aea5e1e32df8c4a8c4a8</link>
-    <description>Episode 12 of Saihate no Paladin is out!</description>
 </item>
 
 </channel>
