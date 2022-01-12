@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Tokyo 24-ku - Episode 2</title>
+    <link>https://animepahe.com/play/c7fa044b-12ff-552b-e8ab-1beea7f563d4/3222665ab71d37059859b79b8a572da1dc0a66a93c540c64b851bf0090a7d3f3</link>
+    <description>Episode 2 of Tokyo 24-ku is out!</description>
+</item>
+
+<item>
     <title>Koroshi Ai - Episode 1</title>
     <link>https://animepahe.com/play/818671d9-b677-8d62-8ca2-db2626bac8ad/b11e7556add4d1acb92d4a1c5eb4b660caf4c6567884901708db9af26d2515e8</link>
     <description>Episode 1 of Koroshi Ai is out!</description>
@@ -70,12 +76,6 @@
     <title>Yami Shibai 10 - Episode 1</title>
     <link>https://animepahe.com/play/6e7a1a15-f60d-92bc-0428-c225cf00ddae/4ac82591e3783c06a5d64157bd3ad725eed7b60847e5417d43afaec7610fa9ce</link>
     <description>Episode 1 of Yami Shibai 10 is out!</description>
-</item>
-
-<item>
-    <title>Tribe Nine - Episode 1</title>
-    <link>https://animepahe.com/play/dd04f78a-fdc5-da1b-7192-5d170bfe7981/64dd945241df13c504634c81fd0fd938c12a59c7f0b4ba2182a4a34a0298d349</link>
-    <description>Episode 1 of Tribe Nine is out!</description>
 </item>
 
 </channel>
