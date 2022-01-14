@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Cue! - Episode 2</title>
+    <link>https://animepahe.com/play/f9aaa9a7-4b6d-34fe-ccc5-12f9e78aeb42/02c212969ab0b732eef835ea259558a944e8d0b84183969a4cebcdbd631f2201</link>
+    <description>Episode 2 of Cue! is out!</description>
+</item>
+
+<item>
     <title>Shuumatsu no Harem - Episode 2</title>
     <link>https://animepahe.com/play/2d0e76cc-0f14-eaba-ae87-0ec3d409916a/9377737800fe273c281b077608e79819500b32536bdb34542734ee9e5fb92ab4</link>
     <description>Episode 2 of Shuumatsu no Harem is out!</description>
@@ -70,12 +76,6 @@
     <title>Tokyo 24-ku - Episode 2</title>
     <link>https://animepahe.com/play/f5bef108-75a2-2363-327c-dac5278932bd/bfacae61ab8067bf620a863c1614439e31e7206f8269ad26b04ff84396bdca7a</link>
     <description>Episode 2 of Tokyo 24-ku is out!</description>
-</item>
-
-<item>
-    <title>Koroshi Ai - Episode 1</title>
-    <link>https://animepahe.com/play/06cd07e4-463a-95fd-4457-43891016bb41/9cfb0beedf911538975dfcdb0101f0d231395ab008e7de81160080dd1b367eb5</link>
-    <description>Episode 1 of Koroshi Ai is out!</description>
 </item>
 
 </channel>
