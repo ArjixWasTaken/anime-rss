@@ -7,6 +7,12 @@
 <description>A simple RSS feed for gogoanime!</description>
 
 <item>
+    <title> - Episode 1</title>
+    <link>https://gogoanime.vc/bungaku-shoujo-kyou-no-oyatsu-hatsukoi-episode-1</link>
+    <description>Episode 1 of  is out!</description>
+</item>
+
+<item>
     <title>A.D. Police (TV) - Episode 12</title>
     <link>https://gogoanime.vc/a-d-police-tv-episode-12</link>
     <description>Episode 12 of A.D. Police (TV) is out!</description>
@@ -112,12 +118,6 @@
     <title>Aware! Meisaku-kun - Episode 195</title>
     <link>https://gogoanime.vc/aware-meisaku-kun-episode-195</link>
     <description>Episode 195 of Aware! Meisaku-kun is out!</description>
-</item>
-
-<item>
-    <title>Shinkansen Henkei Robo Shinkalion Z the Animation - Episode 34</title>
-    <link>https://gogoanime.vc/shinkansen-henkei-robo-shinkalion-z-the-animation-episode-34</link>
-    <description>Episode 34 of Shinkansen Henkei Robo Shinkalion Z the Animation is out!</description>
 </item>
 
 </channel>
