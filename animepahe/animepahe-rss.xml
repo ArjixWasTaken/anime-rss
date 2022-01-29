@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Ryman's Club - Episode 1</title>
+    <link>https://animepahe.com/play/881ad82b-16a4-a28f-0da7-7f5a45099b07/9ea5a1fd4a4f20634498f56cf5bcca3e9bb4d23f79313df47d85c3985d57b30f</link>
+    <description>Episode 1 of Ryman's Club is out!</description>
+</item>
+
+<item>
     <title>Kaijin Kaihatsu-bu no Kuroitsu-san - Episode 3</title>
     <link>https://animepahe.com/play/599c3e87-bd3a-1487-8cbe-645fe9dd7bdc/ba57c9db9a8854830844d4fd2dd8cbb7e2078a03f14b1d2702a730f4240c1a08</link>
     <description>Episode 3 of Kaijin Kaihatsu-bu no Kuroitsu-san is out!</description>
@@ -70,12 +76,6 @@
     <title>Dragon Quest: Dai no Daibouken (2020) - Episode 67</title>
     <link>https://animepahe.com/play/e30205ee-419c-79cc-3633-b9a1697311be/6e43365cb0bcf0299315d866a63c65866ccc26822e66110d4ef143887a48d97b</link>
     <description>Episode 67 of Dragon Quest: Dai no Daibouken (2020) is out!</description>
-</item>
-
-<item>
-    <title>Pokemon (2019) - Episode 95</title>
-    <link>https://animepahe.com/play/7b7c07eb-7035-1c29-109d-7cd7c36fc95f/30b1fc75994c4b6c7107bb8fa87760befbf04660c9bd54ad71edef24edc57b11</link>
-    <description>Episode 95 of Pokemon (2019) is out!</description>
 </item>
 
 </channel>
