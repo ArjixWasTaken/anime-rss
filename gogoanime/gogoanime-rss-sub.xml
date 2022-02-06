@@ -7,6 +7,12 @@
 <description>A simple RSS feed for gogoanime!</description>
 
 <item>
+    <title>Shenmue the Animation - Episode 1</title>
+    <link>https://gogoanime.vc/shenmue-the-animation-episode-1</link>
+    <description>Episode 1 of Shenmue the Animation is out!</description>
+</item>
+
+<item>
     <title>Blade Runner: Black Lotus - Episode 13</title>
     <link>https://gogoanime.vc/blade-runner-black-lotus-episode-13</link>
     <description>Episode 13 of Blade Runner: Black Lotus is out!</description>
@@ -118,12 +124,6 @@
     <title>Cue! - Episode 5</title>
     <link>https://gogoanime.vc/cue-episode-5</link>
     <description>Episode 5 of Cue! is out!</description>
-</item>
-
-<item>
-    <title>Karakai Jouzu no Takagi-san 3 - Episode 5</title>
-    <link>https://gogoanime.vc/karakai-jouzu-no-takagi-san-3-episode-5</link>
-    <description>Episode 5 of Karakai Jouzu no Takagi-san 3 is out!</description>
 </item>
 
 </channel>
