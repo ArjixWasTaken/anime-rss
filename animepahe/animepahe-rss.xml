@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Shenmue the Animation - Episode 1</title>
+    <link>https://animepahe.com/play/b319dcec-4f33-f982-4ca9-f17d3d063432/86a19fd0a042ed625a23d2fd5044a9791771fa753b8de4030577d69c5f0fa0ef</link>
+    <description>Episode 1 of Shenmue the Animation is out!</description>
+</item>
+
+<item>
     <title>Blade Runner: Black Lotus - Episode 13</title>
     <link>https://animepahe.com/play/55920cc6-d304-9158-4062-16d89e64db85/66ce764e969196574809a2c10aa95d808e5149a444435fe1d9076dde0639d638</link>
     <description>Episode 13 of Blade Runner: Black Lotus is out!</description>
@@ -70,12 +76,6 @@
     <title>Shikkakumon no Saikyou Kenja - Episode 5</title>
     <link>https://animepahe.com/play/b6a1aa50-5939-7de7-7ec4-02e58b68a886/7b546981c93ecf6510dd4cc1f7f9b2613691ec3df6e5c438ac5c5deb58336719</link>
     <description>Episode 5 of Shikkakumon no Saikyou Kenja is out!</description>
-</item>
-
-<item>
-    <title>Detective Conan - Episode 1037</title>
-    <link>https://animepahe.com/play/4e0fbd25-2b3e-e492-441c-2cf2d9d3ea2a/db77cd473f69a0087b442497aed8e52c60570ca1cdbe7056fe47998ef7298a15</link>
-    <description>Episode 1037 of Detective Conan is out!</description>
 </item>
 
 </channel>
