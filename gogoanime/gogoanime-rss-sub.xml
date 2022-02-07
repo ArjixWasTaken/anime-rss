@@ -7,6 +7,12 @@
 <description>A simple RSS feed for gogoanime!</description>
 
 <item>
+    <title>Yu☆Gi☆Oh!: Sevens - Episode 85</title>
+    <link>https://gogoanime.vc/yugioh-sevens-episode-85</link>
+    <description>Episode 85 of Yu☆Gi☆Oh!: Sevens is out!</description>
+</item>
+
+<item>
     <title>Nekojiru-sou - Episode 1</title>
     <link>https://gogoanime.vc/nekojiru-sou-episode-1</link>
     <description>Episode 1 of Nekojiru-sou is out!</description>
@@ -118,12 +124,6 @@
     <title>One Piece - Episode 1009</title>
     <link>https://gogoanime.vc/one-piece-episode-1009</link>
     <description>Episode 1009 of One Piece is out!</description>
-</item>
-
-<item>
-    <title>Lupin III: Part 6 - Episode 18</title>
-    <link>https://gogoanime.vc/lupin-iii-part-6-episode-18</link>
-    <description>Episode 18 of Lupin III: Part 6 is out!</description>
 </item>
 
 </channel>
