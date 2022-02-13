@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Shenmue the Animation - Episode 2</title>
+    <link>https://animepahe.com/play/b51d9781-004c-9284-0d32-7bf2363901ca/acff49bdf7c3ed749d3c055c95e356c380fb98cbaa6219c004189c53ce15e4e8</link>
+    <description>Episode 2 of Shenmue the Animation is out!</description>
+</item>
+
+<item>
     <title>Digimon Ghost Game - Episode 18</title>
     <link>https://animepahe.com/play/01238f29-e136-1f2a-4e3d-f7355c7b208d/047c2af24fa13091de3f7a34c36972bd545dd92f4eb67aa0521b6aa5f7412d49</link>
     <description>Episode 18 of Digimon Ghost Game is out!</description>
@@ -70,12 +76,6 @@
     <title>Hanyou no Yashahime: Sengoku Otogizoushi - Ni no Shou - Episode 43</title>
     <link>https://animepahe.com/play/8b3d18a0-fddb-2f02-021e-a6e10c149c12/9ae9c1af0c914567438f5c82ec80b5b64bc0e38c7d241ae45e003fa8e12d4919</link>
     <description>Episode 43 of Hanyou no Yashahime: Sengoku Otogizoushi - Ni no Shou is out!</description>
-</item>
-
-<item>
-    <title>Shuumatsu no Harem - Episode 6</title>
-    <link>https://animepahe.com/play/eb7f0be3-c51a-f134-4005-451e41aaa8d8/8d98d2e4f288ee60fa6ab7c7afada606c53c58838e86ce172dd6913da22b9774</link>
-    <description>Episode 6 of Shuumatsu no Harem is out!</description>
 </item>
 
 </channel>
