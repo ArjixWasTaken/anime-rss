@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Pokemon (2019) - Episode 98</title>
+    <link>https://animepahe.com/play/5275d2c1-9638-6d03-cb4d-ccf7ddbaf5eb/d8ab227e981a81fdebb81f900a630ec377c189f7e29595695b44ca98f578bf6f</link>
+    <description>Episode 98 of Pokemon (2019) is out!</description>
+</item>
+
+<item>
     <title>Cue! - Episode 7</title>
     <link>https://animepahe.com/play/5556fe0b-70c9-8ffe-cf7d-1eedb8a5b2e7/0aee037168009f38b93e5114573e9722baf228a2f30edeb43ce4dfedfd4502a7</link>
     <description>Episode 7 of Cue! is out!</description>
@@ -70,12 +76,6 @@
     <title>Saiyuuki Reload: Zeroin - Episode 7</title>
     <link>https://animepahe.com/play/9e446c1b-1a58-dce3-7b03-695b53ecc240/1db30b52e7303c3868e8fb69589793dc4f908959e58dca9be29aaed5cc7f31a5</link>
     <description>Episode 7 of Saiyuuki Reload: Zeroin is out!</description>
-</item>
-
-<item>
-    <title>Boku no Hero Academia the Movie 3: World Heroes' Mission - Episode 1</title>
-    <link>https://animepahe.com/play/fbb482e7-bc06-0b12-e3da-84b8edc1c3a6/fa96c6e510a7f5582bc68ce5a618524a3d8cd9bd406deba573e71f0b9683b65b</link>
-    <description>Episode 1 of Boku no Hero Academia the Movie 3: World Heroes' Mission is out!</description>
 </item>
 
 </channel>
