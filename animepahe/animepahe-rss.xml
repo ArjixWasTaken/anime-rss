@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Pokemon (2019) - Episode 99</title>
+    <link>https://animepahe.com/play/2be9761f-0bd1-b95c-e78a-191240fd70b9/bfc4c1d91cc22b0b499f96061effa30498e2bdd0e948b3fde5a0f2269bc67e83</link>
+    <description>Episode 99 of Pokemon (2019) is out!</description>
+</item>
+
+<item>
     <title>Cue! - Episode 8</title>
     <link>https://animepahe.com/play/795bceae-ddbb-57b2-baf5-317a53116c14/2a7b1f7fab5b74b9217bf18cfcf3a934c3fd08ca12e35282a0ba8d206f375845</link>
     <description>Episode 8 of Cue! is out!</description>
@@ -70,12 +76,6 @@
     <title>Arifureta Shokugyou de Sekai Saikyou 2nd Season - Episode 7</title>
     <link>https://animepahe.com/play/3f9bfd9f-b809-1941-7744-758aa2108cb0/903ff2d79ef76a5e2eb1a44b606cc56f4b3d9012c019aabcaec14b6c317b3749</link>
     <description>Episode 7 of Arifureta Shokugyou de Sekai Saikyou 2nd Season is out!</description>
-</item>
-
-<item>
-    <title>Saiyuuki Reload: Zeroin - Episode 8</title>
-    <link>https://animepahe.com/play/f0d34bee-0d03-1df5-1a78-f3d1e244f196/19f6a23b734cb672816c00fc01e63a36763faa269a7231b52973ccb2805980ec</link>
-    <description>Episode 8 of Saiyuuki Reload: Zeroin is out!</description>
 </item>
 
 </channel>
