@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Cue! - Episode 10</title>
+    <link>https://animepahe.com/play/9fa65615-9d1a-84ed-5798-6a30df67ffa0/92e96b7fc0d4b70132ebe5c0b69816f485d87d1b791b1f182812db5555233fb5</link>
+    <description>Episode 10 of Cue! is out!</description>
+</item>
+
+<item>
     <title>Shuumatsu no Harem - Episode 10</title>
     <link>https://animepahe.com/play/a2353471-ae45-f64a-e836-8e1588ea5177/af2c899d2fe870d860646c11468d43b91b3d2c442b71814124f47dbeddbf06e6</link>
     <description>Episode 10 of Shuumatsu no Harem is out!</description>
@@ -70,12 +76,6 @@
     <title>Saiyuuki Reload: Zeroin - Episode 10</title>
     <link>https://animepahe.com/play/1646b599-b171-6155-e62d-b2a107fcef2a/f6cdaf7bb8441d00c6892e377e4458e2d2ea03e662ba2c8ea764cf7c7e7abd8e</link>
     <description>Episode 10 of Saiyuuki Reload: Zeroin is out!</description>
-</item>
-
-<item>
-    <title>Tokyo 24-ku - Episode 9</title>
-    <link>https://animepahe.com/play/0e68238c-f35a-d8ba-8d8c-f70cd55c9e13/9a00fa71b4bc72352a1819be497db417eb88c5384e3e7c4da438b510c32e091f</link>
-    <description>Episode 9 of Tokyo 24-ku is out!</description>
 </item>
 
 </channel>
