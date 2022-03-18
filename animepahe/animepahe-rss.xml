@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Pokemon (2019) - Episode 102</title>
+    <link>https://animepahe.com/play/df622c3f-3cba-2bce-8a85-c9021a2f79d9/fd70839c6213dc45e9b4e0dad21bc9c61106b6eb37a595c20597de3b5550fd84</link>
+    <description>Episode 102 of Pokemon (2019) is out!</description>
+</item>
+
+<item>
     <title>Cue! - Episode 11</title>
     <link>https://animepahe.com/play/b9a48705-a6ff-f203-5a9a-876138d7e8e9/ce7d96bea152d18d88a2291bd8bb46f73b289dfc723a19e53797989bffe4f6a9</link>
     <description>Episode 11 of Cue! is out!</description>
@@ -70,12 +76,6 @@
     <title>Saiyuuki Reload: Zeroin - Episode 11</title>
     <link>https://animepahe.com/play/598fb5e8-6849-151c-a22c-24e5b23d961c/8fccd41e78c24a097bceb0917a53fcd394bd98871dcdfa3a8959455e0d5c8159</link>
     <description>Episode 11 of Saiyuuki Reload: Zeroin is out!</description>
-</item>
-
-<item>
-    <title>Tokyo 24-ku - Episode 9.5</title>
-    <link>https://animepahe.com/play/6fa2fcaf-2575-0606-ca9b-0071afbe8e69/d792bb5122a156780a3ba02e0eb3dd6eeba1dbbb8f802d96f471e8c78794a0e7</link>
-    <description>Episode 9.5 of Tokyo 24-ku is out!</description>
 </item>
 
 </channel>
