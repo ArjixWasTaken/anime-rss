@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Tokyo 24-ku - Episode 10</title>
+    <link>https://animepahe.com/play/26f62a94-45c6-f619-66c4-e52746821608/a273bcc06960a38b368b02b42eda803b3e8ad5a2cadc6fbbaf3d183be6894087</link>
+    <description>Episode 10 of Tokyo 24-ku is out!</description>
+</item>
+
+<item>
     <title>Orient - Episode 12</title>
     <link>https://animepahe.com/play/2f0439a1-71f8-3c77-d26b-0ac8e0905702/556875deaf03ecdde31e4b7c4c0da058859a23bc256bc7404a54c0c7eac0f211</link>
     <description>Episode 12 of Orient is out!</description>
@@ -70,12 +76,6 @@
     <title>Sabikui Bisco - Episode 11</title>
     <link>https://animepahe.com/play/7ba253e6-29d4-c7da-3f63-e7cbe32ab478/dee8137d59ddd462ea830106bc34f0d99c0def533ef11e6427a34d978683cb03</link>
     <description>Episode 11 of Sabikui Bisco is out!</description>
-</item>
-
-<item>
-    <title>Tribe Nine - Episode 11</title>
-    <link>https://animepahe.com/play/9cffa22f-4398-23cc-4ba4-626f7a6a1528/95edf2e1dc21b62c5a79e5c140669515f7413266e9cc64b7be57e34d243bdfe9</link>
-    <description>Episode 11 of Tribe Nine is out!</description>
 </item>
 
 </channel>
