@@ -7,6 +7,12 @@
 <description>A simple RSS feed for gogoanime!</description>
 
 <item>
+    <title>Massara - Episode 1</title>
+    <link>https://gogoanime.vc/massara-episode-1</link>
+    <description>Episode 1 of Massara is out!</description>
+</item>
+
+<item>
     <title>Kamen no Ninja Akakage - Episode 3</title>
     <link>https://gogoanime.vc/kamen-no-ninja-akakage-episode-3</link>
     <description>Episode 3 of Kamen no Ninja Akakage is out!</description>
@@ -118,12 +124,6 @@
     <title>Jungle Taitei (1989) - Episode 42</title>
     <link>https://gogoanime.vc/jungle-taitei-1989-episode-42</link>
     <description>Episode 42 of Jungle Taitei (1989) is out!</description>
-</item>
-
-<item>
-    <title>Kinnikuman - Episode 99</title>
-    <link>https://gogoanime.vc/kinnikuman-episode-99</link>
-    <description>Episode 99 of Kinnikuman is out!</description>
 </item>
 
 </channel>
