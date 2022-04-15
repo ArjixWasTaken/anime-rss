@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Onipan! - Episode 1</title>
+    <link>https://animepahe.com/play/3c44653c-33fe-6b65-1e46-4b1102668632/9efb483783e07a587b0cb7afa8cf67530d1710c5ce0790c43f0432caeacf08b0</link>
+    <description>Episode 1 of Onipan! is out!</description>
+</item>
+
+<item>
     <title>Ginga Eiyuu Densetsu: Die Neue These - Gekitotsu - Episode 29</title>
     <link>https://animepahe.com/play/39c6be53-cae8-c314-5c7c-2bf82b3b0ed8/97b98214678050763fee4ed32dfbbe18ca38075df80a09c83911d38073d4f8e3</link>
     <description>Episode 29 of Ginga Eiyuu Densetsu: Die Neue These - Gekitotsu is out!</description>
@@ -70,12 +76,6 @@
     <title>Odd Taxi - Episode 13</title>
     <link>https://animepahe.com/play/7bc522a8-c294-dd13-4a16-730e42c76c6c/b9560e42d0b10138559fb77f8811b997225f9e7497cf2bf08211e9be9299b335</link>
     <description>Episode 13 of Odd Taxi is out!</description>
-</item>
-
-<item>
-    <title>Deaimon - Episode 2</title>
-    <link>https://animepahe.com/play/8588293c-a6e3-75f5-fa82-90a8f31a15e1/99465b9dbc2c5dee361834c9b3069c9346146c9d1e72c4f3c351507f52264be6</link>
-    <description>Episode 2 of Deaimon is out!</description>
 </item>
 
 </channel>
