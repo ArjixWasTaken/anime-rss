@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Summertime Render - Episode 1</title>
+    <link>https://animepahe.com/play/c77e1ead-cbc7-3263-920d-5603e2e6c67c/133853a68f5d808929919faf6e0dd1c4755e3df0ca203e2e6cb1be3a5767a76a</link>
+    <description>Episode 1 of Summertime Render is out!</description>
+</item>
+
+<item>
     <title>Onipan! - Episode 1</title>
     <link>https://animepahe.com/play/3c44653c-33fe-6b65-1e46-4b1102668632/9efb483783e07a587b0cb7afa8cf67530d1710c5ce0790c43f0432caeacf08b0</link>
     <description>Episode 1 of Onipan! is out!</description>
@@ -70,12 +76,6 @@
     <title>Estab-Life: Great Escape - Episode 5</title>
     <link>https://animepahe.com/play/aa3c3abf-4cdc-03da-e648-011a3e42d92d/01b92bbdc163a32054b4c3eefe751a7b15abfe3037eb0366fbcd3292ca353392</link>
     <description>Episode 5 of Estab-Life: Great Escape is out!</description>
-</item>
-
-<item>
-    <title>Odd Taxi - Episode 13</title>
-    <link>https://animepahe.com/play/7bc522a8-c294-dd13-4a16-730e42c76c6c/b9560e42d0b10138559fb77f8811b997225f9e7497cf2bf08211e9be9299b335</link>
-    <description>Episode 13 of Odd Taxi is out!</description>
 </item>
 
 </channel>
