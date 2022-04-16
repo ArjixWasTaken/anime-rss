@@ -7,6 +7,12 @@
 <description>A simple RSS feed for gogoanime!</description>
 
 <item>
+    <title>Pokemon (2019) - Episode 106</title>
+    <link>https://gogoanime.vc/pokemon-2019-episode-106</link>
+    <description>Episode 106 of Pokemon (2019) is out!</description>
+</item>
+
+<item>
     <title>Dance Dance Danseur - Episode 2</title>
     <link>https://gogoanime.vc/dance-dance-danseur-episode-2</link>
     <description>Episode 2 of Dance Dance Danseur is out!</description>
@@ -118,12 +124,6 @@
     <title>Mahoutsukai Reimeiki - Episode 2</title>
     <link>https://gogoanime.vc/mahoutsukai-reimeiki-episode-2</link>
     <description>Episode 2 of Mahoutsukai Reimeiki is out!</description>
-</item>
-
-<item>
-    <title>Machikado Mazoku: 2-choume - Episode 2</title>
-    <link>https://gogoanime.vc/machikado-mazoku-2-choume-episode-2</link>
-    <description>Episode 2 of Machikado Mazoku: 2-choume is out!</description>
 </item>
 
 </channel>
