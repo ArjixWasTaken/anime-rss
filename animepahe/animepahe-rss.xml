@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Deaimon - Episode 3</title>
+    <link>https://animepahe.com/play/918bdbe4-45fc-aaf8-360c-4c7af140bb96/58e31d3dcf5965d77527f05347500efb62a2bfa6fadd80fc77f90798bf9f3841</link>
+    <description>Episode 3 of Deaimon is out!</description>
+</item>
+
+<item>
     <title>RPG Fudousan - Episode 3</title>
     <link>https://animepahe.com/play/cd2cff19-38cb-bc28-bc17-5c63a91b0348/ce38fd3cdfd5bc7ca7c17a081c2998fb3dbc874d3c45c6ab59ba7278f026bbd1</link>
     <description>Episode 3 of RPG Fudousan is out!</description>
@@ -70,12 +76,6 @@
     <title>Kyoukai Senki Part 2 - Episode 15</title>
     <link>https://animepahe.com/play/56c2db8e-306f-c860-8c6b-fe9446ee2029/bc0f21a20608d0d0be64436581f3594c46a7a6aa8c32daec9f56bc2614758cc7</link>
     <description>Episode 15 of Kyoukai Senki Part 2 is out!</description>
-</item>
-
-<item>
-    <title>Healer Girl - Episode 3</title>
-    <link>https://animepahe.com/play/0e2de179-e6d3-55e9-b627-2e96ce5ad331/4efa4d9d34db8b221f428f5fab05f98e7e0571d6cab57f2f32b921dfcc4501f1</link>
-    <description>Episode 3 of Healer Girl is out!</description>
 </item>
 
 </channel>
