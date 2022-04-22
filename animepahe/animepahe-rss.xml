@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Onipan! - Episode 2</title>
+    <link>https://animepahe.com/play/6fd46c88-ba57-7fe2-4a4c-215fcb9ed7f9/5ee55e42b797f4ef297e1d950ae09eb0b93cabc4387ea4d9ee77360dc39078b5</link>
+    <description>Episode 2 of Onipan! is out!</description>
+</item>
+
+<item>
     <title>Summertime Render - Episode 2</title>
     <link>https://animepahe.com/play/1b0af702-bf70-627e-9d6d-de981c1b9e4d/c5e727af5877becc362c0884fc2db534eee718494fda3919df80cf7fd85c20e9</link>
     <description>Episode 2 of Summertime Render is out!</description>
@@ -70,12 +76,6 @@
     <title>Estab-Life: Great Escape - Episode 6</title>
     <link>https://animepahe.com/play/4b617abe-1c98-034c-da51-bd4bf160eb21/9c548f217d0b07f23a4447f4507df6804c69e990cfe8f3979f81a4dce66dad96</link>
     <description>Episode 6 of Estab-Life: Great Escape is out!</description>
-</item>
-
-<item>
-    <title>Deaimon - Episode 3</title>
-    <link>https://animepahe.com/play/f6afceb9-ba78-e6dc-1f55-a56cfbd65846/5d7a1e7daa8d0390e8b66d9979712e7761f329119a3399004479ec902843f756</link>
-    <description>Episode 3 of Deaimon is out!</description>
 </item>
 
 </channel>
