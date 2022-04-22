@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Cue! - Episode 15</title>
+    <link>https://animepahe.com/play/1eb734b5-f228-f932-0d00-17986fee264d/7cd92c6a3b7f52f533aad956ddfaabc37d39b216ef8a622a295217353509089f</link>
+    <description>Episode 15 of Cue! is out!</description>
+</item>
+
+<item>
     <title>Aharen-san wa Hakarenai - Episode 4</title>
     <link>https://animepahe.com/play/f2f6f380-c4be-cc8d-fe9e-a8600da2fcbe/e9ccc1300dfc0b5d0c488059241777f0914fa90f503f0019519057961a6f9c84</link>
     <description>Episode 4 of Aharen-san wa Hakarenai is out!</description>
@@ -70,12 +76,6 @@
     <title>Atasha Kawajiri Kodama Da yo: Dangerous Lifehacker no Tadareta Seikatsu - Episode 12</title>
     <link>https://animepahe.com/play/d7eca190-2dbb-059d-6d15-beffcb0672ed/e126c2ce244bd155ae11ba0a1c0b638e3e476b6eb1c33dd86d8fee97a0e7eb7f</link>
     <description>Episode 12 of Atasha Kawajiri Kodama Da yo: Dangerous Lifehacker no Tadareta Seikatsu is out!</description>
-</item>
-
-<item>
-    <title>Mahoutsukai Reimeiki - Episode 3</title>
-    <link>https://animepahe.com/play/a97f7a7e-2529-0d21-6c4c-47673612ccbe/362d6d8313da7b51e99a079b4112165c459730a286b823db30845a6414f6e161</link>
-    <description>Episode 3 of Mahoutsukai Reimeiki is out!</description>
 </item>
 
 </channel>
