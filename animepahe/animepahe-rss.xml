@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Tomodachi Game - Episode 4</title>
+    <link>https://animepahe.com/play/cafb893b-75e8-a077-1f23-233c9edcaebc/e3c36d8c8a14bc75bc5531745170d9a1299fb863e38b2ec42b53e24f81015c20</link>
+    <description>Episode 4 of Tomodachi Game is out!</description>
+</item>
+
+<item>
     <title>Yuusha, Yamemasu - Episode 4</title>
     <link>https://animepahe.com/play/6a577d03-88d7-7464-cbd1-8b5f9a971703/0ec7a1bc4277457c5de2f0a7e915805d634de53dd0718a634094d6087316a80b</link>
     <description>Episode 4 of Yuusha, Yamemasu is out!</description>
@@ -70,12 +76,6 @@
     <title>Digimon Ghost Game - Episode 23</title>
     <link>https://animepahe.com/play/e35a9b26-3528-ce6e-c3df-aac08b3c5e51/ead14b7399642a6c62ac72cb5a8b97c94221f6e662b9185b5f676cc296171960</link>
     <description>Episode 23 of Digimon Ghost Game is out!</description>
-</item>
-
-<item>
-    <title>Waccha PriMagi! - Episode 27</title>
-    <link>https://animepahe.com/play/292aff5d-bcc0-bf5d-339c-f6ea4a86fd46/0ba25f391cfee6099621556971e12e6850f531117b8c4e16af4a02679da8019a</link>
-    <description>Episode 27 of Waccha PriMagi! is out!</description>
 </item>
 
 </channel>
