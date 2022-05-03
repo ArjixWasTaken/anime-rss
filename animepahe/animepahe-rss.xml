@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Tomodachi Game - Episode 5</title>
+    <link>https://animepahe.com/play/e95ddacb-93d2-4293-ad4f-eeb8736389c0/4c01c2ead860c30d85d2cab41cc8117da4957ea85517e7f03d7f746843978ee0</link>
+    <description>Episode 5 of Tomodachi Game is out!</description>
+</item>
+
+<item>
     <title>Yuusha, Yamemasu - Episode 5</title>
     <link>https://animepahe.com/play/71cb74ba-569c-d9f6-7ea2-15d52f4173b4/d1a775673c9b9b8ebe54441829edf0155c5070f02dc8b68bbe96ee165baca32c</link>
     <description>Episode 5 of Yuusha, Yamemasu is out!</description>
@@ -70,12 +76,6 @@
     <title>Shenmue the Animation - Episode 13</title>
     <link>https://animepahe.com/play/c52c0bca-56cb-f18e-95de-5afa04486c88/473874de5fd031cdbf70a77e87718f27d2718d2087145d2e1d41e6f1d3c5e568</link>
     <description>Episode 13 of Shenmue the Animation is out!</description>
-</item>
-
-<item>
-    <title>Digimon Ghost Game - Episode 24</title>
-    <link>https://animepahe.com/play/6aaf40e1-2fee-c350-2e82-3bcc0a56d89b/64863ecb4c4a5bb383b1702e4a6f4026da8b1adcaee9a2ceb3f76b2f5dc1e5bf</link>
-    <description>Episode 24 of Digimon Ghost Game is out!</description>
 </item>
 
 </channel>
