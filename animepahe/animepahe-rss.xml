@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Dance Dance Danseur - Episode 6</title>
+    <link>https://animepahe.com/play/a112bdb8-54b6-0283-a5b9-c9a667890d7d/5215a713d5f1f0da19b1ef3cccad23b738b65d4a1c056e14517589b2aa23fd8e</link>
+    <description>Episode 6 of Dance Dance Danseur is out!</description>
+</item>
+
+<item>
     <title>Cue! - Episode 18</title>
     <link>https://animepahe.com/play/a0b8939e-e08c-de61-f427-9045b4529c62/76f5fbf5350885d29ab2e3c09b34cdcbbec72cd1731d43d32ecdeeba533e1024</link>
     <description>Episode 18 of Cue! is out!</description>
@@ -70,12 +76,6 @@
     <title>Ginga Eiyuu Densetsu: Die Neue These - Gekitotsu - Episode 33</title>
     <link>https://animepahe.com/play/43864858-d061-fd49-fb16-8df0abb36296/aa162e0e86271f2ddd1f5d62e213952fcfcd1eff08845fb0871d387e8fb8fd8d</link>
     <description>Episode 33 of Ginga Eiyuu Densetsu: Die Neue These - Gekitotsu is out!</description>
-</item>
-
-<item>
-    <title>Summertime Render - Episode 5</title>
-    <link>https://animepahe.com/play/ed378156-c99f-bd8d-b080-d5a4f6e02b12/8e5c4abc646494788ef571cec03ba49ce486d7e6c71133bedc7fe2af4dec6ba4</link>
-    <description>Episode 5 of Summertime Render is out!</description>
 </item>
 
 </channel>
