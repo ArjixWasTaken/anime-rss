@@ -7,6 +7,12 @@
 <description>A simple RSS feed for gogoanime!</description>
 
 <item>
+    <title>Pokemon (2019) - Episode 110</title>
+    <link>https://gogoanime.vc/pokemon-2019-episode-110</link>
+    <description>Episode 110 of Pokemon (2019) is out!</description>
+</item>
+
+<item>
     <title>Chiikawa - Episode 7</title>
     <link>https://gogoanime.vc/chiikawa-episode-7</link>
     <description>Episode 7 of Chiikawa is out!</description>
@@ -118,12 +124,6 @@
     <title>Mahoutsukai Reimeiki - Episode 6</title>
     <link>https://gogoanime.vc/mahoutsukai-reimeiki-episode-6</link>
     <description>Episode 6 of Mahoutsukai Reimeiki is out!</description>
-</item>
-
-<item>
-    <title>Machikado Mazoku: 2-choume - Episode 6</title>
-    <link>https://gogoanime.vc/machikado-mazoku-2-choume-episode-6</link>
-    <description>Episode 6 of Machikado Mazoku: 2-choume is out!</description>
 </item>
 
 </channel>
