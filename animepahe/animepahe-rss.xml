@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Tomodachi Game - Episode 10</title>
+    <link>https://animepahe.com/play/073ead22-52c9-9d7a-298e-6eb297578534/b302f6badc7f449eb4c835ebcb4e20d28abb7297a2f155ef4f8f731684347c99</link>
+    <description>Episode 10 of Tomodachi Game is out!</description>
+</item>
+
+<item>
     <title>Yuusha, Yamemasu - Episode 10</title>
     <link>https://animepahe.com/play/e47087e7-dca7-7367-074d-a23950c8e649/8075201ab2e91e0ad5488e581b49829e6d84ab65d250568637e215445cd204d4</link>
     <description>Episode 10 of Yuusha, Yamemasu is out!</description>
@@ -70,12 +76,6 @@
     <title>Summertime Render - Episode 8</title>
     <link>https://animepahe.com/play/7d03bd64-1cb8-fbe8-bacb-1d657c06c510/c108f2fbc9be8452e47cf2dd3b1b9968d5f88c1adbf7aa7eeeeb33ceff18847c</link>
     <description>Episode 8 of Summertime Render is out!</description>
-</item>
-
-<item>
-    <title>Digimon Ghost Game - Episode 28</title>
-    <link>https://animepahe.com/play/1fb0cca2-8478-a993-6fed-a61a867abe1e/59850833fa7c3e0af8a41e5ba46872dffc50ba20d2069e50956ddcba32bcf5f4</link>
-    <description>Episode 28 of Digimon Ghost Game is out!</description>
 </item>
 
 </channel>
