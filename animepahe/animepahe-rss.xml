@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Dance Dance Danseur - Episode 10</title>
+    <link>https://animepahe.com/play/be00732c-d8bc-8288-0a0a-f9223c10cbce/de5c64199180cf8ad63be4a1977648293f8957fb950270f0d0e8631eb0bd843a</link>
+    <description>Episode 10 of Dance Dance Danseur is out!</description>
+</item>
+
+<item>
     <title>Cue! - Episode 22</title>
     <link>https://animepahe.com/play/60d14626-9207-e6e9-3646-aa67e6843f12/bbc6135f6c26de663a50d42c0ede5fcaa6983ac4348a68c517dda2b42913b34f</link>
     <description>Episode 22 of Cue! is out!</description>
@@ -70,12 +76,6 @@
     <title>Summertime Render - Episode 9</title>
     <link>https://animepahe.com/play/1c1b7aba-d650-d31e-afc5-d239b80b370e/e44b6d7014a13f0d32479f75904506bb3f48f83121f3ac9776172cc25b348cfb</link>
     <description>Episode 9 of Summertime Render is out!</description>
-</item>
-
-<item>
-    <title>Onipan! - Episode 9</title>
-    <link>https://animepahe.com/play/08df5305-a524-5092-71b8-1bd778caefb8/5bc2a4b548cb25ca5317f750995e8ab7ea080b1c9573ddb42b4bb47c03a312cb</link>
-    <description>Episode 9 of Onipan! is out!</description>
 </item>
 
 </channel>
