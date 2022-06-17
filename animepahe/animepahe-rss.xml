@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Dance Dance Danseur - Episode 11</title>
+    <link>https://animepahe.com/play/514bf8c2-3a86-5018-cb79-a36d41b6ae2d/343e75fee34525ad4eb71b45a6829e7956bcbdd413f69a88d9509571c7ea0750</link>
+    <description>Episode 11 of Dance Dance Danseur is out!</description>
+</item>
+
+<item>
     <title>Cue! - Episode 23</title>
     <link>https://animepahe.com/play/b30ef0ee-fb7c-627b-53b6-cb85b28286ba/dbf5769325dba91f0a6ff33dc7b19a375919e7cc0020559d36629880b7dd3233</link>
     <description>Episode 23 of Cue! is out!</description>
@@ -70,12 +76,6 @@
     <title>Mahoutsukai Reimeiki - Episode 10</title>
     <link>https://animepahe.com/play/17eb3c1c-923f-d1c3-7ef7-1c7e72f2bc6b/4ed5d7c233f9b9c98d801c433efa4b4dc4023c793a99733e6d9de1413ea725b2</link>
     <description>Episode 10 of Mahoutsukai Reimeiki is out!</description>
-</item>
-
-<item>
-    <title>Machikado Mazoku: 2-choume - Episode 10</title>
-    <link>https://animepahe.com/play/ddeb1f4e-55e5-e133-59bd-524bb13e60a7/58482b3e6c2fdd9f915299b35f84e34e7f3520b8fe70983da638534c9d758e2a</link>
-    <description>Episode 10 of Machikado Mazoku: 2-choume is out!</description>
 </item>
 
 </channel>
