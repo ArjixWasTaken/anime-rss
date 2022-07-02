@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Musashino! - Episode 1</title>
+    <link>https://animepahe.com/play/7c81952f-b369-2ab9-2c98-86e98b12220c/264469708a459b2d2fcb340ff0cff5df0801527856ee6de1e68d4901037f6b41</link>
+    <description>Episode 1 of Musashino! is out!</description>
+</item>
+
+<item>
     <title>Shoot! Goal to the Future - Episode 1</title>
     <link>https://animepahe.com/play/8dfad06c-6f90-8a88-f28e-4856156e1523/2957bcd38ea5be9cb43b90c64712f50a797cf3123aa2ed14b1a910f8ff83c284</link>
     <description>Episode 1 of Shoot! Goal to the Future is out!</description>
@@ -70,12 +76,6 @@
     <title>Onipan! - Episode 12</title>
     <link>https://animepahe.com/play/91e97431-166e-9c6e-ca08-8a26d4139bab/a053c1357ba876f838b7d36088913c5b8792b8941e8478c0d96277b4f69bb3a9</link>
     <description>Episode 12 of Onipan! is out!</description>
-</item>
-
-<item>
-    <title>Mahoutsukai Reimeiki - Episode 12</title>
-    <link>https://animepahe.com/play/3b17dc2f-e1da-5984-2210-16da9ae8b446/45e23f886d0c86ecf118938c1c4847ad2815feb4dcdb78b378eb89063c8d415e</link>
-    <description>Episode 12 of Mahoutsukai Reimeiki is out!</description>
 </item>
 
 </channel>
