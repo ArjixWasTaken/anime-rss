@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Lycoris Recoil - Episode 1</title>
+    <link>https://animepahe.com/play/cf9b7f60-7079-082a-29ad-aaaea2d534f8/818753209145ddaf39b09b430ad7ae7ae4b6edd880906c74f55a719f4bb7ee96</link>
+    <description>Episode 1 of Lycoris Recoil is out!</description>
+</item>
+
+<item>
     <title>Musashino! - Episode 1</title>
     <link>https://animepahe.com/play/7c81952f-b369-2ab9-2c98-86e98b12220c/264469708a459b2d2fcb340ff0cff5df0801527856ee6de1e68d4901037f6b41</link>
     <description>Episode 1 of Musashino! is out!</description>
@@ -70,12 +76,6 @@
     <title>Summertime Render - Episode 12</title>
     <link>https://animepahe.com/play/85043f95-3c7b-2d57-6bb5-11761fdd0519/fb1de92f4aca5b60804d41f9cd4187f22d0a7f975b41bdb155cc6d347bf23bbe</link>
     <description>Episode 12 of Summertime Render is out!</description>
-</item>
-
-<item>
-    <title>Onipan! - Episode 12</title>
-    <link>https://animepahe.com/play/91e97431-166e-9c6e-ca08-8a26d4139bab/a053c1357ba876f838b7d36088913c5b8792b8941e8478c0d96277b4f69bb3a9</link>
-    <description>Episode 12 of Onipan! is out!</description>
 </item>
 
 </channel>
