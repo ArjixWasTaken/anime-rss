@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Chimimo - Episode 1</title>
+    <link>https://animepahe.com/play/6736d0d3-332c-6345-f5bf-a6d589c5348e/daab26c570370f42142ab2ba0e9fd6a92f1df8cc1a7349a2dfe113dd08ab31ae</link>
+    <description>Episode 1 of Chimimo is out!</description>
+</item>
+
+<item>
     <title>Yofukashi no Uta - Episode 1</title>
     <link>https://animepahe.com/play/2769b9ba-21e9-9c80-ebec-6ae369b78b5b/aab355c3859715effdb98f6f5021a1b1c06e7e4145fe6f9d60e18855b5118ed9</link>
     <description>Episode 1 of Yofukashi no Uta is out!</description>
@@ -70,12 +76,6 @@
     <title>Wolf's Rain OVA - Episode 30</title>
     <link>https://animepahe.com/play/56277c35-1b4b-2eb6-05f2-b5c297d84678/253fd1715d0f2ce7f52498a23fc7356cae1a63e96f87ea46b391eb5f7281e654</link>
     <description>Episode 30 of Wolf's Rain OVA is out!</description>
-</item>
-
-<item>
-    <title>Wolf's Rain - Episode 26</title>
-    <link>https://animepahe.com/play/47bfce31-1c91-90b6-1bc5-8d4f3d85c618/b1e6d4245ca18c081abfca221f4744eb2874d9532794eff3eb86e3a2c6210a2b</link>
-    <description>Episode 26 of Wolf's Rain is out!</description>
 </item>
 
 </channel>
