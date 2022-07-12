@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Shine Post - Episode 1</title>
+    <link>https://animepahe.com/play/7e1a9986-b7c8-99ae-3c96-ca8932a38f56/188856aebea2f8eb6b6ebc9e1ccb6725cd2a55d73d994dd3c6bfe0b9abc2eb17</link>
+    <description>Episode 1 of Shine Post is out!</description>
+</item>
+
+<item>
     <title>Jashin-chan Dropkick X - Episode 2</title>
     <link>https://animepahe.com/play/684794b1-0cc9-beef-c18a-7050582cad1a/263c2e252467550dbe1aca7396534131683305b3ea50e75e5445c5edc0caa190</link>
     <description>Episode 2 of Jashin-chan Dropkick X is out!</description>
@@ -70,12 +76,6 @@
     <title>Yurei Deco - Episode 2</title>
     <link>https://animepahe.com/play/9f1bee65-1a51-48e6-0e90-d3f36d0a3842/eb41813d1a9962b5d2ba206dc602bc4325c944f6b26000514e0ef9c88ccc0e96</link>
     <description>Episode 2 of Yurei Deco is out!</description>
-</item>
-
-<item>
-    <title>RWBY: Hyousetsu Teikoku - Episode 2</title>
-    <link>https://animepahe.com/play/95ce474d-d776-cb16-ddd8-7d0e3121fba5/7de43105f4b77fe9cfc7c114c39f04ca11f9c4153329053423ec7f99053d634e</link>
-    <description>Episode 2 of RWBY: Hyousetsu Teikoku is out!</description>
 </item>
 
 </channel>
