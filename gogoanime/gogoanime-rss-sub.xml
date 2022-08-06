@@ -7,6 +7,12 @@
 <description>A simple RSS feed for gogoanime!</description>
 
 <item>
+    <title>Pokemon (2019) - Episode 120</title>
+    <link>https://gogoanime.vc/pokemon-2019-episode-120</link>
+    <description>Episode 120 of Pokemon (2019) is out!</description>
+</item>
+
+<item>
     <title>Chiikawa - Episode 19</title>
     <link>https://gogoanime.vc/chiikawa-episode-19</link>
     <description>Episode 19 of Chiikawa is out!</description>
@@ -118,12 +124,6 @@
     <title>Yofukashi no Uta - Episode 5</title>
     <link>https://gogoanime.vc/yofukashi-no-uta-episode-5</link>
     <description>Episode 5 of Yofukashi no Uta is out!</description>
-</item>
-
-<item>
-    <title>Minami no Niji no Lucy - Episode 4</title>
-    <link>https://gogoanime.vc/minami-no-niji-no-lucy-episode-4</link>
-    <description>Episode 4 of Minami no Niji no Lucy is out!</description>
 </item>
 
 </channel>
