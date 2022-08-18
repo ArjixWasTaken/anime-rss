@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Chiikawa - Episode 1</title>
+    <link>https://animepahe.com/play/116940c3-ff09-bff5-b11c-6d3427f6fc83/da8954d45574feb6fdca442234ea67f0dc179729271bb248a7b85e863769d5b9</link>
+    <description>Episode 1 of Chiikawa is out!</description>
+</item>
+
+<item>
     <title>Chimimo - Episode 7</title>
     <link>https://animepahe.com/play/b8dce325-4d1f-b548-f931-29e26dcdb29d/5b01d42f841fc89630b960bceb5286a540d0aa588d606d228570888ab7134079</link>
     <description>Episode 7 of Chimimo is out!</description>
@@ -70,12 +76,6 @@
     <title>Warau Arsnotoria Sun! - Episode 7</title>
     <link>https://animepahe.com/play/fcb617f1-e3d8-85d3-7e0f-23d80b225fc1/97aecf20455bbb4a9501f63978ac06f8ed351a4a00b96a7e8c1638e0f3f77350</link>
     <description>Episode 7 of Warau Arsnotoria Sun! is out!</description>
-</item>
-
-<item>
-    <title>Shine Post - Episode 6</title>
-    <link>https://animepahe.com/play/64ae6f9e-1451-33bf-a99b-bb32ba0fe1ea/0921d1893ccdb1f989430ae98208dcc646bbc33997c77bdf7c8b4dbd52c27dae</link>
-    <description>Episode 6 of Shine Post is out!</description>
 </item>
 
 </channel>
