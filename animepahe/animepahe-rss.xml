@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>BanG Dream! Movie: Poppin' Dream! - Episode 1</title>
+    <link>https://animepahe.com/play/359e0fe1-92f1-f6fa-5ced-d7e4d696f608/651684d4be9b89895231a3585cf8effbccdd09407fdb49009d250f1657ba3d80</link>
+    <description>Episode 1 of BanG Dream! Movie: Poppin' Dream! is out!</description>
+</item>
+
+<item>
     <title>Meng Qi Shi Shen: Huanxi Zhui Hun - Episode 11</title>
     <link>https://animepahe.com/play/1eb9b12f-7af4-0a05-f634-cacf61325a1a/d0593046e38233440b58742cee1c0d8900ac156b0e66b5a60bb841e48384bd41</link>
     <description>Episode 11 of Meng Qi Shi Shen: Huanxi Zhui Hun is out!</description>
@@ -70,12 +76,6 @@
     <title>Hanabi-chan wa Okuregachi - Episode 9</title>
     <link>https://animepahe.com/play/cb8f0d79-2f71-6f72-6e2b-06988f47e4cb/a4cd8afa131c13be436449cdd097891cbb41dff4ab9682736726bcfbac31ffc4</link>
     <description>Episode 9 of Hanabi-chan wa Okuregachi is out!</description>
-</item>
-
-<item>
-    <title>Isekai Yakkyoku - Episode 9</title>
-    <link>https://animepahe.com/play/4e06698c-6503-eae2-750e-65ced48d6fb4/87d7005182bcda398c620a4fb8a91ab2e03f9a0766e2649c7a39e1cbb1d81fdf</link>
-    <description>Episode 9 of Isekai Yakkyoku is out!</description>
 </item>
 
 </channel>
