@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Blue Lock - Episode 1</title>
+    <link>https://animepahe.com/play/53a72eae-4b80-ad57-b6c9-d21943175328/963b8a2f569bc3aaf1970bc0bf5c544be3f15a307d5202502844de51f3fb3acb</link>
+    <description>Episode 1 of Blue Lock is out!</description>
+</item>
+
+<item>
     <title>Poputepipikku 2nd Season - Episode 2</title>
     <link>https://animepahe.com/play/ffaa346b-8783-cea9-dcb8-d456ea181012/61a1aadcf0bfb00168fcb641350e8597c49128f9da82164a7173736536f054d2</link>
     <description>Episode 2 of Poputepipikku 2nd Season is out!</description>
@@ -70,12 +76,6 @@
     <title>Detective Conan - Episode 1059</title>
     <link>https://animepahe.com/play/b7dc65b9-09c7-913c-ddea-3b85970f35d9/2cff9c70312ea2c3ed8662646d61153929341704bd670ceb7bd023d51b91aac1</link>
     <description>Episode 1059 of Detective Conan is out!</description>
-</item>
-
-<item>
-    <title>Boku no Hero Academia 6th Season - Episode 115</title>
-    <link>https://animepahe.com/play/c79a68ce-1544-1f99-072e-5f8126110521/9897f8eb95212b5f6bf83e0cc7403f9ef86057b7684abbbd3f050fca4280457a</link>
-    <description>Episode 115 of Boku no Hero Academia 6th Season is out!</description>
 </item>
 
 </channel>
