@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Bleach - Episode 15</title>
+    <link>https://animepahe.com/play/beb2e823-e2f0-f969-a7dc-153dc20c60c9/cf6c427be0ef4d0d46f9e87a3e86b8d2e68f8c2882eaa7a76296af5ba0677e49</link>
+    <description>Episode 15 of Bleach is out!</description>
+</item>
+
+<item>
     <title>Shine Post - Episode 11</title>
     <link>https://animepahe.com/play/e980eee4-dbd3-7d3a-4f64-60a17b2d5a61/fc5b3ef11e48feb06ac997f7b74a674ccead8fbaded14f40f201baf2d1311587</link>
     <description>Episode 11 of Shine Post is out!</description>
@@ -70,12 +76,6 @@
     <title>Bleach: Sennen Kessen-hen - Episode 1</title>
     <link>https://animepahe.com/play/367f6187-2b20-3dcd-9e9d-28911a97b999/d03100c5bf4056906023e5efecfd44c13a3f09da35c25a155250f10c142ddedf</link>
     <description>Episode 1 of Bleach: Sennen Kessen-hen is out!</description>
-</item>
-
-<item>
-    <title>C Danchi - Episode 2</title>
-    <link>https://animepahe.com/play/f1d722e5-f7fd-744c-03eb-bb4d15c9bfa0/dd69f073bd6e2ff33d48923f7a69116567c06e5a3cfd7cd36e67832445df2226</link>
-    <description>Episode 2 of C Danchi is out!</description>
 </item>
 
 </channel>
