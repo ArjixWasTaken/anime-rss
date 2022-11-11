@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Wan Sheng Jie - Episode 1</title>
+    <link>https://animepahe.com/play/fb305ccd-e55f-f09f-544b-6c1810236b03/42c916045d40b84c29c186fae6101bbaa1886e6417c246fc86b613467dce5dbc</link>
+    <description>Episode 1 of Wan Sheng Jie is out!</description>
+</item>
+
+<item>
     <title>Pokemon (2019) - Episode 132</title>
     <link>https://animepahe.com/play/f83c3ed2-68fd-33e3-c2ec-8601651721ca/975bdfd4ed8a223dd199221179c44c27b67c84faddfa5f5ec610d1962be52932</link>
     <description>Episode 132 of Pokemon (2019) is out!</description>
@@ -70,12 +76,6 @@
     <title>Akiba Meido Sensou - Episode 6</title>
     <link>https://animepahe.com/play/5d941e6c-1b60-2324-1e1c-4e9996c8aa9b/75452c48dbf89afda9c3d6de551a5da818b89f6a7eaf4346d29b99374bfa0c08</link>
     <description>Episode 6 of Akiba Meido Sensou is out!</description>
-</item>
-
-<item>
-    <title>Mushikaburi-hime - Episode 6</title>
-    <link>https://animepahe.com/play/79ddff79-c62f-7bd6-86e2-88d052608813/27e358e3f46caab00d4c924ecdb33019e86bd08aa5067c7b0d3279f948c7caea</link>
-    <description>Episode 6 of Mushikaburi-hime is out!</description>
 </item>
 
 </channel>
