@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Pokemon (2019) - Episode 132</title>
+    <link>https://animepahe.com/play/f83c3ed2-68fd-33e3-c2ec-8601651721ca/975bdfd4ed8a223dd199221179c44c27b67c84faddfa5f5ec610d1962be52932</link>
+    <description>Episode 132 of Pokemon (2019) is out!</description>
+</item>
+
+<item>
     <title>Hoshi no Samidare - Episode 18</title>
     <link>https://animepahe.com/play/fb1a520d-7716-129c-5b19-c3c48e9241ca/042080d06680cad071618487a7b1213bd41fe5d5ffdeb0549182a40699324318</link>
     <description>Episode 18 of Hoshi no Samidare is out!</description>
@@ -70,12 +76,6 @@
     <title>Mushikaburi-hime - Episode 6</title>
     <link>https://animepahe.com/play/79ddff79-c62f-7bd6-86e2-88d052608813/27e358e3f46caab00d4c924ecdb33019e86bd08aa5067c7b0d3279f948c7caea</link>
     <description>Episode 6 of Mushikaburi-hime is out!</description>
-</item>
-
-<item>
-    <title>Futoku no Guild - Episode 6</title>
-    <link>https://animepahe.com/play/27d30ca0-cff0-25bd-811a-0656610fc844/dc99a81fe8346631c3b8ebd35a22560c05a292ab890824821e6be6fd4d79f2da</link>
-    <description>Episode 6 of Futoku no Guild is out!</description>
 </item>
 
 </channel>
