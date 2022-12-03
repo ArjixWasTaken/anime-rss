@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Bocchi the Rock! - Episode 9</title>
+    <link>https://animepahe.com/play/502dd859-f00f-296d-caaf-b0746910ace7/96c017cc34ed85a6b5115e119e33be0d87bc59eb9ecabc3b774cc8abe7d3b85d</link>
+    <description>Episode 9 of Bocchi the Rock! is out!</description>
+</item>
+
+<item>
     <title>Koukyuu no Karasu - Episode 10</title>
     <link>https://animepahe.com/play/de20ed89-2516-3b6f-5528-58c8432ff6e9/9e237dc0c5d3769835780d0e5595b5f94d61dc400ee4cedcf93d4ddd528f5b52</link>
     <description>Episode 10 of Koukyuu no Karasu is out!</description>
@@ -70,12 +76,6 @@
     <title>Futoku no Guild - Episode 9</title>
     <link>https://animepahe.com/play/925065e8-2826-1831-db56-ef9b71815909/a14d4569aeb640f2052340d46e5e3833146ca09e943049510b14a5db3410822e</link>
     <description>Episode 9 of Futoku no Guild is out!</description>
-</item>
-
-<item>
-    <title>Pokemon (2019) - Episode 134</title>
-    <link>https://animepahe.com/play/ae56e364-b1d5-afb6-1295-0f988de461d9/864f1da4cdf1821f1654affcfda663036caf1e8aeaacaefb7175284db22bbb20</link>
-    <description>Episode 134 of Pokemon (2019) is out!</description>
 </item>
 
 </channel>
