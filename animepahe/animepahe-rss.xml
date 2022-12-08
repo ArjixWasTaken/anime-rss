@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Super Cub - Episode 12</title>
+    <link>https://animepahe.com/play/bda2693f-0c2c-363a-acc8-f530d49ff515/12a2de124db2ce9b3a06873864e2aab21b1d273c1e7800e247d82918fc38b4b7</link>
+    <description>Episode 12 of Super Cub is out!</description>
+</item>
+
+<item>
     <title>Kuma Kuma Kuma Bear - Episode 12</title>
     <link>https://animepahe.com/play/d21cc8da-bf5a-dcc9-ddce-ebd7cafbd038/0766ab139ee1fca153cb599c43f051c62844e253e71cbcde0bc172fc0709efc2</link>
     <description>Episode 12 of Kuma Kuma Kuma Bear is out!</description>
@@ -70,12 +76,6 @@
     <title>Isekai Ojisan - Episode 9</title>
     <link>https://animepahe.com/play/d7242284-0164-083b-b997-f1373e978f36/6fd9d172b7ff98d731a39b9c4f6d2295bcb7a546bf29b39fdf5af790e3d4fe0c</link>
     <description>Episode 9 of Isekai Ojisan is out!</description>
-</item>
-
-<item>
-    <title>Chainsaw Man - Episode 9</title>
-    <link>https://animepahe.com/play/a8411934-35a8-de71-58cf-867061ecfa42/7a2023691e3f5b58afc1fa220afdf064ec7d17e0c782953fbedf82bc5e5f3568</link>
-    <description>Episode 9 of Chainsaw Man is out!</description>
 </item>
 
 </channel>
