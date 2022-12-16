@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Hoshi no Samidare - Episode 23</title>
+    <link>https://animepahe.com/play/6b10b52e-b184-2123-63cf-c87ae6ff69aa/de4abf40dbbce8e6fa39b72c423156d65df7483638b504c293e73fdfd8239af5</link>
+    <description>Episode 23 of Hoshi no Samidare is out!</description>
+</item>
+
+<item>
     <title>Seiken Densetsu: Legend of Mana - The Teardrop Crystal - Episode 11</title>
     <link>https://animepahe.com/play/35bd2705-f08f-4fc8-4ca5-f8110d59c17c/77582e79d6aa2d56b21309e130b6461e39a39630201ad7c7aecc728d7c809e09</link>
     <description>Episode 11 of Seiken Densetsu: Legend of Mana - The Teardrop Crystal is out!</description>
@@ -70,12 +76,6 @@
     <title>KanColle: Itsuka Ano Umi de - Episode 4</title>
     <link>https://animepahe.com/play/179d87b5-7d3c-010c-0544-349ce1b31d23/0e99d64f08395986bcdef6ab93f30e3498d344d2b92e40f4e5093c2cf59ac711</link>
     <description>Episode 4 of KanColle: Itsuka Ano Umi de is out!</description>
-</item>
-
-<item>
-    <title>Akiba Meido Sensou - Episode 11</title>
-    <link>https://animepahe.com/play/665a59e6-b09a-eb10-bd4a-40f5cd71e5ad/b64c6c65193bf3d9e1c884e0a1b39b1ca8ecccdf9062f624dc05e75535f441fb</link>
-    <description>Episode 11 of Akiba Meido Sensou is out!</description>
 </item>
 
 </channel>
