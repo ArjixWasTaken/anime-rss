@@ -7,6 +7,12 @@
 <description>A simple RSS feed for gogoanime!</description>
 
 <item>
+    <title>Inu-Ou - Episode 1</title>
+    <link>https://gogoanime.vc/inu-ou-episode-1</link>
+    <description>Episode 1 of Inu-Ou is out!</description>
+</item>
+
+<item>
     <title>Seiken Densetsu: Legend of Mana - The Teardrop Crystal - Episode 12</title>
     <link>https://gogoanime.vc/seiken-densetsu-legend-of-mana-the-teardrop-crystal-episode-12</link>
     <description>Episode 12 of Seiken Densetsu: Legend of Mana - The Teardrop Crystal is out!</description>
@@ -118,12 +124,6 @@
     <title>Mob Psycho 100 III - Episode 12</title>
     <link>https://gogoanime.vc/mob-psycho-100-iii-episode-12</link>
     <description>Episode 12 of Mob Psycho 100 III is out!</description>
-</item>
-
-<item>
-    <title>Futoku no Guild - Episode 12</title>
-    <link>https://gogoanime.vc/futoku-no-guild-episode-12</link>
-    <description>Episode 12 of Futoku no Guild is out!</description>
 </item>
 
 </channel>
