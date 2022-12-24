@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Bocchi the Rock! - Episode 12</title>
+    <link>https://animepahe.com/play/e5a2bc46-66c9-ad7d-bef4-b90b0eeae519/89e75b43536d7f6c14a19bbabb8a2b5fac565ac77226854bb0844f9392e6cad0</link>
+    <description>Episode 12 of Bocchi the Rock! is out!</description>
+</item>
+
+<item>
     <title>Koukyuu no Karasu - Episode 13</title>
     <link>https://animepahe.com/play/8759176d-901c-64b8-4e29-1e1862fb0721/223d9f6f27dc86378f77e371c08ef22a090c2ab5c67f184d4a2247f5c2e1e6a8</link>
     <description>Episode 13 of Koukyuu no Karasu is out!</description>
@@ -70,12 +76,6 @@
     <title>Boku no Hero Academia 2nd Season - Episode 38</title>
     <link>https://animepahe.com/play/6539dac4-0c02-4a30-c413-fae263b4f191/751ce0e89a31c244e9bef8fefce0b89dfb671044b6cdab63b373b9a66a0ec1a1</link>
     <description>Episode 38 of Boku no Hero Academia 2nd Season is out!</description>
-</item>
-
-<item>
-    <title>Boku no Hero Academia - Episode 13</title>
-    <link>https://animepahe.com/play/fe88283d-b9c6-fc79-038e-9779466de6c7/161d86167c95acb386ec3242a3d35aae36eca2544b460dd055896299c6e1bc59</link>
-    <description>Episode 13 of Boku no Hero Academia is out!</description>
 </item>
 
 </channel>
