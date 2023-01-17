@@ -7,6 +7,18 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Gamers! - Episode 1</title>
+    <link>https://animepahe.com/play/b0437b34-5ba3-b573-425a-cd4faacc33c7/6723475fec8afc2c1f7dad5066bdee11b37e747a16ef87573df90d7fdf2da964</link>
+    <description>Episode 1 of Gamers! is out!</description>
+</item>
+
+<item>
+    <title>Citrus - Episode 12</title>
+    <link>https://animepahe.com/play/87d08982-9511-9cb7-0414-7e398b59f022/73abe52d0767bf2494ab14687d1dddad98e69026a08fd61a18d86ce7a1393886</link>
+    <description>Episode 12 of Citrus is out!</description>
+</item>
+
+<item>
     <title>Sabikui Bisco - Episode 12</title>
     <link>https://animepahe.com/play/48fc2348-ea41-714f-4335-2f5fd9c394b5/147785f64c54587154e28e6d3ad37fd6528ebe2b77e6cec82735604d1e82ccef</link>
     <description>Episode 12 of Sabikui Bisco is out!</description>
@@ -64,18 +76,6 @@
     <title>Himouto! Umaru-chan OVA - Episode 2</title>
     <link>https://animepahe.com/play/4c746b33-654a-2875-184e-6b9c8b5cae58/a513edef7e6365f56b0b374e55fd016499d694e4e6e210dd4c9b0067eaf92d32</link>
     <description>Episode 2 of Himouto! Umaru-chan OVA is out!</description>
-</item>
-
-<item>
-    <title>Himouto! Umaru-chanS - Episode 12</title>
-    <link>https://animepahe.com/play/e996da95-d557-def8-2517-9f575f6fcd83/db74d9de3ef9f634ba108aed4384c1ba8dfc3bd6cc0a5fa4e039d7c1628b40cb</link>
-    <description>Episode 12 of Himouto! Umaru-chanS is out!</description>
-</item>
-
-<item>
-    <title>Himouto! Umaru-chan - Episode 12</title>
-    <link>https://animepahe.com/play/7d8fbaeb-d998-9103-189a-ac3a5dba1a26/8263dd6edcde8a100a10a378e092cf53e7d70229f2e2616a24abdf3d4bdf8f0a</link>
-    <description>Episode 12 of Himouto! Umaru-chan is out!</description>
 </item>
 
 </channel>
