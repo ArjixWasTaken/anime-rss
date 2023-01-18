@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Tomo-chan wa Onnanoko! - Episode 3</title>
+    <link>https://animepahe.com/play/e1183aae-5336-9b0c-6ed9-5ab7ee58efd5/ba393acb5d0013a3103c4dfd41448c99ed23e5c6979d294468194a70a09adc6a</link>
+    <description>Episode 3 of Tomo-chan wa Onnanoko! is out!</description>
+</item>
+
+<item>
     <title>Technoroid: Overmind - Episode 3</title>
     <link>https://animepahe.com/play/35f41694-6a68-3184-02d2-92dab5fae99f/9331a6dbbc3240dfc4f023950c8140009a241eb59d7978e621d9fb7d1019e960</link>
     <description>Episode 3 of Technoroid: Overmind is out!</description>
@@ -70,12 +76,6 @@
     <title>Durarara!!x2 Ten: Onoroke Chakapoko - Episode 13.5</title>
     <link>https://animepahe.com/play/a490e7f9-6422-d722-be74-1a3b1db819e2/e863e88666ae0df8f4fd911c6d635b76384b0ace3c856351b7f73f2063ca39c1</link>
     <description>Episode 13.5 of Durarara!!x2 Ten: Onoroke Chakapoko is out!</description>
-</item>
-
-<item>
-    <title>Durarara!!x2 Ten - Episode 24</title>
-    <link>https://animepahe.com/play/70e5c916-59d7-1d34-6e5c-431f0c365159/e7aea6afb68014a5d6ddc153bb932fab26ed21a5d23b11b9375c8f5f2d34454a</link>
-    <description>Episode 24 of Durarara!!x2 Ten is out!</description>
 </item>
 
 </channel>
