@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Ooyukiumi no Kaina - Episode 3</title>
+    <link>https://animepahe.com/play/9fa39d1d-adb9-8e76-e189-4272792a62f6/27fa57a8a960bdc1397cb7dba28e4d3eafc684384c0e30fcab638a4b042b4405</link>
+    <description>Episode 3 of Ooyukiumi no Kaina is out!</description>
+</item>
+
+<item>
     <title>Tomo-chan wa Onnanoko! - Episode 4</title>
     <link>https://animepahe.com/play/3953a677-4e7d-c0da-1f4f-ba1244c37529/4724eb40f33660149540a48df5b15e9b013dccbac19590bfa7189f0f3d64e6fa</link>
     <description>Episode 4 of Tomo-chan wa Onnanoko! is out!</description>
@@ -70,12 +76,6 @@
     <title>Jaku-Chara Tomozaki-kun Specials - Episode 2</title>
     <link>https://animepahe.com/play/a041645b-80ec-dad1-6e47-636aece0ac19/6b2b87a2f935d12dfd38f0a4da65ce4297e7d59f570d9ac55aaee9cd8ae1411d</link>
     <description>Episode 2 of Jaku-Chara Tomozaki-kun Specials is out!</description>
-</item>
-
-<item>
-    <title>Jaku-Chara Tomozaki-kun - Episode 12</title>
-    <link>https://animepahe.com/play/2d2cae38-5731-ffdb-3447-9ee0092b5c4e/33e6a10063ad62a4bea5ee9f5e416fef490370e039607b298b1cb00767a4c327</link>
-    <description>Episode 12 of Jaku-Chara Tomozaki-kun is out!</description>
 </item>
 
 </channel>
