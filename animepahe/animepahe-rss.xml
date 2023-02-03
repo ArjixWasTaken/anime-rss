@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Koisuru Asteroid - Episode 11</title>
+    <link>https://animepahe.com/play/bd660d74-2c81-ded6-533b-c8b410135b26/083606d9dad87bfefca44558a1b04775b5f7961fe28640f10215d9e918365099</link>
+    <description>Episode 11 of Koisuru Asteroid is out!</description>
+</item>
+
+<item>
     <title>Gintama: The Final - Episode 1</title>
     <link>https://animepahe.com/play/38800b7d-a5e3-ae4b-9e41-a16772acbfe7/9851a9551fa04d1b63ca5ef22610bcf5c5a3363bcde045d0c9a5730989901d48</link>
     <description>Episode 1 of Gintama: The Final is out!</description>
@@ -70,12 +76,6 @@
     <title>Technoroid: Overmind - Episode 5</title>
     <link>https://animepahe.com/play/770115b3-754d-6d0c-0bae-d56d08509301/e77efe10ecd805eb36ddc7581977e75b4dc3b95809e8c62f92ab300d57fa2d72</link>
     <description>Episode 5 of Technoroid: Overmind is out!</description>
-</item>
-
-<item>
-    <title>Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2 - Episode 4</title>
-    <link>https://animepahe.com/play/b6a41a76-1873-6eae-6fd6-001164fec5e1/d9137730d0ba26a0f789b7f73896545fa7e83176ab1769d69ba2673281fb380f</link>
-    <description>Episode 4 of Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2 is out!</description>
 </item>
 
 </channel>
