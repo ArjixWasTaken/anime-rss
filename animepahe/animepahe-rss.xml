@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>UniteUp! - Episode 5</title>
+    <link>https://animepahe.com/play/5d07fda4-8280-3fac-6d25-0bdd8349a0bd/082f769895e408733086421c3d9e0258e486b67cd79e66274cc14349240a664e</link>
+    <description>Episode 5 of UniteUp! is out!</description>
+</item>
+
+<item>
     <title>Trigun Stampede - Episode 7</title>
     <link>https://animepahe.com/play/f0c11c61-793c-cfd3-e346-fd93a9d49102/a8cc90dd8c280411db6670a37c529c139d513da404840084826d27a81a864549</link>
     <description>Episode 7 of Trigun Stampede is out!</description>
@@ -70,12 +76,6 @@
     <title>Mahouka Koukou no Yuutousei - Episode 13</title>
     <link>https://animepahe.com/play/570e927a-9b85-f4aa-8c13-e341974a9dd8/3a243c9c8f343a3881edb319d10fac84e5fa9bf667b968d686048ea2c0c55c41</link>
     <description>Episode 13 of Mahouka Koukou no Yuutousei is out!</description>
-</item>
-
-<item>
-    <title>Mahouka Koukou no Rettousei: Tsuioku-hen - Episode 1</title>
-    <link>https://animepahe.com/play/5e52d5b8-1848-5d0e-492e-84de03d0ffb3/189bde0bb343d74c15645a19853486e2636272a108cb6ec47cd6e17a85c23e70</link>
-    <description>Episode 1 of Mahouka Koukou no Rettousei: Tsuioku-hen is out!</description>
 </item>
 
 </channel>
