@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Gunma-chan - Episode 2</title>
+    <link>https://animepahe.com/play/d327c405-68b0-8fb2-51a7-852be519ebb8/435beae9d720576eeb23856a34e867dee62ba58086fe01276c95a482029d8dcd</link>
+    <description>Episode 2 of Gunma-chan is out!</description>
+</item>
+
+<item>
     <title>Mou Ippon! - Episode 8</title>
     <link>https://animepahe.com/play/d00add1c-b772-ff30-d6d5-8f1e54109e36/920863e7e7db2b83d81a2d32a8001b0b6813fc733a7f2fdbd35b397e521fc7ee</link>
     <description>Episode 8 of Mou Ippon! is out!</description>
@@ -70,12 +76,6 @@
     <title>Hirogaru Sky! Precure - Episode 4</title>
     <link>https://animepahe.com/play/d2113929-8d02-51a1-0843-1606fef54d9c/ea8ce777831ac22a62c264f6864cec1398e95215f1fedd163bae4412c285389d</link>
     <description>Episode 4 of Hirogaru Sky! Precure is out!</description>
-</item>
-
-<item>
-    <title>Digimon Ghost Game - Episode 65</title>
-    <link>https://animepahe.com/play/1c9e8480-8ab5-ecef-af60-be361e3e7d26/1ea0e8f301787b6245b17a1763b69cef541a52f9250a011e16799192ddc9ad7f</link>
-    <description>Episode 65 of Digimon Ghost Game is out!</description>
 </item>
 
 </channel>
