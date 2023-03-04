@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>UniteUp! - Episode 7</title>
+    <link>https://animepahe.com/play/55ac849a-84c3-7228-da2b-4809d4c0c36d/e316559db6c90e6ae9bc77fedd58078548f4887e04312a0d822ab51a5dfd4750</link>
+    <description>Episode 7 of UniteUp! is out!</description>
+</item>
+
+<item>
     <title>Trigun Stampede - Episode 9</title>
     <link>https://animepahe.com/play/ed5123c5-f4b3-ed87-0cdb-e2f61c73e0cb/fb3b7ac67d1d4a831d156c7ffea2eb51b3273d364b81a50a0c91cce7bcdf6bfe</link>
     <description>Episode 9 of Trigun Stampede is out!</description>
@@ -70,12 +76,6 @@
     <title>Chibi Maruko-chan - Episode 97</title>
     <link>https://animepahe.com/play/92958a89-c913-10b4-2837-34fdbae26d2d/9e99de3b8ebdab3db4e41e9d0a58c2a6c44551b73ccb554e147e2025d2658fcd</link>
     <description>Episode 97 of Chibi Maruko-chan is out!</description>
-</item>
-
-<item>
-    <title>Haai Step Jun - Episode 7</title>
-    <link>https://animepahe.com/play/966a64ca-9481-901b-793c-5bca9001ebc3/8932cc5d218aca4f62aca993709904c7c5fbfd66dbb3ee322b2f24c061ae9c27</link>
-    <description>Episode 7 of Haai Step Jun is out!</description>
 </item>
 
 </channel>
