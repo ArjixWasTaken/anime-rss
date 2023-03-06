@@ -7,6 +7,12 @@
 <description>A simple RSS feed for gogoanime!</description>
 
 <item>
+    <title>High Card - Episode 9</title>
+    <link>https://gogoanime.vc/high-card-episode-9</link>
+    <description>Episode 9 of High Card is out!</description>
+</item>
+
+<item>
     <title>Chibi Maruko-chan - Episode 98</title>
     <link>https://gogoanime.vc/chibi-maruko-chan-episode-98</link>
     <description>Episode 98 of Chibi Maruko-chan is out!</description>
@@ -118,12 +124,6 @@
     <title>NieR:Automata Ver1.1a - Episode 6</title>
     <link>https://gogoanime.vc/nierautomata-ver1-1a-episode-6</link>
     <description>Episode 6 of NieR:Automata Ver1.1a is out!</description>
-</item>
-
-<item>
-    <title>Trigun Stampede - Episode 9</title>
-    <link>https://gogoanime.vc/trigun-stampede-episode-9</link>
-    <description>Episode 9 of Trigun Stampede is out!</description>
 </item>
 
 </channel>
