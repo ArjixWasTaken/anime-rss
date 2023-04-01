@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Jigokuraku - Episode 1</title>
+    <link>https://animepahe.com/play/cadf8349-70db-3a42-a259-25ef89dd6523/50c238abf64a5be800335aba92600456c0ec5afe207d13cd7a97d6c0af8c786e</link>
+    <description>Episode 1 of Jigokuraku is out!</description>
+</item>
+
+<item>
     <title>Detective Conan - Episode 1078</title>
     <link>https://animepahe.com/play/13d67786-0724-ba37-0878-962fcfc2aae8/33e7bb58257ea2f4bf3ec0ebbe8a384eaf380538a5d114ca57b96f3acdc78c5c</link>
     <description>Episode 1078 of Detective Conan is out!</description>
@@ -70,12 +76,6 @@
     <title>Tomo-chan wa Onnanoko! - Episode 13</title>
     <link>https://animepahe.com/play/826e5f12-1dd2-98c2-2d94-3c50d2c0aec5/969aad035caa91c6dd4b7123bebbc0b143220c725eac64aa53a992d411429de6</link>
     <description>Episode 13 of Tomo-chan wa Onnanoko! is out!</description>
-</item>
-
-<item>
-    <title>Technoroid: Overmind - Episode 12</title>
-    <link>https://animepahe.com/play/af3f9b97-a4b9-73a1-efdf-a456ce9e4436/1be27a5a2f04a96f82262498d1a465c4d75fa3d60415146a74ceeab80e857cd1</link>
-    <description>Episode 12 of Technoroid: Overmind is out!</description>
 </item>
 
 </channel>
