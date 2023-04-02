@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Mou Ippon! - Episode 13</title>
+    <link>https://animepahe.com/play/fb221cc4-a0b1-4a66-00e1-f40f154becc6/dc63d76359f62fb918bda5f5523c0e972f1ffcfb65ef5c3afeddbd7ff23903a4</link>
+    <description>Episode 13 of Mou Ippon! is out!</description>
+</item>
+
+<item>
     <title>Reiwa no Di Gi Charat - Episode 16</title>
     <link>https://animepahe.com/play/27f471ed-add5-783a-4ae7-7adbc7b038b1/8ce2696b4ab250cd6e16fd7a769076018e711276ae8ff2af29e35af47dbae11b</link>
     <description>Episode 16 of Reiwa no Di Gi Charat is out!</description>
@@ -70,12 +76,6 @@
     <title>Boku no Kokoro no Yabai Yatsu - Episode 1</title>
     <link>https://animepahe.com/play/a1e35e04-6e60-b1d9-d318-c357d4373592/f6339d0e9af3d068b7126aab5891339b3b54b108bf26caeca003392526ea7df1</link>
     <description>Episode 1 of Boku no Kokoro no Yabai Yatsu is out!</description>
-</item>
-
-<item>
-    <title>Saikyou Onmyouji no Isekai Tenseiki - Episode 13</title>
-    <link>https://animepahe.com/play/d7f200e0-56c1-d6d1-edfc-025dccebe1a8/6b178377e5106e06e7629bb36e7939737be53cb4148769365cb3ca4f7deadc8f</link>
-    <description>Episode 13 of Saikyou Onmyouji no Isekai Tenseiki is out!</description>
 </item>
 
 </channel>
