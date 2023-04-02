@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>My Home Hero - Episode 1</title>
+    <link>https://animepahe.com/play/467788b4-dca2-b5aa-620b-8576ab36050d/dff0cc0695bd6e55614e352c56f95ca5daaf6c352fd50f84e80f14c3bf982b1f</link>
+    <description>Episode 1 of My Home Hero is out!</description>
+</item>
+
+<item>
     <title>Jijou wo Shiranai Tenkousei ga Guigui Kuru. - Episode 1</title>
     <link>https://animepahe.com/play/858c2b08-eaa9-24f6-48a7-69545c50a598/93844602b8b0b5526cc90227576f0b4605e01248a271f23c551e33f41cc596bf</link>
     <description>Episode 1 of Jijou wo Shiranai Tenkousei ga Guigui Kuru. is out!</description>
@@ -70,12 +76,6 @@
     <title>Jigokuraku - Episode 1</title>
     <link>https://animepahe.com/play/cadf8349-70db-3a42-a259-25ef89dd6523/50c238abf64a5be800335aba92600456c0ec5afe207d13cd7a97d6c0af8c786e</link>
     <description>Episode 1 of Jigokuraku is out!</description>
-</item>
-
-<item>
-    <title>Detective Conan - Episode 1078</title>
-    <link>https://animepahe.com/play/13d67786-0724-ba37-0878-962fcfc2aae8/33e7bb58257ea2f4bf3ec0ebbe8a384eaf380538a5d114ca57b96f3acdc78c5c</link>
-    <description>Episode 1078 of Detective Conan is out!</description>
 </item>
 
 </channel>
