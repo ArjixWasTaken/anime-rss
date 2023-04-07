@@ -7,6 +7,12 @@
 <description>A simple RSS feed for gogoanime!</description>
 
 <item>
+    <title>Mashle - Episode 1</title>
+    <link>https://gogoanime.vc/mashle-episode-1</link>
+    <description>Episode 1 of Mashle is out!</description>
+</item>
+
+<item>
     <title>Kawaisugi Crisis - Episode 1</title>
     <link>https://gogoanime.vc/kawaisugi-crisis-episode-1</link>
     <description>Episode 1 of Kawaisugi Crisis is out!</description>
@@ -118,12 +124,6 @@
     <title>Pole Princess!! - Episode 7</title>
     <link>https://gogoanime.vc/pole-princess-episode-7</link>
     <description>Episode 7 of Pole Princess!! is out!</description>
-</item>
-
-<item>
-    <title>Kono Subarashii Sekai ni Bakuen wo! - Episode 1</title>
-    <link>https://gogoanime.vc/kono-subarashii-sekai-ni-bakuen-wo-episode-1</link>
-    <description>Episode 1 of Kono Subarashii Sekai ni Bakuen wo! is out!</description>
 </item>
 
 </channel>
