@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>My Home Hero - Episode 2</title>
+    <link>https://animepahe.com/play/e2c247c1-7563-d0e2-a70b-618e426f1147/253f25ec92c0183705a7020be945ddadbbc3b584b3b22432b94335c70fe66794</link>
+    <description>Episode 2 of My Home Hero is out!</description>
+</item>
+
+<item>
     <title>Jijou wo Shiranai Tenkousei ga Guigui Kuru. - Episode 2</title>
     <link>https://animepahe.com/play/ec161068-e5ab-5243-ed41-3028a551e922/d7501c36bf76c00f1c266ed8d13402a1740ab03ae66f10e587c337a4c01958f9</link>
     <description>Episode 2 of Jijou wo Shiranai Tenkousei ga Guigui Kuru. is out!</description>
@@ -70,12 +76,6 @@
     <title>UniteUp! - Episode 11</title>
     <link>https://animepahe.com/play/5b333948-f8f2-5de3-9b06-f99b9a9b5a10/5df71153b3a6095d6dab30c64cb7de52feb67590a46e5443b0c63d4392f42fe6</link>
     <description>Episode 11 of UniteUp! is out!</description>
-</item>
-
-<item>
-    <title>Jigokuraku - Episode 2</title>
-    <link>https://animepahe.com/play/52ae0057-18cc-741e-810e-a371824b2fc4/64d2a535c459e55f0646393dc520b1890aeee455867df66f38d673fe9247dbc1</link>
-    <description>Episode 2 of Jigokuraku is out!</description>
 </item>
 
 </channel>
