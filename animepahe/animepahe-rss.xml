@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Jigokuraku - Episode 3</title>
+    <link>https://animepahe.com/play/48c9bd5f-d13f-95d9-215f-9573505c3965/5a73f8e0ed3deb69a253cf875652c1da97aa34bd1f09c11fba8217f153c34a97</link>
+    <description>Episode 3 of Jigokuraku is out!</description>
+</item>
+
+<item>
     <title>Crayon Shin-chan - Episode 50</title>
     <link>https://animepahe.com/play/80fcdf32-fc48-b9d7-785f-0c89a78d6be3/5865af5fa851de849700b5abe6127cbd5e722a488d0cd86e33e3b5c84e0c68c0</link>
     <description>Episode 50 of Crayon Shin-chan is out!</description>
@@ -70,12 +76,6 @@
     <title>Tonikaku Kawaii 2nd Season - Episode 2</title>
     <link>https://animepahe.com/play/5d21f262-be5e-b3d7-0bc8-548efca02d59/84a6df7a46183166f0382c74dbff6d47d4dd4b3a27c9c8ac47434143c0bd78b1</link>
     <description>Episode 2 of Tonikaku Kawaii 2nd Season is out!</description>
-</item>
-
-<item>
-    <title>Mashle - Episode 2</title>
-    <link>https://animepahe.com/play/459474d2-1417-605b-eed1-0d64c9bc26e8/054262b7013afa5d62fa9b0f9527de4d3be168a57e90df9190e5ae2f97962a67</link>
-    <description>Episode 2 of Mashle is out!</description>
 </item>
 
 </channel>
