@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Crayon Shin-chan - Episode 50</title>
+    <link>https://animepahe.com/play/80fcdf32-fc48-b9d7-785f-0c89a78d6be3/5865af5fa851de849700b5abe6127cbd5e722a488d0cd86e33e3b5c84e0c68c0</link>
+    <description>Episode 50 of Crayon Shin-chan is out!</description>
+</item>
+
+<item>
     <title>Pokemon (Shinsaku Anime) - Episode 1</title>
     <link>https://animepahe.com/play/7e979347-b147-6e66-863e-55ab32f29c7f/918d245df6e0632d9836705e9545c2cec3efeda9f7b8717b3b1f3704c80104df</link>
     <description>Episode 1 of Pokemon (Shinsaku Anime) is out!</description>
@@ -70,12 +76,6 @@
     <title>Mashle - Episode 2</title>
     <link>https://animepahe.com/play/459474d2-1417-605b-eed1-0d64c9bc26e8/054262b7013afa5d62fa9b0f9527de4d3be168a57e90df9190e5ae2f97962a67</link>
     <description>Episode 2 of Mashle is out!</description>
-</item>
-
-<item>
-    <title>Kawaisugi Crisis - Episode 2</title>
-    <link>https://animepahe.com/play/092c7d14-862b-ce37-0777-3fba993245c1/ba315d7b2c13dbe20a47129d580ddd80e868b5794f5ed994ee2c6244a3cec0cb</link>
-    <description>Episode 2 of Kawaisugi Crisis is out!</description>
 </item>
 
 </channel>
