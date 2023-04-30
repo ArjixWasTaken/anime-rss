@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>My Home Hero - Episode 5</title>
+    <link>https://animepahe.com/play/5f8bd098-377f-9222-6810-1ad66124b79b/c1c3c796af89284dafe8e8b8f79d6cd82b51df00a386b9f879fb16193122cf2e</link>
+    <description>Episode 5 of My Home Hero is out!</description>
+</item>
+
+<item>
     <title>Jijou wo Shiranai Tenkousei ga Guigui Kuru. - Episode 5</title>
     <link>https://animepahe.com/play/e0167f35-160b-154d-f5c8-bae4053aa3ad/88e06e36ae03828aa0bd979d002d79d805ca2ad27bf5658dee0902b380f6001e</link>
     <description>Episode 5 of Jijou wo Shiranai Tenkousei ga Guigui Kuru. is out!</description>
@@ -70,12 +76,6 @@
     <title>Edens Zero 2nd Season - Episode 30</title>
     <link>https://animepahe.com/play/58ef031d-a6d0-a411-c578-ffcf6a077cc7/88ef64b0629005c493bc383b733db500d91fc6fd3a99954099ee8de81dbddb48</link>
     <description>Episode 30 of Edens Zero 2nd Season is out!</description>
-</item>
-
-<item>
-    <title>Jigokuraku - Episode 5</title>
-    <link>https://animepahe.com/play/686814ec-9b59-b52b-6708-ff1b2ab278d7/842be01c912eb7b67088e1a7f3299a619102911151be80f3f5c52b978f46a03c</link>
-    <description>Episode 5 of Jigokuraku is out!</description>
 </item>
 
 </channel>
