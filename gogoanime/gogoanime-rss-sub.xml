@@ -7,6 +7,12 @@
 <description>A simple RSS feed for gogoanime!</description>
 
 <item>
+    <title>Dragon Ball Z: Atsumare! Goku World - Episode 1</title>
+    <link>https://gogoanime.vc/dragon-ball-z-atsumare-goku-world-episode-1</link>
+    <description>Episode 1 of Dragon Ball Z: Atsumare! Goku World is out!</description>
+</item>
+
+<item>
     <title>Gunma-chan - Episode 12</title>
     <link>https://gogoanime.vc/gunma-chan-episode-12</link>
     <description>Episode 12 of Gunma-chan is out!</description>
@@ -118,12 +124,6 @@
     <title>Gun-dou Musashi - Episode 18</title>
     <link>https://gogoanime.vc/gun-dou-musashi-episode-18</link>
     <description>Episode 18 of Gun-dou Musashi is out!</description>
-</item>
-
-<item>
-    <title>Haai Step Jun - Episode 10</title>
-    <link>https://gogoanime.vc/haai-step-jun-episode-10</link>
-    <description>Episode 10 of Haai Step Jun is out!</description>
 </item>
 
 </channel>
