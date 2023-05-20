@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Ao no Orchestra - Episode 1</title>
+    <link>https://animepahe.com/play/274a9a75-ee5b-edeb-2db6-2ff0a87b1973/0d757edad15919e96d7fd22f88efbf61eef2dfe36bc4f61ae257a536d4f2d414</link>
+    <description>Episode 1 of Ao no Orchestra is out!</description>
+</item>
+
+<item>
     <title>Pokemon (2023) - Episode 7</title>
     <link>https://animepahe.com/play/cb202b25-c346-6ac6-8451-c605a45f94cb/ce2b538d6f68b8b570403ef818f019481dbac4ba996d1b848c5152aee6136921</link>
     <description>Episode 7 of Pokemon (2023) is out!</description>
@@ -70,12 +76,6 @@
     <title>Yuusha ga Shinda! - Episode 7</title>
     <link>https://animepahe.com/play/5fb43a30-a1bb-c65c-4d04-66b08412a466/8f7dd725c7efab27b0088a86cad78965738d5ae14eba4557a4cddcc4bdce6c54</link>
     <description>Episode 7 of Yuusha ga Shinda! is out!</description>
-</item>
-
-<item>
-    <title>Opus.COLORs - Episode 7</title>
-    <link>https://animepahe.com/play/fde65ba1-f790-03f3-2a55-a72ae332a0a1/07721e1b6ec839c53f8adf55ad58e7942945ea13269e9c8a8f77c6058c170b58</link>
-    <description>Episode 7 of Opus.COLORs is out!</description>
 </item>
 
 </channel>
