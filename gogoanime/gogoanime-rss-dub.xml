@@ -7,6 +7,12 @@
 <description>A simple RSS feed for gogoanime!</description>
 
 <item>
+    <title> - Episode 1</title>
+    <link>https://gogoanime.vc/oshi-no-ko-dub-episode-1</link>
+    <description>Episode 1 of  is out!</description>
+</item>
+
+<item>
     <title>Mahoromatic Summer Special (Dub) - Episode 1</title>
     <link>https://gogoanime.vc/mahoromatic-summer-special-dub-episode-1</link>
     <description>Episode 1 of Mahoromatic Summer Special (Dub) is out!</description>
@@ -118,12 +124,6 @@
     <title>Jigokuraku (Dub) - Episode 6</title>
     <link>https://gogoanime.vc/jigokuraku-dub-episode-6</link>
     <description>Episode 6 of Jigokuraku (Dub) is out!</description>
-</item>
-
-<item>
-    <title>Tengoku Daimakyou (Dub) - Episode 8</title>
-    <link>https://gogoanime.vc/tengoku-daimakyou-dub-episode-8</link>
-    <description>Episode 8 of Tengoku Daimakyou (Dub) is out!</description>
 </item>
 
 </channel>
