@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>My Home Hero - Episode 10</title>
+    <link>https://animepahe.com/play/9a021834-a3bb-c817-ceeb-33ddd1ecdc03/fad83f3d7ece4fb628d57b3fbca0e9b6c4d8e7a553ce8e9580749f82c0c12745</link>
+    <description>Episode 10 of My Home Hero is out!</description>
+</item>
+
+<item>
     <title>Jijou wo Shiranai Tenkousei ga Guigui Kuru. - Episode 10</title>
     <link>https://animepahe.com/play/03d3ba7d-efd0-7927-bafd-a1d2a64b8765/3ec308a6b55fa279a0edf2b114653d2967ef909e63656d36b89b020bc69aab1c</link>
     <description>Episode 10 of Jijou wo Shiranai Tenkousei ga Guigui Kuru. is out!</description>
@@ -70,12 +76,6 @@
     <title>Jigokuraku - Episode 9</title>
     <link>https://animepahe.com/play/a6efbd04-6496-b9f9-bdea-c461025d0826/13adce513c160fc1c7cbf5a324ac8b2da4c9eb21ccff14a2e27601781f172818</link>
     <description>Episode 9 of Jigokuraku is out!</description>
-</item>
-
-<item>
-    <title>Tengoku Daimakyou - Episode 10</title>
-    <link>https://animepahe.com/play/80be28b2-2f3a-fc8a-df2f-5ce4d370bcd6/4ad06862ec091aad490b4cb72cc3dfbd1a6c9cb54fc11149a99d0bdb8dbd75d6</link>
-    <description>Episode 10 of Tengoku Daimakyou is out!</description>
 </item>
 
 </channel>
