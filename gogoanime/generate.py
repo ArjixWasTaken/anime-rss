@@ -1,6 +1,7 @@
 import requests
 import re
 import os
+import urllib3
 
 
 def get_latest_by_type(type=1):
@@ -11,11 +12,11 @@ def get_latest_by_type(type=1):
         'dnt': '1',
         'sec-ch-ua-mobile': '?0',
         'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36',
-        'origin': 'https://gogoanime.vc',
+        'origin': 'https://gogoanime.d',
         'sec-fetch-site': 'cross-site',
         'sec-fetch-mode': 'cors',
         'sec-fetch-dest': 'empty',
-        'referer': 'https://gogoanime.vc/',
+        'referer': 'https://gogoanime.d/',
     }
 
     params = (
@@ -32,25 +33,25 @@ def get_latest_by_type(type=1):
 
 
 def generate_rss_by_type(type=1):
-    types = ['(Sub)', '(Dub)', '(Chinese)']
+    types = 'sub'
     rss = f"""
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+            <?xml version="1.0" encoding="UTF-8" ?>
+            <rss version="2.0">
 
-<channel>
-<title>Gogoanime {types[type-1]} - RSS Feed</title>
-<link>https://github.com/ArjixGamer/anime-rss</link>
-<description>A simple RSS feed for gogoanime!</description>
-"""
+            <channel>
+            <title>Gogoanime {types} - RSS Feed</title>
+            <link>https://github.com/ArjixGamer/anime-rss</link>
+            <description>A simple RSS feed for gogoanime!</description>
+            """
 
     for item in get_latest_by_type(type):
         rss += """
-<item>
-    <title>{}</title>
-    <link>{}</link>
-    <description>{}</description>
-</item>
-""".format(f"{item[2]} - Episode {item[1]}", "https://gogoanime.vc" + item[0], f"Episode {item[1]} of {item[2]} is out!")
+                <item>
+                    <title>{}</title>
+                    <link>{}</link>
+                    <description>{}</description>
+                </item>
+                """.format(f"{item[2]} - Episode {item[1]}", "https://gogoanime.d" + item[0], f"Episode {item[1]} of {item[2]} is out!")
 
     rss += '\n</channel>\n</rss>'
     return rss
@@ -58,8 +59,6 @@ def generate_rss_by_type(type=1):
 
 types = {
     'sub': 1,
-    'dub': 2,
-    'chinese': 3
 }
 
 
@@ -70,5 +69,6 @@ try:
             os.remove(filename)
         with open(filename, 'w') as f:
             f.write(generate_rss_by_type(types[type_]).strip())
-except:
+except Exception as e:
+    # print(e)
     print('GogoAnime failed.')
