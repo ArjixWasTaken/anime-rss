@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Jigokuraku - Episode 11</title>
+    <link>https://animepahe.com/play/056b84b3-1c6c-78f7-2537-20b29d31d959/df21c54b4088b9fe6d0aa7cc3ddf4e87ae13a7797961c88b70c3a10e871ec01c</link>
+    <description>Episode 11 of Jigokuraku is out!</description>
+</item>
+
+<item>
     <title>Tengoku Daimakyou - Episode 12</title>
     <link>https://animepahe.com/play/144ccd49-b040-ec22-763b-01ffde495266/79bbd2031d213c969a7713fc011ae2017357634c241cac2174293510f1dc287a</link>
     <description>Episode 12 of Tengoku Daimakyou is out!</description>
@@ -70,12 +76,6 @@
     <title>Mashle - Episode 10</title>
     <link>https://animepahe.com/play/df5f7f62-0b0d-5b1b-d6ec-5c3733f91166/ebcf411d1241c1b67277f1bee8d065d18621b0b83019104aeca746a3efbcf335</link>
     <description>Episode 10 of Mashle is out!</description>
-</item>
-
-<item>
-    <title>Kawaisugi Crisis - Episode 11</title>
-    <link>https://animepahe.com/play/f6d04821-1d4a-4017-180f-27e82bb04581/caac7512cd93b6bd4ba3e146117ee6353986fc3e9d98b760f4d1f11b167522b0</link>
-    <description>Episode 11 of Kawaisugi Crisis is out!</description>
 </item>
 
 </channel>
