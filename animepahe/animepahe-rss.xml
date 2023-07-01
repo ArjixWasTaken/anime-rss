@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Ayaka - Episode 1</title>
+    <link>https://animepahe.com/play/ad08e022-464b-09e8-4dbd-ef174ed13191/8b9094595cba6cac2b03a5687f47a568f5a52926258295209d9e08abe7ab2019</link>
+    <description>Episode 1 of Ayaka is out!</description>
+</item>
+
+<item>
     <title>Edens Zero 2nd Season - Episode 39</title>
     <link>https://animepahe.com/play/e9a430d7-ebde-086f-5fec-ff6a4f47fa42/718da6ceba0040c9a1b5b1bac9954ef78b6d6d560305d924977cffab56fecc9f</link>
     <description>Episode 39 of Edens Zero 2nd Season is out!</description>
@@ -70,12 +76,6 @@
     <title>Majutsushi Orphen Hagure Tabi: Seiiki-hen - Episode 12</title>
     <link>https://animepahe.com/play/bdf91e72-923e-eb3a-2383-cbc9e8dc9aac/e21bdefb631fd2dab0165dd00b7984258fc8253eeb2ae3b9a494bfb85ea94499</link>
     <description>Episode 12 of Majutsushi Orphen Hagure Tabi: Seiiki-hen is out!</description>
-</item>
-
-<item>
-    <title>Aiyou de Mishi - Episode 13</title>
-    <link>https://animepahe.com/play/e97c461a-54fa-4074-3b24-594fc6c51790/b9dbff74883e3c8fc5a2d561cb79a61d040f423bff4995766a5d6b545417c853</link>
-    <description>Episode 13 of Aiyou de Mishi is out!</description>
 </item>
 
 </channel>
