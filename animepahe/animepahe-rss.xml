@@ -7,9 +7,15 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
-    <title>Liar Liar - Episode 1</title>
-    <link>https://animepahe.com/play/93c78f51-7661-ba2f-f4a9-e2e3387b0ed0/769a5807ca9db0e64789704466af69cc6e8966ee2585330e13583adcc88d2005</link>
-    <description>Episode 1 of Liar Liar is out!</description>
+    <title>Ayaka - Episode 2</title>
+    <link>https://animepahe.com/play/c178659c-59f6-7692-bebc-555d03dc39c4/2dfa261b17a9b1d3b56418f927de5e3a60c91d6344f9edb06848fc611ab1a01c</link>
+    <description>Episode 2 of Ayaka is out!</description>
+</item>
+
+<item>
+    <title>Liar Liar - Episode 2</title>
+    <link>https://animepahe.com/play/93c78f51-7661-ba2f-f4a9-e2e3387b0ed0/fd7dc2b9919615e42f6e7a28e5f3a20bdfb176175092dc1e71056000b13fcd5a</link>
+    <description>Episode 2 of Liar Liar is out!</description>
 </item>
 
 <item>
@@ -70,12 +76,6 @@
     <title>AI no Idenshi - Episode 1</title>
     <link>https://animepahe.com/play/acdd9167-d743-9ed8-47e1-eb71631bd11a/f445080276bdc59ea5674c6fee9e5dfb316df9becf25082be2fdab6176f8be27</link>
     <description>Episode 1 of AI no Idenshi is out!</description>
-</item>
-
-<item>
-    <title>Dekiru Neko wa Kyou mo Yuuutsu - Episode 1</title>
-    <link>https://animepahe.com/play/87c22aea-357c-8e50-1b9c-b65b9ea12cd2/79ce5303a23140b0d49e42de6d221f6f458bc850c41abc9a589817b38e140cb5</link>
-    <description>Episode 1 of Dekiru Neko wa Kyou mo Yuuutsu is out!</description>
 </item>
 
 </channel>
