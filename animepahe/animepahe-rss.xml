@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Yami Shibai 11 - Episode 1</title>
+    <link>https://animepahe.com/play/bec3007a-b3f7-5a12-e12d-ecb9eb00e209/63abc65c8eed146a07671ad1358b8312e190346d88386a09e4fc4bab25959fa3</link>
+    <description>Episode 1 of Yami Shibai 11 is out!</description>
+</item>
+
+<item>
     <title>Dark Gathering - Episode 1</title>
     <link>https://animepahe.com/play/e172d78b-5017-1ee0-d767-673b49d5ef5a/416f55f320c8e83a184977950520c5aab18a585d8d278a56ef6a26c82dd9ae1e</link>
     <description>Episode 1 of Dark Gathering is out!</description>
@@ -70,12 +76,6 @@
     <title>Ayaka - Episode 2</title>
     <link>https://animepahe.com/play/b6fde21f-1317-80a2-2ec6-385c52f58da9/381b9d88e33127796ec089bc990506d2bef2ca4ccbe689b683e227c18ca820ea</link>
     <description>Episode 2 of Ayaka is out!</description>
-</item>
-
-<item>
-    <title>Liar Liar - Episode 2</title>
-    <link>https://animepahe.com/play/c5257866-32c0-f1ee-7379-5ee59c243998/a52332de6d59319312d6f87e97a38185aa3469db77a3027aef71be16f1f25363</link>
-    <description>Episode 2 of Liar Liar is out!</description>
 </item>
 
 </channel>
