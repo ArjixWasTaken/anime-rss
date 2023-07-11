@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Helck - Episode 1</title>
+    <link>https://animepahe.com/play/ae2b13e1-b037-30b4-6ec7-4c0d2cc03947/3845fd6746ec233f88b870ba2bf19f89cb04b45752a2a9c0d81c9923485a9370</link>
+    <description>Episode 1 of Helck is out!</description>
+</item>
+
+<item>
     <title>Suki na Ko ga Megane wo Wasureta - Episode 2</title>
     <link>https://animepahe.com/play/8114c976-abd1-61e8-e547-61039c6b0993/0fa06cb91e1fa986f0fd0eecd8fc7a9d38b8b5a487a47dae3ae551be488be56c</link>
     <description>Episode 2 of Suki na Ko ga Megane wo Wasureta is out!</description>
@@ -70,12 +76,6 @@
     <title>Ao no Orchestra - Episode 14</title>
     <link>https://animepahe.com/play/e582f183-1986-4296-3b84-b847ac441ed2/81834e7366c78e2587d3be8273f48156436cf163ff21f9f21c619214a3158ace</link>
     <description>Episode 14 of Ao no Orchestra is out!</description>
-</item>
-
-<item>
-    <title>Chibi Maruko-chan - Episode 15</title>
-    <link>https://animepahe.com/play/8041cd07-c08d-5c93-4026-622e2d233819/d9bf35fc49bda43ca7cc3e0576a05b4ddfce0f1dbd0af1b71da02c45023b9979</link>
-    <description>Episode 15 of Chibi Maruko-chan is out!</description>
 </item>
 
 </channel>
