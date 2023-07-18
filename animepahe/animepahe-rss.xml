@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Helck - Episode 2</title>
+    <link>https://animepahe.com/play/10bbfd9d-64c1-229a-17d8-02f9f6d0146d/9cfe366bb66053e5b6671779c333e516771de171c869453a997d096443601936</link>
+    <description>Episode 2 of Helck is out!</description>
+</item>
+
+<item>
     <title>Suki na Ko ga Megane wo Wasureta - Episode 3</title>
     <link>https://animepahe.com/play/3b54039c-9f44-7fcc-9630-596c4ec35139/8af6f15f07a626d44cd673ea58efe50552e5520a74f716bf415d09d3ac4e2c9a</link>
     <description>Episode 3 of Suki na Ko ga Megane wo Wasureta is out!</description>
@@ -70,12 +76,6 @@
     <title>Ao no Orchestra - Episode 15</title>
     <link>https://animepahe.com/play/51e8a98f-895f-2cf1-8c2a-e2279e44bace/29a2a91547821014e4096f07baa0e6ac0116d0897424ca712a10d29773b170c4</link>
     <description>Episode 15 of Ao no Orchestra is out!</description>
-</item>
-
-<item>
-    <title>Yami Shibai 11 - Episode 2</title>
-    <link>https://animepahe.com/play/87680424-62b8-f5cc-fdd1-e6cee3194f56/cb6992ca1dc573a108a8aa0df85bad00d70c09282687ae81acff02b8e6429f16</link>
-    <description>Episode 2 of Yami Shibai 11 is out!</description>
 </item>
 
 </channel>
