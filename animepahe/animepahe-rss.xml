@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Ayaka - Episode 5</title>
+    <link>https://animepahe.com/play/584283b0-1a02-fa20-a3ea-1a3f05e4bb6a/244a8e2c4a376ed8e85f13a11d30692400daa6ddf55815c2bf557312a63e0c78</link>
+    <description>Episode 5 of Ayaka is out!</description>
+</item>
+
+<item>
     <title>Edens Zero 2nd Season - Episode 43</title>
     <link>https://animepahe.com/play/a25c3886-84d5-7bab-3e10-b90b64549441/ce84b8a5b534496093fbe0c38a2ea5e34eb0bea4a9f17c749cc28a7172a58b6d</link>
     <description>Episode 43 of Edens Zero 2nd Season is out!</description>
@@ -70,12 +76,6 @@
     <title>Shadowverse Flame - Episode 54</title>
     <link>https://animepahe.com/play/a1740b0f-62f0-52d4-069c-e09f256e4c65/692e1d24713af372c1898f47e57365bafe0107533dcfa07222603b5d05f79b1e</link>
     <description>Episode 54 of Shadowverse Flame is out!</description>
-</item>
-
-<item>
-    <title>Pokemon (2023) - Episode 15</title>
-    <link>https://animepahe.com/play/ebd17937-0afc-a243-9d54-30ce1b15182b/a4f7a0d76035e6eefec235e8846ee6ee6342c1919c82cf9cbbed16b1b35618e1</link>
-    <description>Episode 15 of Pokemon (2023) is out!</description>
 </item>
 
 </channel>
