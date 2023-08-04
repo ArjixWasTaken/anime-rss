@@ -7,6 +7,12 @@
 <description>A simple RSS feed for gogoanime!</description>
 
 <item>
+    <title>Elysium - Episode 1</title>
+    <link>https://gogoanime.vc/elysium-episode-1</link>
+    <description>Episode 1 of Elysium is out!</description>
+</item>
+
+<item>
     <title>Ninjala - Episode 79</title>
     <link>https://gogoanime.vc/ninjala-episode-79</link>
     <description>Episode 79 of Ninjala is out!</description>
@@ -118,12 +124,6 @@
     <title>Odekake Kozame - Episode 1</title>
     <link>https://gogoanime.vc/odekake-kozame-episode-1</link>
     <description>Episode 1 of Odekake Kozame is out!</description>
-</item>
-
-<item>
-    <title>Helck - Episode 4</title>
-    <link>https://gogoanime.vc/helck-episode-4</link>
-    <description>Episode 4 of Helck is out!</description>
 </item>
 
 </channel>
