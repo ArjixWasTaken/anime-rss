@@ -7,6 +7,12 @@
 <description>A simple RSS feed for gogoanime!</description>
 
 <item>
+    <title>Bosanimal - Episode 1</title>
+    <link>https://gogoanime.vc/bosanimal-episode-1</link>
+    <description>Episode 1 of Bosanimal is out!</description>
+</item>
+
+<item>
     <title>Okashi na Tensei - Episode 9</title>
     <link>https://gogoanime.vc/okashi-na-tensei-episode-9</link>
     <description>Episode 9 of Okashi na Tensei is out!</description>
@@ -118,12 +124,6 @@
     <title>One Piece - Episode 1073</title>
     <link>https://gogoanime.vc/one-piece-episode-1073</link>
     <description>Episode 1073 of One Piece is out!</description>
-</item>
-
-<item>
-    <title>Hirogaru Sky! Precure - Episode 29</title>
-    <link>https://gogoanime.vc/hirogaru-sky-precure-episode-29</link>
-    <description>Episode 29 of Hirogaru Sky! Precure is out!</description>
 </item>
 
 </channel>
