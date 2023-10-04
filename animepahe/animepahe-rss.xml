@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Bullbuster - Episode 1</title>
+    <link>https://animepahe.com/play/f86ced76-a082-cdc3-1d0c-fea64d26ed4d/c5fc86b9834aedc44a67374f13cda0991d4a5fe640d0433c48879805591ddb7d</link>
+    <description>Episode 1 of Bullbuster is out!</description>
+</item>
+
+<item>
     <title>Seijo no Maryoku wa Bannou desu 2nd Season - Episode 1</title>
     <link>https://animepahe.com/play/770f9705-ef37-d64e-e328-8b4d180bc666/c1f9a542b93bbb7d42cd2c18226041041443fea2c777de93951102ca20b16c2a</link>
     <description>Episode 1 of Seijo no Maryoku wa Bannou desu 2nd Season is out!</description>
@@ -70,12 +76,6 @@
     <title>Migi to Dali - Episode 1</title>
     <link>https://animepahe.com/play/eac7cf25-99a9-9557-1704-8a8fd802a26d/489ad3f1b1d52c8e991652534e69988cef37f8748c7708008a3029b071692c77</link>
     <description>Episode 1 of Migi to Dali is out!</description>
-</item>
-
-<item>
-    <title>FLCL: Shoegaze - Episode 1</title>
-    <link>https://animepahe.com/play/a1ea3340-2c8e-b4f0-8847-6defa46d2448/84c0e797e1a0f5c0b988afbcafb234d187c0b722652acaa31c503c2d7f9f851c</link>
-    <description>Episode 1 of FLCL: Shoegaze is out!</description>
 </item>
 
 </channel>
