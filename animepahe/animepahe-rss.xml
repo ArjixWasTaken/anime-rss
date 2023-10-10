@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>"Oshi no Ko" - Episode 1</title>
+    <link>https://animepahe.com/play/6f13e646-6c5c-c827-6de5-a5263d05f996/8f81f819d334c668e3c196b8cd907ef37a396c12237d0eb2621621c2ee4b73ff</link>
+    <description>Episode 1 of "Oshi no Ko" is out!</description>
+</item>
+
+<item>
     <title>B-Project: Netsuretsu*Love Call - Episode 2</title>
     <link>https://animepahe.com/play/61f2047f-2d3f-7efc-6eb1-6c8da5d1d2a5/4a38cf96cfd38a888f1f5a99e90ab6baf38d0e8fd201d55db1518334fa7b7f04</link>
     <description>Episode 2 of B-Project: Netsuretsu*Love Call is out!</description>
@@ -70,12 +76,6 @@
     <title>Ao no Orchestra - Episode 24</title>
     <link>https://animepahe.com/play/a4812359-28f6-547a-38ed-bea8f904be42/6c68bae15c497f44ce03ab85f33eec1a79598e608fa56a73a4d9de1ec800f62d</link>
     <description>Episode 24 of Ao no Orchestra is out!</description>
-</item>
-
-<item>
-    <title>Dark Gathering - Episode 14</title>
-    <link>https://animepahe.com/play/287f465e-049f-3352-880a-c5a2e76156b3/92a329570637d49ecf5e71bc1cfcfadae397331441b961ba88c20d8976fb2017</link>
-    <description>Episode 14 of Dark Gathering is out!</description>
 </item>
 
 </channel>
