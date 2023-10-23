@@ -7,6 +7,12 @@
 <description>A simple RSS feed for gogoanime!</description>
 
 <item>
+    <title>Bikkurimen - Episode 1</title>
+    <link>https://gogoanime.vc/bikkurimen-episode-1</link>
+    <description>Episode 1 of Bikkurimen is out!</description>
+</item>
+
+<item>
     <title>Akuma-kun - Episode 5</title>
     <link>https://gogoanime.vc/akuma-kun-episode-5</link>
     <description>Episode 5 of Akuma-kun is out!</description>
@@ -118,12 +124,6 @@
     <title>Bokura no Ameiro Protocol - Episode 3</title>
     <link>https://gogoanime.vc/bokura-no-ameiro-protocol-episode-3</link>
     <description>Episode 3 of Bokura no Ameiro Protocol is out!</description>
-</item>
-
-<item>
-    <title>Potion-danomi de Ikinobimasu! - Episode 3</title>
-    <link>https://gogoanime.vc/potion-danomi-de-ikinobimasu-episode-3</link>
-    <description>Episode 3 of Potion-danomi de Ikinobimasu! is out!</description>
 </item>
 
 </channel>
