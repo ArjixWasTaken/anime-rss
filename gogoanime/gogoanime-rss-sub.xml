@@ -7,6 +7,12 @@
 <description>A simple RSS feed for gogoanime!</description>
 
 <item>
+    <title>The iDOLM@STER Million Live! - Episode 6</title>
+    <link>https://gogoanime.vc/the-idolmster-million-live-episode-6</link>
+    <description>Episode 6 of The iDOLM@STER Million Live! is out!</description>
+</item>
+
+<item>
     <title>One Piece - Episode 1083</title>
     <link>https://gogoanime.vc/one-piece-episode-1083</link>
     <description>Episode 1083 of One Piece is out!</description>
@@ -118,12 +124,6 @@
     <title>Detective Conan - Episode 1103</title>
     <link>https://gogoanime.vc/detective-conan-episode-1103</link>
     <description>Episode 1103 of Detective Conan is out!</description>
-</item>
-
-<item>
-    <title>Paul no Miracle Daisakusen - Episode 32</title>
-    <link>https://gogoanime.vc/paul-no-miracle-daisakusen-episode-32</link>
-    <description>Episode 32 of Paul no Miracle Daisakusen is out!</description>
 </item>
 
 </channel>
