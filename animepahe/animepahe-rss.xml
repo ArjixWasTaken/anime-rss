@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Helck - Episode 22</title>
+    <link>https://animepahe.com/play/3080c0ec-acc5-28eb-a342-4eec1bd2a312/533bbd32a00e09f204b4a5b671de75f0e3fe9bb5f5168c65d41a5a07859f6545</link>
+    <description>Episode 22 of Helck is out!</description>
+</item>
+
+<item>
     <title>Paradox Live the Animation - Episode 9</title>
     <link>https://animepahe.com/play/1aa33e08-fbd7-0750-d2c8-f080ddd5a76b/62e0e58feeb672cfb51ba9b1141afafa095857137919e2762cb2dddf93ede257</link>
     <description>Episode 9 of Paradox Live the Animation is out!</description>
@@ -70,12 +76,6 @@
     <title>Migi to Dali - Episode 10</title>
     <link>https://animepahe.com/play/a82fe4e4-725c-db38-5d69-326be4a0d15f/8030632c70092c86244f62cb9dfce2f6bc58452d39c944602bbbc873a93657b7</link>
     <description>Episode 10 of Migi to Dali is out!</description>
-</item>
-
-<item>
-    <title>Hoshikuzu Telepath - Episode 9</title>
-    <link>https://animepahe.com/play/472df424-6f4a-6a04-52a1-51f79f2ff099/147569353ea3059470fb84f4e21235aabae90483afb51c3f40ec0c0735b86862</link>
-    <description>Episode 9 of Hoshikuzu Telepath is out!</description>
 </item>
 
 </channel>
