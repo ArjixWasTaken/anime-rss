@@ -7,6 +7,12 @@
 <description>A simple RSS feed for gogoanime!</description>
 
 <item>
+    <title>Under Ninja - Episode 10</title>
+    <link>https://gogoanime.vc/under-ninja-episode-10</link>
+    <description>Episode 10 of Under Ninja is out!</description>
+</item>
+
+<item>
     <title>Chiikawa - Episode 69</title>
     <link>https://gogoanime.vc/chiikawa-episode-69</link>
     <description>Episode 69 of Chiikawa is out!</description>
@@ -118,12 +124,6 @@
     <title>Beyblade X - Episode 9</title>
     <link>https://gogoanime.vc/beyblade-x-episode-9</link>
     <description>Episode 9 of Beyblade X is out!</description>
-</item>
-
-<item>
-    <title>Doku Tenshi no Shippo - Episode 4</title>
-    <link>https://gogoanime.vc/doku-tenshi-no-shippo-episode-4</link>
-    <description>Episode 4 of Doku Tenshi no Shippo is out!</description>
 </item>
 
 </channel>
