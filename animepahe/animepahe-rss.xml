@@ -7,6 +7,12 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Gekkan Mousou Kagaku - Episode 1</title>
+    <link>https://animepahe.com/play/45935da0-e089-a7d8-cecc-f948c7401ed9/d99f8cfa7f26edccadc40e47f3efa62c84d5f162a18cb3df85e6ad121459bc23</link>
+    <description>Episode 1 of Gekkan Mousou Kagaku is out!</description>
+</item>
+
+<item>
     <title>Mato Seihei no Slave - Episode 2</title>
     <link>https://animepahe.com/play/27d2d0b5-fd84-62bb-2f02-772430eae6a9/9075d9c850d291843bc3bb6cf6b1b4a86d0ee5a80bf992fd55ea8bec12566fec</link>
     <description>Episode 2 of Mato Seihei no Slave is out!</description>
@@ -70,12 +76,6 @@
     <title>Nanatsu no Taizai: Mokushiroku no Yonkishi - Episode 12</title>
     <link>https://animepahe.com/play/89938df8-ec19-416b-ceb0-873651deb209/1c4ccec83aa6f03507d825af5848d79761a03c66d5644ed8a50e9ce0f3007c53</link>
     <description>Episode 12 of Nanatsu no Taizai: Mokushiroku no Yonkishi is out!</description>
-</item>
-
-<item>
-    <title>Himesama "Goumon" no Jikan desu - Episode 1</title>
-    <link>https://animepahe.com/play/03cccb10-b6c9-a545-a05c-c6198026d0fc/dab8f45823d84b3220b0f8493cbf468694aff98a6bd7f740f62a0438f0c56e41</link>
-    <description>Episode 1 of Himesama "Goumon" no Jikan desu is out!</description>
 </item>
 
 </channel>
