@@ -7,6 +7,12 @@
 <description>A simple RSS feed for gogoanime!</description>
 
 <item>
+    <title>Taigu Xing Shen Jue - Episode 1</title>
+    <link>https://gogoanime.vc/taigu-xing-shen-jue-episode-1</link>
+    <description>Episode 1 of Taigu Xing Shen Jue is out!</description>
+</item>
+
+<item>
     <title>No.1 Player - Episode 53</title>
     <link>https://gogoanime.vc/no-1-player-episode-53</link>
     <description>Episode 53 of No.1 Player is out!</description>
@@ -118,12 +124,6 @@
     <title>Sheng Zu - Episode 2</title>
     <link>https://gogoanime.vc/sheng-zu-episode-2</link>
     <description>Episode 2 of Sheng Zu is out!</description>
-</item>
-
-<item>
-    <title>Chaos Sword God Season 2 - Episode 10</title>
-    <link>https://gogoanime.vc/chaos-sword-god-season-2-episode-10</link>
-    <description>Episode 10 of Chaos Sword God Season 2 is out!</description>
 </item>
 
 </channel>
